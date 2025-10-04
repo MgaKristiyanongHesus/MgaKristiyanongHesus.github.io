@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mga Kristiyanong Hesus</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://Mga-Kristiyanong-Hesus.github.io/tags/</link>
     <description>Recent content in Tags on Mga Kristiyanong Hesus</description>
     <generator>Hugo</generator>
     <language>tl</language>
     <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Mga-Kristiyanong-Hesus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mga Turo Ni Hesus</title>
-      <link>http://localhost:1313/tags/mga-turo-ni-hesus/</link>
+      <link>https://Mga-Kristiyanong-Hesus.github.io/tags/mga-turo-ni-hesus/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mga-turo-ni-hesus/</guid>
+      <guid>https://Mga-Kristiyanong-Hesus.github.io/tags/mga-turo-ni-hesus/</guid>
       <description></description>
     </item>
     <item>
       <title>Positibo</title>
-      <link>http://localhost:1313/tags/positibo/</link>
+      <link>https://Mga-Kristiyanong-Hesus.github.io/tags/positibo/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/positibo/</guid>
+      <guid>https://Mga-Kristiyanong-Hesus.github.io/tags/positibo/</guid>
       <description></description>
     </item>
   </channel>
