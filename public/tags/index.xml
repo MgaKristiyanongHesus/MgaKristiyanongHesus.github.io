@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mga Kristiyanong Hesus</title>
-    <link>https://MgaKristiyanongHesus.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Mga Kristiyanong Hesus</description>
     <generator>Hugo</generator>
     <language>tl</language>
     <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://MgaKristiyanongHesus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ang Hukbo Na Birhen</title>
-      <link>https://MgaKristiyanongHesus.github.io/tags/ang-hukbo-na-birhen/</link>
+      <link>http://localhost:1313/tags/ang-hukbo-na-birhen/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/tags/ang-hukbo-na-birhen/</guid>
+      <guid>http://localhost:1313/tags/ang-hukbo-na-birhen/</guid>
       <description></description>
     </item>
     <item>
       <title>Ang Kaharian Ng Langit</title>
-      <link>https://MgaKristiyanongHesus.github.io/tags/ang-kaharian-ng-langit/</link>
+      <link>http://localhost:1313/tags/ang-kaharian-ng-langit/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/tags/ang-kaharian-ng-langit/</guid>
+      <guid>http://localhost:1313/tags/ang-kaharian-ng-langit/</guid>
       <description></description>
     </item>
     <item>
       <title>Doktrina</title>
-      <link>https://MgaKristiyanongHesus.github.io/tags/doktrina/</link>
+      <link>http://localhost:1313/tags/doktrina/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/tags/doktrina/</guid>
+      <guid>http://localhost:1313/tags/doktrina/</guid>
       <description></description>
     </item>
     <item>
       <title>Magpropesiya</title>
-      <link>https://MgaKristiyanongHesus.github.io/tags/magpropesiya/</link>
+      <link>http://localhost:1313/tags/magpropesiya/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/tags/magpropesiya/</guid>
+      <guid>http://localhost:1313/tags/magpropesiya/</guid>
       <description></description>
     </item>
     <item>
       <title>Mga Turo Ni Hesus</title>
-      <link>https://MgaKristiyanongHesus.github.io/tags/mga-turo-ni-hesus/</link>
+      <link>http://localhost:1313/tags/mga-turo-ni-hesus/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/tags/mga-turo-ni-hesus/</guid>
+      <guid>http://localhost:1313/tags/mga-turo-ni-hesus/</guid>
       <description></description>
     </item>
     <item>
       <title>Patnubay</title>
-      <link>https://MgaKristiyanongHesus.github.io/tags/patnubay/</link>
+      <link>http://localhost:1313/tags/patnubay/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/tags/patnubay/</guid>
+      <guid>http://localhost:1313/tags/patnubay/</guid>
       <description></description>
     </item>
     <item>
       <title>Positibo</title>
-      <link>https://MgaKristiyanongHesus.github.io/tags/positibo/</link>
+      <link>http://localhost:1313/tags/positibo/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/tags/positibo/</guid>
+      <guid>http://localhost:1313/tags/positibo/</guid>
       <description></description>
     </item>
     <item>
       <title>Relihiyon</title>
-      <link>https://MgaKristiyanongHesus.github.io/tags/relihiyon/</link>
+      <link>http://localhost:1313/tags/relihiyon/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/tags/relihiyon/</guid>
+      <guid>http://localhost:1313/tags/relihiyon/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Positibo on Mga Kristiyanong Hesus</title>
-    <link>https://MgaKristiyanongHesus.github.io/tags/positibo/</link>
+    <link>http://localhost:1313/tags/positibo/</link>
     <description>Recent content in Positibo on Mga Kristiyanong Hesus</description>
     <generator>Hugo</generator>
     <language>tl</language>
     <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://MgaKristiyanongHesus.github.io/tags/positibo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/positibo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Pain No Gain</title>
-      <link>https://MgaKristiyanongHesus.github.io/blog/no-pain-no-gain/</link>
+      <link>http://localhost:1313/blog/no-pain-no-gain/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/blog/no-pain-no-gain/</guid>
+      <guid>http://localhost:1313/blog/no-pain-no-gain/</guid>
       <description>&lt;p&gt;Sa mga unang taon ng aming komunidad, kaming lahat ay aktibong lumalahok sa mga fun runs. Ang mga mas seryosong atleta ay madalas na sinasabi, “No pain, no gain”. Minsan namangha ako sa tindi ng disiplina ng ilang mga atleta upang maging mahusay sa kanilang isport. Araw-araw ay ginugugol nila ang maraming oras sa paghubog ng kanilang pisikal na lakas, bilis, at tibay. Upang maging mahusay, kinailangan nilang makalampas sa tinatawag na &amp;ldquo;the pain barrier&amp;rdquo;. Ngunit kapag nagtagumpay sila, lalabas sila sa kabilang bahagi bilang mga nagwagi.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ngiti, Mahal Ka ng Diyos!</title>
-      <link>https://MgaKristiyanongHesus.github.io/blog/ngiti-mahal-ka-ng-diyos/</link>
+      <link>http://localhost:1313/blog/ngiti-mahal-ka-ng-diyos/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://MgaKristiyanongHesus.github.io/blog/ngiti-mahal-ka-ng-diyos/</guid>
+      <guid>http://localhost:1313/blog/ngiti-mahal-ka-ng-diyos/</guid>
       <description>&lt;p&gt;Mayroong mas malaking kasalanan kaysa sa pagsuway sa Diyos; ito’y ang kasalanan ng hindi naniniwala na mahal ka niya.&lt;/p&gt;</description>
     </item>
   </channel>
