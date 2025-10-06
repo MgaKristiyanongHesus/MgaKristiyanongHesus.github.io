@@ -59,6 +59,18 @@
     <loc>http://localhost:1313/tags/doktrina/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ekonomiya/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/isang-bagong-patakarang-pang-ekonomiya/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mabuhay-sa-pananalig/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/mabuhay-sa-pananalig---paano-ito-gawin/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/magpropesiya/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -138,18 +150,6 @@
                 href="http://localhost:1313/elements/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="http://localhost:1313/about/"
-                />
-  </url><url>
     <loc>http://localhost:1313/authors/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -160,6 +160,18 @@
                 rel="alternate"
                 hreflang="tl"
                 href="http://localhost:1313/authors/john-doe/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tl"
+                href="http://localhost:1313/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/pages/</loc>
