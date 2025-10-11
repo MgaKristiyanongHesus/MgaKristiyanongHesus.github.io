@@ -1,0 +1,27 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $link := .Get "link" -}}
+{{- $target := .Get "target" | default "_self" -}}
+{{- $width := .Get "width" -}}
+{{- $height := .Get "height" -}}
+{{- $class := .Get "class" -}}
+
+{{- if $src }}
+  {{- $img := resources.Get $src }}
+  {{- if $img }}
+    {{- if and $width $height }}
+      {{- $img = $img.Fit (printf "%sx%s" $width $height) }}
+    {{- else if $width }}
+      {{- $img = $img.Resize (printf "%sx" $width) }}
+    {{- else if $height }}
+      {{- $img = $img.Resize (printf "x%s" $height) }}
+    {{- end }}
+    {{- if $link }}
+      <a href="{{ $link }}" target="{{ $target }}">
+        <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" class="{{ $class }}">
+      </a>
+    {{- else }}
+      <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" class="{{ $class }}">
+    {{- end }}
+  {{- end }}
+{{- end }}

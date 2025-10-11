@@ -126,6 +126,8 @@
                 href="http://localhost:1313/authors/"
                 />
   </url><url>
+    <loc>http://localhost:1313/comics/</loc>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -138,8 +140,6 @@
                 href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/faq/</loc>
-  </url><url>
     <loc>http://localhost:1313/elements/</loc>
     <xhtml:link
                 rel="alternate"
@@ -151,6 +151,8 @@
                 hreflang="tl"
                 href="http://localhost:1313/elements/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/faq/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/john-doe/</loc>
     <xhtml:link
