@@ -13,9 +13,9 @@ banner:
 # Features
 features:
 
-  - title: "Mga Kategoryo ng Artikulo ng Mga Kristiyanong Hesus"
+  - title: "Gabay sa site"
     image: "/images/service-1.png"
-    content: "We have articles covering a wide range of topics from the spiritual to the more practical aspects of following Jesus on our 'Blog' and 'Mga Aral' sections."
+    content: "This sites for all who want to grow in their faith and follow Jesus with all their heart, soul, mind, and strength. Feel free to check out the various articles, videos, and comics we've produced that we believe will help you grow closer to Jesus and his teachings."
     bulletpoints:
       - ""
       - "95+ Google Pagespeed Score"
@@ -23,10 +23,6 @@ features:
       - "Fully responsive on all devices"
       - "SEO-optimized for better search engine rankings"
       - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: 
-      label: "Get Started Now"
-      link: "https://www.youtube.com/watch?v=vq47I05h1tQ&list=PLSWJU8S4WD3iP75rwCw3a12zhM1KOTlxp&index=2"
 
   - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
     image: "/images/service-3.png"
