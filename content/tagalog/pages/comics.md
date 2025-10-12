@@ -44,7 +44,7 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
     src="images/comics/THISishow.jpg"
     height="400"
     alt="This is How it Ends"
-    link="https://drive.google.com/file/d/19XSOQP7d_phLLQ0fTa7kQOBHH9uuE2hN/view?usp=drive_link"
+    link="https://drive.google.com/file/d/145YgKT6eakWy0lx5CZh7LQcPFCGIW1TZ/view?usp=drive_link"
     target="_blank"
 >}}
 

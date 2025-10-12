@@ -43,6 +43,9 @@
                 href="http://localhost:1313/blog/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/badyet-iskedyul-at-listahan-ng-mga-gawain/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -74,6 +77,9 @@
     <loc>http://localhost:1313/tags/magpropesiya/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/mahirap-na-katotohanan/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/mga-magagaan-na-doktrina/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,10 +92,19 @@
     <loc>http://localhost:1313/blog/ngiti-mahal-ka-ng-diyos/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/pag-aaral-upang-makita/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/pakikinig-sa-bagay-na-ayaw-nating-pakinggan/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/patnubay/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/positibo/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/praktikal/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/relihiyon/</loc>
