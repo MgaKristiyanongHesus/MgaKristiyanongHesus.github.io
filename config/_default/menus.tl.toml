@@ -77,6 +77,11 @@ name = "About"
 url = "/about"
 weight = 1
 
+[[footer]]
+name = "Contact Us"
+url = "/contact"
+weight = 2
+
 # [[footer]]
 # name = "Elements"
 # url = "/elements"
