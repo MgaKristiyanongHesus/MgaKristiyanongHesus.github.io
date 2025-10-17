@@ -15,6 +15,12 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/anong-gagawin-ng-isang-huwad-na-hesus/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/ang-espiritu-ni-kristo/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/ang-hukbo-na-birhen-/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,7 +33,16 @@
     <loc>http://localhost:1313/blog/ang-kaharian-ng-langit-o-relihiyon/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/ang-mabuting-hindu/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/ang-mito-ng-paggawa-ng-tolda/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/ang-nangungunang-apatnapu-mga-utos-ni-jesus/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/ang-prinsipyo-na-talikuran-lahat/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
@@ -65,7 +80,19 @@
     <loc>http://localhost:1313/tags/ekonomiya/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/hesus/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/isang-bagong-patakarang-pang-ekonomiya/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/karunungan/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/karunungan/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/kasing-tigas-ng-isang-bato/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mabuhay-sa-pananalig/</loc>
@@ -101,6 +128,9 @@
     <loc>http://localhost:1313/tags/patnubay/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/pera/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/positibo/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -108,6 +138,9 @@
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/relihiyon/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/si-hesus-at-pera/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/subukan-ang-mga-espiritu/</loc>
@@ -125,6 +158,12 @@
                 hreflang="tl"
                 href="http://localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blog/talikuran-lahat/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tiyak-hindi-lahat-ng-kasamaan/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/top-forty/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>

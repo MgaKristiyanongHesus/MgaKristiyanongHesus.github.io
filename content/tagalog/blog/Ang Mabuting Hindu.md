@@ -6,8 +6,8 @@ date: 2025-09-29T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Top Forty"]
 author: ""
-tags: ["Mga Turo Ni Hesus"]
-draft: true
+tags: ["Mga Turo Ni Hesus", "Mahirap Na Katotohanan"]
+draft: false
 ---
 Tinanong ng isang relihiyosong tao si Jesus, "Ano ang gagawin ko upang magkaroon ng buhay na walang hanggan?"  
   

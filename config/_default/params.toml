@@ -65,7 +65,6 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 keywords = ["Teachings of Jesus", "Mga Kristiyanong Hesus", "Simbahan"]
 description = "A community focused on living out the teachings of Jesus in our day to day lives here in the Philippines."
 author = "ReachTheWholeWorld"
-twitter = "zeon_studio"
 image = "images/og-image.png"
 
 
