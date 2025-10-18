@@ -92,3 +92,4 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
 
 Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.
 
+[Learn how to print the NEP yourself by clicking here.](https://drive.google.com/file/d/1ZkytQ_FQjm6vS-ZTu73vovcbFJAX20U4/view?usp=sharing)

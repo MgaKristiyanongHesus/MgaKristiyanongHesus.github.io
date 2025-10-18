@@ -113,5 +113,12 @@
       <guid>http://localhost:1313/tags/relihiyon/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Teolohiya</title>
+      <link>http://localhost:1313/tags/teolohiya/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/teolohiya/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
