@@ -3,7 +3,7 @@ title: "Ang Kaharian ng Langit o Relihiyon?"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/articles/KOHOrReli.webp"
 categories: ["Top Forty"]
 author: ""
 tags: ["Ang Kaharian ng Langit", "Relihiyon"]

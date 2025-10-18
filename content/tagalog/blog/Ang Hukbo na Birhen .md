@@ -3,7 +3,7 @@ title: "Ang Hukbo na Birhen"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/articles/VirginA.webp"
 categories: ["Top Forty"]
 author: ""
 tags: ["Ang Hukbo na Birhen", "Magpropesiya"]

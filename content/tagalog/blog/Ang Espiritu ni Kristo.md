@@ -3,7 +3,7 @@ title: "Ang Espiritu ni Kristo"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/articles/Spirit.webp"
 categories: ["Si Hesus at Pera"]
 author: ""
 tags: ["Doktrina"]

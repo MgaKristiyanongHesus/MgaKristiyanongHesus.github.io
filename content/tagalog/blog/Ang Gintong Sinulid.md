@@ -3,7 +3,7 @@ title: "Ang Gintong Sinulid"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/articles/GThread.webp"
 categories: ["Mga Simbahan at Teolohiya"]
 author: ""
 tags: ["Doktrina", "Teolohiya", "Positibo"]

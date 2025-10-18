@@ -3,7 +3,7 @@ title: "Ang Mito ng Paggawa ng Tolda"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/articles/Tent.webp"
 categories: ["Si Hesus at Pera"]
 author: ""
 tags: ["Mga Turo Ni Hesus", "Mabuhay Sa Pananalig", "Pera", "Doktrina"]

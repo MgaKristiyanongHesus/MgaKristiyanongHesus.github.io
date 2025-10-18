@@ -3,7 +3,7 @@ title: "Ang Prinsipyo na Talikuran Lahat"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/articles/placeholder.webp"
 categories: ["Si Hesus at Pera"]
 author: ""
 tags: ["Mga Turo Ni Hesus", "Mabuhay Sa Pananalig", "Pera", "Praktikal"]
