@@ -14,11 +14,11 @@
           </h1>
           <ul class="mb-4">
             <li class="mr-4 inline-block">
-              <a
+              {{/*  <a
                 href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
                 <i class="fa-regular fa-circle-user mr-2"></i
                 >{{ .Params.author }}
-              </a>
+              </a>  */}}
             </li>
             {{ $categories:= .Params.categories }}
             {{ if $categories }}
@@ -41,7 +41,8 @@
             </li>
           </ul>
           <div class="content mb-10">
-            {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
+            {{/*  {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}  */}}
+            <hr>
             {{ .Content }}
           </div>
           <div class="row items-start justify-between">
@@ -68,11 +69,11 @@
             </div>
           </div>
           <!-- comments -->
-          {{ if site.Config.Services.Disqus.Shortname }}
+          {{/*  {{ if site.Config.Services.Disqus.Shortname }}
             <div class="mt-20">
               {{ template "_internal/disqus.html" . }}
             </div>
-          {{ end }}
+          {{ end }}  */}}
         </article>
       </div>
 

@@ -169,16 +169,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="http://localhost:1313/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/privacy-policy/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/authors/sam-wilson/</loc>
     <xhtml:link

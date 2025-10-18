@@ -12,7 +12,7 @@
       <link>http://localhost:1313/comics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/comics/</guid>
-      <description>&lt;h2 id=&#34;comics&#34;&gt;Comics&lt;/h2&gt;&#xA;&lt;br&gt;&#xA;&lt;h5 id=&#34;far-from-ordinary&#34;&gt;Far From Ordinary&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/1KPZtohIqp7sypJe_eSWhgSS_hPXxUy7V/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/FARFrom_hu_5cbd188767130ca.jpg&#34; alt=&#34;Far From Ordinary Magazine&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;p&gt;Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;comics&#34;&gt;Comics&lt;/h2&gt;&#xA;&lt;br&gt;&#xA;&lt;h5 id=&#34;far-from-ordinary&#34;&gt;Far From Ordinary&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/1KPZtohIqp7sypJe_eSWhgSS_hPXxUy7V/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/FARFrom_hu_f73a2b40ee31b8c3.webp&#34; alt=&#34;Far From Ordinary Magazine&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;p&gt;Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elements</title>
@@ -27,13 +27,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/faq/</guid>
       <description>&lt;h3 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;accordion &#34;&gt;&#xA;  &lt;button class=&#34;accordion-header &#34; data-accordion&gt;&#xA;    How are you different from other Christian groups?&#xA;    &lt;svg&#xA;      class=&#34;accordion-icon&#34;&#xA;      x=&#34;0px&#34;&#xA;      y=&#34;0px&#34;&#xA;      viewBox=&#34;0 0 512 512&#34;&#xA;      xmlspace=&#34;preserve&#34;&gt;&#xA;      &lt;path&#xA;        fill=&#34;currentColor&#34;&#xA;        d=&#34;M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&#xA;  &lt;/button&gt;&#xA;  &lt;div class=&#34;accordion-content &#34;&gt;&#xA;    &lt;p&gt;&lt;p&gt;&amp;ndash; We don&amp;rsquo;t teach anything that is unique, but we do put them together differently. For example:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
-      <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

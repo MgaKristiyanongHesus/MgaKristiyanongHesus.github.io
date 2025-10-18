@@ -13,7 +13,7 @@ draft: false
 
 
 {{< images
-    src="images/comics/FARFrom.jpg"
+    src="images/comics/FARFrom.webp"
     height="400"
     alt="Far From Ordinary Magazine"
     link="https://drive.google.com/file/d/1KPZtohIqp7sypJe_eSWhgSS_hPXxUy7V/view?usp=sharing"
@@ -27,7 +27,7 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
 ##### Liberated Poverty
 
 {{< images
-    src="images/comics/LIBPov.jpg"
+    src="images/comics/LIBPov.webp"
     height="400"
     alt="Liberated Poverty"
     link="https://drive.google.com/file/d/1gQvalDjfIXB5Ei-NQ7g2Fs_8STKYvbdf/view?usp=drive_link"
@@ -41,7 +41,7 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
 ##### This is How it Ends
 
 {{< images
-    src="images/comics/THISishow.jpg"
+    src="images/comics/THISishow.webp"
     height="400"
     alt="This is How it Ends"
     link="https://drive.google.com/file/d/145YgKT6eakWy0lx5CZh7LQcPFCGIW1TZ/view?usp=drive_link"
@@ -55,7 +55,7 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
 ##### Big Trouble, Easy Solution
 
 {{< images
-    src="images/comics/BIGTrob.jpg"
+    src="images/comics/BIGTrob.webp"
     height="400"
     alt="Big Trouble, Easy Solution"
     link="https://drive.google.com/file/d/19XSOQP7d_phLLQ0fTa7kQOBHH9uuE2hN/view?usp=drive_link"
@@ -69,7 +69,7 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
 ##### Ang Tagapagpalaya
 
 {{< images
-    src="images/comics/ANGTaga.jpg"
+    src="images/comics/ANGTaga.webp"
     height="400"
     alt="Ang Tagapagpalaya"
     link="https://drive.google.com/file/d/1-YkCEnOJOX4Fw63SD8dKi89XPZmq_sCh/view?usp=drive_link"
@@ -83,7 +83,7 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
 ##### New Economic Policy
 
 {{< images
-    src="images/comics/NEWEco.jpg"
+    src="images/comics/NEWEco.webp"
     height="400"
     alt="New Economic Policy"
     link="https://drive.google.com/file/d/1gZtSu9z0ZngyDhHu-ujHmNJNroZpuF-w/view?usp=drive_link"
