@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teolohiya on Mga Kristiyanong Hesus</title>
+    <link>http://localhost:1313/tags/teolohiya/</link>
+    <description>Recent content in Teolohiya on Mga Kristiyanong Hesus</description>
+    <generator>Hugo</generator>
+    <language>tl</language>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/teolohiya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mabuhay sa Pananalig</title>
+      <link>http://localhost:1313/blog/mabuhay-sa-pananalig/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mabuhay-sa-pananalig/</guid>
+      <description>&lt;p&gt;Ito ang pangatlo sa isang serye ng mga artikulo tungkol sa pagkakaiba-iba ng doktrina sa pagitan namin at ng The Family. Ang unang dalawang artikulo ay ang &amp;ldquo;Simpleng Kaligtasan&amp;rdquo; at &amp;ldquo;Walang Hanggang Kaligtasan&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
