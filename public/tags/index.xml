@@ -65,6 +65,20 @@
       <description></description>
     </item>
     <item>
+      <title>Inspirasyonal</title>
+      <link>http://localhost:1313/tags/inspirasyonal/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/inspirasyonal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kapangyarihan</title>
+      <link>http://localhost:1313/tags/kapangyarihan/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kapangyarihan/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Karunungan</title>
       <link>http://localhost:1313/tags/karunungan/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
@@ -83,6 +97,20 @@
       <link>http://localhost:1313/tags/konsensya/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/konsensya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kwento</title>
+      <link>http://localhost:1313/tags/kwento/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kwento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liham</title>
+      <link>http://localhost:1313/tags/liham/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/liham/</guid>
       <description></description>
     </item>
     <item>
@@ -128,6 +156,13 @@
       <description></description>
     </item>
     <item>
+      <title>Pag-Asa</title>
+      <link>http://localhost:1313/tags/pag-asa/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pag-asa/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pagkatakot</title>
       <link>http://localhost:1313/tags/pagkatakot/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
@@ -160,6 +195,13 @@
       <link>http://localhost:1313/tags/praktikal/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/praktikal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random</title>
+      <link>http://localhost:1313/tags/random/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/random/</guid>
       <description></description>
     </item>
     <item>

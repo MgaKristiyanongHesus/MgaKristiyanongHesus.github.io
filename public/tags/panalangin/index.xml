@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panalangin on Mga Kristiyanong Hesus</title>
+    <link>http://localhost:1313/tags/panalangin/</link>
+    <description>Recent content in Panalangin on Mga Kristiyanong Hesus</description>
+    <generator>Hugo</generator>
+    <language>tl</language>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/panalangin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mga Pagpupulong ng Panalangin</title>
+      <link>http://localhost:1313/blog/mga-pagpupulong-ng-panalangin/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mga-pagpupulong-ng-panalangin/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
