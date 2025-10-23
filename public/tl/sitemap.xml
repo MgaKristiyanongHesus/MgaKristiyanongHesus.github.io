@@ -15,6 +15,9 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/anarkiya-at-pasipismo/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/anong-gagawin-ng-isang-huwad-na-hesus/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -106,6 +109,9 @@
     <loc>http://localhost:1313/blog/badyet-iskedyul-at-listahan-ng-mga-gawain/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/bakit-may-labis-na-pag-uusig/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/balikan-ang-oras/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -144,6 +150,9 @@
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/isang-bagong-patakarang-pang-ekonomiya/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/isang-sulat-sa-isang-kaibigan/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/kamangha-manghang-biyaya/</loc>
@@ -230,6 +239,12 @@
     <loc>http://localhost:1313/categories/mga-oras-ng-pagtatapos-at-seks/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/mga-pagkakatulad-sa-mga-quaker/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/mga-pagpupulong-ng-panalangin/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/mga-palatandaan-ng-mga-panahon/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -269,6 +284,9 @@
     <loc>http://localhost:1313/tags/pag-asa/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/pag-uusig/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/pagkakataong-magnilay-habang-walang-tumutuligsa/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -284,7 +302,13 @@
     <loc>http://localhost:1313/categories/pamumuno/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/panalangin/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/pasanin-ang-press-at-sumunod-sa-akin/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pasipismo/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/patnubay/</loc>
@@ -360,7 +384,13 @@
     <loc>http://localhost:1313/tags/vanity/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/walang-anumang-dungis/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/walang-mga-apo-ang-diyos/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/walong-paraan-upang-malaman-ang-kalooban-ng-diyos/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
