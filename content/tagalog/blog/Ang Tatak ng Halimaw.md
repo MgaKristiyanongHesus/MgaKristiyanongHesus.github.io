@@ -3,7 +3,7 @@ title: "Ang Tatak ng Halimaw"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/articles/placeholder.webp"
+image: "/images/articles/MarkofBeast.webp"
 categories: ["Mga Oras ng Pagtatapos at Seks"]
 author: ""
 tags: ["Ang Tatak ng Halimaw", "Magpropesiya"]

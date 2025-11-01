@@ -3,7 +3,7 @@ title: "Mga Palatandaan ng Mga Panahon"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/articles/placeholder.webp"
+image: "/images/articles/SignOfTimes.webp"
 categories: ["Mga Oras ng Pagtatapos at Seks"]
 author: ""
 tags: ["Magpropesiya"]
