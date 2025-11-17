@@ -3,7 +3,7 @@ title: "Bakit May Labis na Pag-uusig?"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
-image: "/images/articles/placeholder.webp"
+image: "/images/articles/quak/Persecution.webp"
 categories: ["Mga Pagkakatulad sa Mga Quaker"]
 author: ""
 tags: ["Pag-uusig"]
