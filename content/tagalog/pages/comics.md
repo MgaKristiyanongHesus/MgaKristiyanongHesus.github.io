@@ -1,14 +1,27 @@
 ---
-title: "Comics"
+title: "Mga Comics"
 meta_title: ""
 description: "This is meta description"
 draft: false
 ---
 
-## Comics
+## Mga Comics
 <br>
 
-##### Far From Ordinary
+##### A New Reality - (Tagalog Edition)
+
+
+{{< images
+    src="images/comics/ANRCover.webp"
+    height="400"
+    alt="A New Reality"
+    link="https://drive.google.com/file/d/10CRyeOIauy9Yfzze7_dCkOm_Qnjln_Ry/view?usp=drive_link"
+    target="_blank"
+>}}
+
+
+
+##### Far From Ordinary 
 
 
 
@@ -20,11 +33,10 @@ draft: false
     target="_blank"
 >}}
 
-Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.
 
 <br>
 
-##### Liberated Poverty
+##### Liberated Poverty - (Tagalog Edition)
 
 {{< images
     src="images/comics/LIBPov.webp"
@@ -34,11 +46,10 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
     target="_blank"
 >}}
 
-Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.
 
 <br>
 
-##### This is How it Ends
+##### This is How it Ends - (Tagalog Edition)
 
 {{< images
     src="images/comics/THISishow.webp"
@@ -48,11 +59,10 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
     target="_blank"
 >}}
 
-Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.
 
 <br>
 
-##### Big Trouble, Easy Solution
+##### Malaking Problema Madaling Solusyon
 
 {{< images
     src="images/comics/BIGTrob.webp"
@@ -62,7 +72,6 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
     target="_blank"
 >}}
 
-Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.
 
 <br>
 
@@ -76,11 +85,10 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
     target="_blank"
 >}}
 
-Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.
 
 <br>
 
-##### New Economic Policy
+##### Isang Bangong Patakaran Sa Ekonomica
 
 {{< images
     src="images/comics/NEWEco.webp"
@@ -90,6 +98,5 @@ Living a life style that few choose to live, in pursuit of love and fufillment r
     target="_blank"
 >}}
 
-Living a life style that few choose to live, in pursuit of love and fufillment rather than money or profit.
 
-[Learn how to print the NEP yourself by clicking here.](https://drive.google.com/file/d/1ZkytQ_FQjm6vS-ZTu73vovcbFJAX20U4/view?usp=sharing)
+[Alamin kung paano i-print ang NEP sa iyong sarili sa pamamagitan ng pag-click dito.](https://drive.google.com/file/d/1ZkytQ_FQjm6vS-ZTu73vovcbFJAX20U4/view?usp=sharing)

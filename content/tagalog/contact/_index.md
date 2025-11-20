@@ -6,9 +6,10 @@ draft: false
 ---
 
 
+<i class="fas fa-envelope" style="font-size:25px; margin-right:6px;"></i> ReachTheWholeWorld@gmail.com
 
-**Email:**  ReachTheWholeWorld@gmail.com
 
-**Facebook:**  [How to Live By Faith][1]
+<i class="fab fa-facebook-messenger" style="font-size:25px; margin-right:6px;"></i> [How to Live By Faith][1]
 
 [1]: https://www.facebook.com/HowToLiveByFaith/
+

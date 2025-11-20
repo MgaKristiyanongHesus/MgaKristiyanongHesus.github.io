@@ -1,0 +1,93 @@
+---
+title: "Mga Palatandaan ng Mga Panahon"
+meta_title: ""
+description: "this is meta description"
+date: 2025-09-29T00:00:00Z
+image: "/images/articles/SignOfTimes.webp"
+categories: ["Mga Oras ng Pagtatapos at Seks"]
+author: ""
+tags: ["Magpropesiya"]
+draft: false
+---
+
+**Digmaan at Kapayapaan**  
+  
+Ang mga digmaan ay ang pinaka karaniwang patunay naibigay na ang katapusan ng mundo ay papalapit na. Ngunit nabanggit ang mga ito nang espisipiko ni Kristo bilang patunay na ang katapusan ay hindi pa nadating: “Makakarinig kayo ng mga digmaan at mga bali’ balita ng mga digmaan. Ngunit huwag kayong mababahala dahil talagang mangyayari ang mga iyon, bagama't hindi pa iyon ang katapusan ng mundo.” ([Matthew 24:6](http://www.biblegateway.com/passage/index.php?search=Matthew+24%3A6;&version=50;&interface=print "Read Matthew 24:6"))  
+  
+Isang pagtaas ng bilang, lakas, at mga ‘bali’ balita’ (media coverage) ng mga digmaan ay talagang, gayunpaman, humahantong patungo sa isang internasyonal na pagmimithi para sa isang nag-iisang pandaigdigang pamahalaan upang matapos lahat ng mga digmaan. Tinatawag ni Jesus ang isang pagdami ng mga digmaan at natural na mga sakuna bilang ang ‘simula ng mga kapighatian’. ([Matthew 24:8](http://www.biblegateway.com/passage/index.php?search=Matthew+24%3A8;&version=50;&interface=print "Read Matthew 24:8"))  
+  
+Ang pandaigdigang pamahalaan na lumilitaw bilang pagtugon sa lahat ng mga sakunang ito ay magiging mas tunay na palatandaan na papalapit na ang katapusan. Ang magiging tatak nito ay isang hindi totoong ‘kapayapaan’, o panahon ng kasaganaan sa buong mundo. Ang propetang Hebreo na si Daniel ay nagsasabi tungkol sa isang huling pandaigdigang pinuno, “Siya ay mapayapang darating, at makakamit ang kapangyarihan sa pamamagitan ng pandaraya,” ([Daniel 11:21](http://www.biblegateway.com/passage/index.php?search=Daniel+11%3A21;&version=50;&interface=print "Read Daniel 11:21")) “At sa pamamagitan ng kapayapaan (o ng kasaganaan) marami siyang mapapatay” ([Daniel 8:25](http://www.biblegateway.com/passage/index.php?search=Daniel+8%3A25;&version=50;&interface=print "Read Daniel 8:25"))  
+  
+  
+**Mga Lindol, Mga Taggutom, & Mga Salot**  
+  
+Isa pang bahagi ng ‘simula ng mga kapighatian’ ay magiging ang natural na mga sakuna. Dalawa sa mga ito (mga lindol at mga taggutom) ay lubhang nadagdagan sa siglong ito, bagaman isang mas malubhang pagdagdag ay maaaring madadating pa lang. Ang ikatlong sakuna (mga salot) ay maaaring nagsisimula pa lamang, at ang AIDS ay maaari maging bahagi lamang nito.  
+  
+Ang mga sakunang ito ay maaaring magdulot sa isang pagtawag para sa isang global organisasyon upang labanan ang mga ito.  
+  
+  
+**Denominasyonalismo**  
+  
+Isang mabilis na paglaganap ng mga tinatawag na Kristiyanong mga denominasyon ay nakiikita noon ayon kay Jesus bilang isa pang bahagi ng simula ng mga kapighatian, kung saan maaari ding kinakailangan ng isang matibay na sentral na pamahalaan upang makontrol ito. ([Matthew 24:5](http://www.biblegateway.com/passage/index.php?search=Matthew+24%3A5;&version=50;&interface=print "Read Matthew 24:5"))  
+  
+Ang kilusang ekyumenikal ay isang pagsisikap na baligtarin ang trend patungo sa pagtaas ng relihiyosong mga pinuno na nag-aangkin ng awtoridad o isang anointing mula sa Diyos. (Ang ‘Kristo’ ay nangangahulugan lamang ‘anointed one’) Isang kaunting pagkakaiba ay naging isang maraming kaguluhan, at ang mga simbahan sa bawat dako ay nababawasan ng kredibilidad dahil sa kanilang kawalang-kakayahang na makipagkasundo sa isa’t isa.  
+  
+Sa kasamaang palad, ang lunas ay maaari napapatunayan na lalong masama kaysa sa sakit. Isang nag-iisang, monolitikong relihiyosong istraktura, na walang isang pagbabago sa mga puso ng mga indibidwal sa loob nito, ay maghahantong lamang sa mga atrosidad laban sa mga hindi sumasang-ayon, tulad ng laging nangyayari pagdating sa relihiyosong/politikal na mga diktadura.  
+  
+Sa lahat ng mga pagsisikap patungo sa relihiyosong pagkakaisa, walang iisang pagkakaisa ang nangyari kasama ang mga turo ni Jesus bilang batauyn para matukoy kung ano ang tatanggapin o kung ano ang tatanghihin. Inalis ng mga tagagawa ang Punong bato, at kung ano ang kanilang binubuo ay magreresulta sa isang hindi totoong pagkakisa at isang nakadedemonyong mapapangasawa para sa paparating na pandaigdigang diktador.  
+  
+  
+**Ang Pagbagsak ng Amerika**  
+  
+Ang Armagedon ([Revelation 16:16](http://www.biblegateway.com/passage/index.php?search=Revelation+16%3A16;&version=50;&interface=print "Read Revelation 16:16"), [Revelation 19:19-21](http://www.biblegateway.com/passage/index.php?search=Revelation+19%3A19-21;&version=50;&interface=print "Read Revelation 19:19-21")) ay isang labanan kung saan ang Russa at ang mga hukbo ng pandaigdigang komunismo ay nawasak. (Tubal & Meshech sa saysay ni [Ezekiel 39](http://www.biblegateway.com/passage/index.php?search=Ezekiel+39;&version=50;&interface=print "Read Ezekiel 39") ay nasalin ng ilan bilang Tobolsk at Moscow.) Ang kasalukuyang (tila) pagbagsak ng komunismo nagmumungkahi ang Armagedon ay tapos na at ito na ang oras na para sa paghahari ni Kristo. Ngunit ang komunismo o ang “Halimaw” na a mumuno sa mundo ay mas malamang na nakatanggap lamang ng isang ‘sugat nakamamatay’ mula kung saan ito ay gagaling nang madaling panahon. ([Revelation 13:3-12](http://www.biblegateway.com/passage/index.php?search=Revelation+13%3A3-12;&version=50;&interface=print "Read Revelation 13:3-12"))  
+  
+Dalawang simbolikong kapangyarihan ang umiiral sa mga huling panahon: isang “halimaw” na atiestic at laban sa mga Kristiyano na nag-aalipusta sa Diyos, at isang “patutot” na nangingibabaw sa world trade. Ang patutot na “umuupo sa ibabaw” ng “halimaw” ([Revelation 17:3-5](http://www.biblegateway.com/passage/index.php?search=Revelation+17%3A3-5;&version=50;&interface=print "Read Revelation 17:3-5")) ay ang ginagawa ng America sa komunismo. Ngunit, sa tulong ng sampung iba pang “hari” ang Halimaw ay tumungo sa patutot at wasakin siya nang may kasamang apoy. ([Revelation 17:16-17](http://www.biblegateway.com/passage/index.php?search=Revelation+17%3A16-17;&version=50;&interface=print "Read Revelation 17:16-17")) Ipagluluksa ng mga negosyante at mga kumpanya sa pagdadala ng daigdig ang pagkabagsak ng kapitalismo “sa pamamagitan ng isang oras”. ([Revelation 18](http://www.biblegateway.com/passage/index.php?search=Revelation+18;&version=50;&interface=print "Read Revelation 18"))  
+  
+  
+**Pandaigdigang Komunismo**  
+  
+Ang pagbagsak ng America ang bumibigay-daan para sa isang tanyag na pandaigdigang pamahalaan. Ang pinuno nito ang magkokontrol sa isang konseho ng 10-bansa mula kung saan natatanggap niya ang kanyang kapangyarihan upang mamuno ([Daniel 7:24](http://www.biblegateway.com/passage/index.php?search=Daniel+7%3A24;&version=50;&interface=print "Read Daniel 7:24"))  
+  
+Isang bagong patakarang pang-ekonomiya ay malawakang magtataas ng produksyon, nagreresulta sa kasaganaan ng buong mundo. Ngunit ang pamahalaan ay magtatanggi na kilalanin ang Diyos, at ang pandaigdigang pinuno ay lalaban sa lahat na may pananalig sa Diyos ([Daniel 8:24-25](http://www.biblegateway.com/passage/index.php?search=Daniel+8%3A24-25;&version=50;&interface=print "Read Daniel 8:24-25")).  
+  
+Ang komunismo ay ang panghuling huwad na kapilas ng kaharian ng Diyos ([Acts 2:44-45](http://www.biblegateway.com/passage/index.php?search=Acts+2%3A44-45;&version=50;&interface=print "Read Acts 2:44-45")). Bagaman sinusuportahan namin ang mga ideal nito, lumalaban kami sa mga pagsisikap nito na alisin ang Diyos. Ang paggamit ng relihiyon ng mga mayaman at makapangyarihan ay upang panatilihin ang mga tao sa linya ay tiyak na mali. Ngunit hindi ito ang kung ano tinututol ng komunismo. Sapagkat ginamit rin ng mga komunista ang institusyunal na simbahan bilang kagamitan ng estado.  
+  
+  
+**Ang Huwad na Simbahan na Napakahusay**  
+  
+Ang mga pinuno ng simbahan ng Left-Wing na kulang sa lakas-loob ng na mamuhay at mangaral ng boluntaryong kristyanong komunismo are nagiging mas umaayon sa, at ginagamit ng, pandaigdigang komunismo, upang magdala ng pagbabago. Ngunit wala talagang gayong bagay tulad ng ‘digmaan lamang’ kung ito ay pinangungunahan ng mga hindi makatwirang tao. Ang Diyos lamang mismo ang may karapatan na magbawi ng buhay, at iyan ang dahilan ang mga pamahalaan ng tao ay lagi naghahanap ng suporta mula sa mga simbahan upang bigyan-katwiran ang kanilang mga digmaan. Ang bagong kaayusan ng mundo ay hindi magiging eksepsyon.  
+  
+Tila na ang darating pinuno ang magdadala ng relihiyosong pagkakaisa sa buong mundo sa pamamagitan ng pagbuo muli ng Templo ni Solomon sa Jerusalem, sa gayon pinapayagan ang mga Hudyo na ipagpatuloy ang pag-aalay ng mga sakripisyo ng hayop. Ang mga plano ay iminungkahi para sa isang templo na kung saan isasama ang isang bahagi para sa mga Hudyo, isa para sa mga Muslim, at isa para sa mga Kristiyano.  
+  
+Ang mga sipi sa Daniel ay nagpapahiwatig na ito ay mangangailangan lamang ng higit pang pitong buwan upang mabuo ang templong ito, at na mula sa pagkumpleto nito ay magkakaroon ng kakaunti kaysa sa anim at isang kalahating taon na matitira hanggang sa pagbalik ni Jesus. ([Daniel 9:27](http://www.biblegateway.com/passage/index.php?search=Daniel+9%3A27;&version=50;&interface=print "Read Daniel 9:27"), [Daniel 8:13-14](http://www.biblegateway.com/passage/index.php?search=Daniel+8%3A13-14;&version=50;&interface=print "Read Daniel 8:13-14")) (Ang salitang “linggo” ng King James Bible ay isinalin sa “7 taon” sa karamihan sa mga iba pang mga pagsasalin.)  
+  
+  
+**Ang Dakilang Pagsubok**  
+  
+Ang panahon ng relihiyosong pagpapahintulot at pagkakaisa sa ilalim ng nag-iisang pandaigdigang pamahalaan ay hindi tatagal. Ang Pahayag ay naglalarawan ng isang panahon ng dakilang gulo, hinuhudyat sa pamamagitan ng pitong ‘trumpeta’ ([Revelation 8-9](http://www.biblegateway.com/passage/index.php?search=Revelation+8-9;&version=50;&interface=print "Read Revelation 8-9")). Tinawagan ni Jesus ito ang ‘dakilang pagsubok’, at sinabi niya na babalik siya kaagad pagkatapos nito. ([Matthew 24:16-17](http://www.biblegateway.com/passage/index.php?search=Matthew+24%3A16-17;&version=50;&interface=print "Read Matthew 24:16-17")) Sinabi ni Pablo na si Jesus ay babalik sa pagtunog ng ika-pitong trumpeta ([1 Corinthians 15:51-53](http://www.biblegateway.com/passage/index.php?search=1+Corinthians+15%3A51-53;&version=50;&interface=print "Read 1 Corinthians 15:51-53"), at [1 Thessalonians 4:16-17](http://www.biblegateway.com/passage/index.php?search=1+Thessalonians+4%3A16-17;&version=50;&interface=print "Read 1 Thessalonians 4:16-17")).  
+  
+Ang unang anim na trumpeta ay naglalarawan ng isang pandaigdigang kapahamakan na sumusunog sa isang ikatlong bahagi ng mga bangka at pumapatay sa isang ikatlong bahagi ng mga kabuhayan sa mga karagatan. Nagsasabi ito tungkol sa isang “bituin” na bumabagsak sa daigdig, sa kalangitan na umitim, at sa malalaking bato ng yelo na umuulan sa karamihan ng daigdig. Ang mga bato ng yelo at pagdilim ay naaayon sa mga usok mula sa malawakang mga pag-apoy na tumatakip sa kalangitan, at paulit-ulit pinipilit ang condensation pataas sa atmosphere, kung saan ito nagyeyelo at nagyeyelo muli sa malalaking bato ng yelo. Maaari ito na ang ‘bituin’ (isang malaking meteor o nakamamatay na satellite) ang magiging dahilan sa mga pag-apoy at mga kamatayan sa dagat (siguro mula sa mga tidal wave at radioactivity rin)  
+  
+Ang mga sakunang ito ay nagdudulot ng isang malawakang pag-uusig ng mga Kristiyano sa buong mundo gawa ng pandaigdigang diktador, na kunin ang kontrol sa templo sa Jerusalem at magdudulot sa pagtigil sa mga Hudyong sakripisyo ([Matthew 24:15-22](http://www.biblegateway.com/passage/index.php?search=Matthew+24%3A15-22;&version=50;&interface=print "Read Matthew 24:15-22"), [Daniel 11:31](http://www.biblegateway.com/passage/index.php?search=Daniel+11%3A31;&version=50;&interface=print "Read Daniel 11:31"). [Daniel 12:11](http://www.biblegateway.com/passage/index.php?search=Daniel+12%3A11;&version=50;&interface=print "Read Daniel 12:11")). Maaari na sisisihin ng diktador ang mga Kristiyano para sa mga sakuna. Hindi ito magiging mahirap upang kumbinsihin ang mundo na ginawa natin ito kung hinuhulaan natin ito noon na ito ay mangyayari!  
+  
+Magkakaroon ng dakilang pagkakalito sa pagitan ng mga masa ng mga nagsisimba, na pinagsabihan na hindi sila talaga kailangan dumaan sa panahong ito ([1 Thessalonians 5:3-4](http://www.biblegateway.com/passage/index.php?search=1+Thessalonians+5%3A3-4;&version=50;&interface=print "Read 1 Thessalonians 5:3-4"), [2 Thessalonians 2:3-4](http://www.biblegateway.com/passage/index.php?search=2+Thessalonians+2%3A3-4;&version=50;&interface=print "Read 2 Thessalonians 2:3-4")) Marami ang mapapatay ([Daniel 7:21-25](http://www.biblegateway.com/passage/index.php?search=Daniel+7%3A21-25;&version=50;&interface=print "Read Daniel 7:21-25")) sapagkat hindi nila natutunan na dinggin ang tinig ng Diyos higit sa mga hiyawan ng kanilang relihiyon. ([Matthew 24:24-28](http://www.biblegateway.com/passage/index.php?search=Matthew+24%3A24-28;&version=50;&interface=print "Read Matthew 24:24-28")) Ang mga idealist ng maraming paniniwala ang tutungo sa mga Kristiyano para sa pamumuno habang sila, rin, ay tumatakas mula sa napakalaking panlilinlang ng pamahalaan kung saan inilagay ang kanilang tiwala ([Daniel 11:32-35](http://www.biblegateway.com/passage/index.php?search=Daniel+11%3A32-35;&version=50;&interface=print "Read Daniel 11:32-35")). Karamihan sa atin ang mamatay sa panahong ito, ngunit ang ating testimonya ay mapupunta sa buong mundo. ([Revelation 6:11](http://www.biblegateway.com/passage/index.php?search=Revelation+6%3A11;&version=50;&interface=print "Read Revelation 6:11"), [Revelation 7:14](http://www.biblegateway.com/passage/index.php?search=Revelation+7%3A14;&version=50;&interface=print "Read Revelation 7:14"))  
+  
+  
+**Ang Simbahan sa Ilang.**  
+  
+Nang matigil na ang mga sakripisyo, ang mga Kristiyano sa buong mundo (natukoy sa Pahayag bilang ang “Mapapangasawa” ni Kristo) ay maaatasan ng Diyos na tumakas patungo sa mga lihim na taguan kung saan inihanda ng Diyos para sa atin. Kung kinakailangan, bibigyan niya tayo ng supernatural na asistensya upang makarating sa ating lugar ng kublihan ([Revelation 12:6](http://www.biblegateway.com/passage/index.php?search=Revelation+12%3A6;&version=50;&interface=print "Read Revelation 12:6"), [Revelation 12:12-14](http://www.biblegateway.com/passage/index.php?search=Revelation+12%3A12-14;&version=50;&interface=print "Read Revelation 12:12-14")) kung saan maliligtas tayo (o ilan sa atin) ng 3 1/2 taon hanggang sa pagbabalik ni Jesus.  
+  
+Ang Pahayag 12 ay nagsasabi tungkol sa isang unibersal na labanan sa pagitan ng kabutihan at ng kasamaan. Ang labanan ay nagsisimula sa birheng Maria na nagsisilang kay Jesus habang sinusubukan ng Diyablo na patayin ang kanyang anak na lalaki ([Revelation 12:1-4](http://www.biblegateway.com/passage/index.php?search=Revelation+12%3A1-4;&version=50;&interface=print "Read Revelation 12:1-4")) tulad ng ginawa ni Herod sa Mateo 2. Sa wakas si Jesus ay umakyat sa langit, kung saan namuno sa tagumpay laban sa diyablo. ([Revelation 12:5-12](http://www.biblegateway.com/passage/index.php?search=Revelation+12%3A5-12;&version=50;&interface=print "Read Revelation 12:5-12"))  
+  
+Nang malaman ng diyablo na kakaunti na lang ang oras na natitira bago ang pagbalik ni Jesus, nagsisimula siya ng isang ganap na digmaan sa ‘babae’ at sa kanyang mga inanak (Pahayag 12:13, 17). Si Maria ay simboliko ng tunay na simbahan o ang tunay na mga tagasunod ni Jesus ([Luke 8:21](http://www.biblegateway.com/passage/index.php?search=Luke+8%3A21;&version=50;&interface=print "Read Luke 8:21")). Ang biglaang pagtakas patungo sa ilang ay inilarawan sa [Luke 17:28-37](http://www.biblegateway.com/passage/index.php?search=Luke+17%3A28-37;&version=50;&interface=print "Read Luke 17:28-37") kung saan nag-uutos si Jesus na huwag mag-antala kapag sinabi niya na tayo lumipat ([Luke 17:31](http://www.biblegateway.com/passage/index.php?search=Luke+17%3A31;&version=50;&interface=print "Read Luke 17:31")).  
+  
+Tila na ito na sa panahon ng 3 ½ taon kapanahunan kaagad bago ang pagbabalik ni Jesus, at sa 3 ½ taong kaagad priyor d’yaan, ang tunay na simbahan ay sa wakas isang nakikitang organisasyon ([Daniel 9:27](http://www.biblegateway.com/passage/index.php?search=Daniel+9%3A27;&version=50;&interface=print "Read Daniel 9:27")). Aayusin ng Espiritu ng Diyos ang lahat ng tunay na taimtim na mga tao sa buong mundo sa 12 tribo ng 12,000 tauhan kada tribo, maari sa 12 ibang lokasyon sa paligid ng mundo. ([Revelation 7:4-8](http://www.biblegateway.com/passage/index.php?search=Revelation+7%3A4-8;&version=50;&interface=print "Read Revelation 7:4-8"))  
+  
+Hindi lamang ‘naliligtas’ ang mga 12 tribo sa panahon ng huli at kakila-kilabot na taong ito. Sa halip, sila ay aktibong nagrerekrut ng libo-libong (kung hindi ay milyon-milyong) iba pang mga mananampalataya, na karamihan ay mabibitay para sa kanilang pananampalataya. ([Revelation 7:9-14](http://www.biblegateway.com/passage/index.php?search=Revelation+7%3A9-14;&version=50;&interface=print "Read Revelation 7:9-14"); [Daniel 7:21](http://www.biblegateway.com/passage/index.php?search=Daniel+7%3A21;&version=50;&interface=print "Read Daniel 7:21"), 25; [Daniel 11:31-35](http://www.biblegateway.com/passage/index.php?search=Daniel+11%3A31-35;&version=50;&interface=print "Read Daniel 11:31-35"))  
+  
+  
+**Ang Marka ng Halimaw**  
+  
+Sinasabi ng Pahayag [Revelation 13:15-18](http://www.biblegateway.com/passage/index.php?search=Revelation+13%3A15-18;&version=50;&interface=print "Read Revelation 13:15-18") na lahat ng mga tao sa mundo ay maiiugnay sa isang sistema kung saan hindi pinapayagan ang mga tao na bumili o bumenta nang wala silang pinapakita ng isang marka na mayroon sila sa kanilang kamay man o sa kanilang noo. May tumataas na bilang ng mga economist na humuhula ng eksaktong parehong bagay sa anyo ng isang implanted silicon chip kung saan ang mag-iidentify sa bawat indibidwal sa daigdig.  
+  
+Ang Bibliya ay nagbibigay ng isang seryosong babala laban sa pagtanggap ng markang ito ([Revelation 14:9-12](http://www.biblegateway.com/passage/index.php?search=Revelation+14%3A9-12;&version=50;&interface=print "Read Revelation 14:9-12")). Maaari ito maging na ang nag-iisa lamang paraan para sa sinumang tumanggap nito na maging ligtas ay kunin ang mga sipi tulad ng [Matthew 18:8](http://www.biblegateway.com/passage/index.php?search=Matthew+18%3A8;&version=50;&interface=print "Read Matthew 18:8") nang literal!

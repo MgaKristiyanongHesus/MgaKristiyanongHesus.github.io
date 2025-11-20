@@ -1,56 +1,73 @@
 ---
-title: "Frequently Asked Questions"
+title: "Karaniwang Mga Tanong"
 meta_title: ""
 description: "This is meta description"
 draft: false
 ---
 
-### Frequently Asked Questions
+### Karaniwang Mga Tanong
 
-{{< accordion "How are you different from other Christian groups?" >}}
+{{< accordion "Meron ba kayong simbahan?" >}}
 
--- We don't teach anything that is unique, but we do put them together differently. For example:
+SAGOT:
+Depende ito sa kung ano ang ibig mong sabihin sa "simbahan". Kung ang ibig mong sabihin ay isang gusaling simbahan, kung gayon, hindi wala kaming isang 'simbahan'. Iyon ay dahil naniniwala kami na ang mga taos-pusong tao AY ang simbahan at na ang mga Kristiyano ay dapat mamuhay sa komunidad 24/7, na nagbabahagi ng lahat ng meron nila tulad ng ginawa ng mga unang Kristiyano. Ang mga gusali ay madalas na nakakapag-distrak sa mga tao mula sa pag-unawa nito.
+{{< /accordion >}}
 
-1. Like Quakers, we believe Jesus (not the Bible) is the Word of God.  We also believe that all holy writings are inspired (as are all spirit-filled Christians), butwe think it is obviously true that being inspired doesn't make anyone infallible.  (See The Word of God.)
+{{< accordion "Paano kayo naiiba sa ibang mga grupong Kristiyano?"  >}}
+SAGOT:
+Wala kaming itinuturo na kakaiba, pero pinagsama-sama namin sila sa kakaibang paraan. Halimbawa:
 
-2. Like believers in the Salvation Army, we do not practice any official sacraments. True Christian baptism is with the Holy Spirit, and true communion is a continual relationship in a community of believers. (See Water Baptism, and I Will Have Mercy.)
+1. Tulad ng mga Quaker, naniniwala kami na si Jesus (hindi ang Bibliya) ay ang Salita ng Diyos. Naniniwala rin kami na ang lahat ng mga banal na kasulatan ay inspirado (gaya ng lahat ng mga Kristiyanong puno ng espiritu), pero sa palagay namin ay malinaw na totoo na ang pagiging inspirado ay hindi gumagawa ng sinumang perpekto. (Tingnan ang: The Word of God.)
 
-3. Like some Catholic orders, we believe in living together communally, and in sharing everything that we own. (See Living in Community.)
+2. Tulad ng mga mananampalataya sa Salvation Army, hindi kami nagsasanay ng anumang opisyal na sakramento. Ang tunay na Kristiyanong bautismo ay kasama ng Banal na Espiritu, at ang tunay na komunyon ay isang patuloy na relasyon sa isang komunidad ng mga mananampalataya. (Tingnan ang: Water Baptism, at I Will Have Mercy)
 
-4. Like just about every denomination claims, we believe that the teachings of Jesus are the Cornerstone of our faith.  But we also believe that these teachings have been universally set aside in favour of other religious traditions. This is probably the closest thing to a unique teaching that we have, and yet there are very few churches which would admit to differing with us on this, because it is so transparently heretical NOT to accept Jesus as the Cornerstone, or ultimate authority, on all matters of doctrine. (See Solid as a Rock, and What is Faith?)
+3. Tulad ng ilang orden ng Katoliko, naniniwala kami sa pamumuhay nang sama-sama, at sa pagbabahagi ng lahat ng pag-aari namin. (Tingnan ang: Pamumuhay sa Isang Komunidad.)
 
-5. Like the Uniting Church and a few other more liberal denominations, we believe that people (like Abraham) from other non-Christian religions, can be saved on the basis of their faith in God, even if they have never heard of Jesus. (See Another Cornerstone, and Faith and Sincerity.)
+4. Tulad ng halos lahat na inaangkin ng mga bawat denominasyon, naniniwala kami na ang mga turo ni Jesus ang Bato ng panulok ng aming pananampalataya. Pero naniniwala rin kami na ang mga turong ito ay isinasantabi sa pangkalahatan bilang pabor sa iba pang mga tradisyon ng relihiyon. Ito marahil ang pinakamalapit na bagay sa isang natatanging turo na mayroon namin, pero napakakaunting mga simbahan na umamin na may pagkakaiba sa amin tungkol dito, dahil napakalinaw na heretikal ang HINDI ang pagtanggap kay Jesus bilang ang Cornerstone, o ang pinakamataas na awtoridad, sa lahat ng bagay ng doktrina. (Tingnan ang: Kasing Tigas ng Isang Bato, at Ano ang Pananampalataya?)
 
-6. Like many evangelical Protestants, we believe in the imminent return of Jesus. We believe that The Revelation relates to events happening in the world today. (See Endtime Prophecy and the Revelation of Jesus Christ.)
+5. Tulad ng Uniting Church at ilang iba pang liberal na mga denominasyon, naniniwala kami na ang mga tao (tulad ni Abraham) mula sa ibang mga relihiyong hindi Kristiyano, ay maaaring maligtas batay sa kanilang pananampalataya sa Diyos, kahit na hindi pa nila narinig si Jesus. (Tingnan ang: Another Cornerstone, at Faith and Sincerity.)
 
-7. Like Catholics, we teach the spiritual advantages of remaining single; but like Protestants, we do not forbid marriage for church leaders. (See The Virgin Army, parts 1, 2, and 3.)
+6. Tulad ng maraming Protestanteng Ebanghelikal, naniniwala kami sa nalalapit na pagbabalik ni Jesus. Naniniwala kami na ang Pahayag ay nauugnay sa mga kaganapang nangyayari sa mundo ngayon. (Tingnan ang: Hula sa Panahon ng Pagtatapos at ang Pahayag ni JesuKristo.)
 
-8. Like most liberal denominations, we teach that there is nothing sinful about masturbation, and that trying too hard to refrain from masturbation often leads to other really serious sexual sins. (See Wanking, The Last Taboo.)
+7. Tulad ng mga Katoliko, itinuturo namin ang mga espirituwal na pakinabang ng pananatiling walang asawa; ngunit tulad ng mga Protestante, hindi namin ipinagbabawal ang kasal para sa mga pinuno ng simbahan. (Tingnan ang: Ang Hukbo na Birhen, bahagi 1, 2, at 3.)
 
-9. Like most clergymen, we believe in the concept of "living by faith"... except that we believe the entire company of believers can live by faith, and in so doing, we will effectively "turn the world upside down." (See A New Economic Policy, and Living by Faith.)
+8. Tulad ng karamihan sa mga liberal na denominasyon, itinuturo namin na walang kasalanan ang tungkol sa masturbesyon, at na ang pagsisikap na labis na umiwas sa masturbesyon ay kadalasang humahantong sa iba pang talagang seryosong mga kasalanang seksuwal. (Tingnan ang: Wanking, The Last Taboo.)
+
+9. Tulad ng karamihan sa mga klero, naniniwala kami sa konsepto ng "pamumuhay sa pananalig"... maliban na naniniwala kami na ang buong grupo ng mga mananampalataya ay maaaring mabuhay sa pananalig, at sa paggawa nito, mabisa nating "babaligtarin ang mundo." (Tingnan ang: Isang Bagong Patakarang Pang-ekonomiya, at Mabuhay sa Pananalig.)
 
 {{< /accordion >}}
 
-{{< accordion "Why are you so critical of the churches?" >}}
-
-There are serious errors in the church, which could have eternal consequences. Drastic problems require drastic remedies. (See Thou Shalt Judge, Hard Decisions, and The Tolerance Myth.)
-
-{{< /accordion >}}
-
-{{< accordion "How can you survive if you all 'live by faith'?" >}}
-
-Bascially, we survive by faith. The fact that people find that so hard to believe reflects the widespread lack of faith in a God who could create the universe from nothing. The real questions we need to ask ourselves are: (a) whether Jesus really is God's Son; and (b) whether Jesus really asks his followers to live by faith. If the answer is yes to both of these, then it's up to God to provide for those who seek to obey Jesus. We went about it this way and it worked.  (See our article Living by Faith -- How to Do It for a more detailed explanation. See also The Pizza Parable, which emphasises the need to get the full picture rather than just one aspect of living by faith.)
+{{< accordion "Bakit napaka kritikal ninyo sa mga simbahan?" >}}
+SAGOT:
+May mga mabibigat na pagkakamali sa simbahan, na maaaring magkaroon ng walang hanggang kahihinatnan. Ang mga matinding problema ay nangangailangan ng matinding mga solusyon. (Tingnan ang: Thou Shalt Judge, Hard Decisions, at The Tolerance Myth.)
 
 {{< /accordion >}}
 
-{{< accordion "If you teach people to obey the teachings of Jesus, isn't that the same as teaching salvation by works?" >}}
+{{< accordion "Paano ka na-susurvive kung lahat kayo ay 'nabubuhay sa pananampalataya'?" >}}
 
-No, it definitely is not. Everyone teaches obedience of some sort: obedience to the laws of the land, obedience to church authorities, obedience to parents. So why not obedience to Jesus Christ, the only one who can save us? As James said, "Faith without works is dead." But we also teach that our obedience will never "buy" salvation. All of us must depend upon the grace of God every day of our lives. But we should never abuse that grace by being slack in our own personal discipline. (See Lest You Fall, Amazing Grace, and Self-Righteousness.)
-
+SAGOT:
+Na-susurvive kami sa pamamagitan ng pananalig. Ang katotohanan na napakahirap paniwalaan ng mga tao ay nagpapakita ng malawakang kawalan ng pananampalataya sa isang Diyos na maaaring lumikha ng sansinukob mula sa wala. Ang mga tunay na tanong na kailangan nating itanong sa ating sarili ay: (a) kung si Jesus nga ba ay Anak ng Diyos; at (b) kung talagang hinihiling ni Jesus sa kanyang mga tagasunod na mamuhay sa pananalig. Kung oo ang sagot sa dalawang ito, nasa Diyos na ang maglaan para sa mga naghahangad na sumunod kay Jesus. Ginawa namin ito sa ganitong paraan at ito ay gumana. (Tingnan ang: aming artikulong Mabuhay sa Pananalig - Paano Ito Gawin Ito para sa mas detalyadong paliwanag. Tingnan din ang The Pizza Parable, na nagbibigay-diin sa pangangailangang makuha ang buong larawan sa halip na isang aspeto lamang ng pamumuhay sa pananalig.)
 {{< /accordion >}}
 
-{{< accordion "Do you teach that you are the only ones who are going to be saved?" >}}
+{{< accordion "Kung tinuturuan n’yo ang mga tao na sumunod sa mga turo ni Jesus, hindi ba't iyon ay katulad ng pagtuturo ng kaligtasan sa pamamagitan ng mga gawa?" >}}
 
-No. But we do think that the way to heaven is a very narrow one... so narrow, in fact, that it is quite likely that some, if not many, of us Jesus Christians will not make it either. The secret to salvation is not to be found in membership in any group (including our own), but only in a deep, abiding, personal faith in God, which evidences itself in actions.  (See In In Search of Truth, The Narrow Way, and Universalism, Pros and Cons.)
-
+SAGOT:
+Hindi, talagang hindi. Ang bawat isa ay nagtuturo ng ilang uri ng pagsunod: pagsunod sa mga batas ng bansa, pagsunod sa mga awtoridad ng simbahan, pagsunod sa mga magulang. Kaya bakit hindi sundin si Jesu-Kristo, ang tanging makapagliligtas sa atin? Gaya ng sinabi ni James, "Ang pananampalataya na walang gawa ay patay." Ngunit itinuturo rin namin na ang ating pagsunod ay hindi kailanman "mabibili" ng kaligtasan. Lahat tayo ay dapat umasa sa biyaya ng Diyos sa bawat araw ng ating buhay. Ngunit hindi natin dapat abusuhin ang biyayang iyon sa pamamagitan ng pagiging tamad sa ating sariling disiplina. (Tingnan ang Lest You Fall, Amazing Grace, at Self-Righteousness.)
 {{< /accordion >}}
+
+{{< accordion "Itinuturo n’yo ba na kayo lamang ang maliligtas?" >}}
+SAGOT:
+Hindi. Ngunit iniisip namin na ang daan patungo sa langit ay napakakipot... napakakitid, sa katunayan, na malamang na ang ilan, kung hindi man marami, sa aming mga Hesu Kristiyano ay hindi rin makakarating dito. Ang sikreto sa kaligtasan ay hindi matatagpuan sa pagiging kasapi sa alinmang grupo (kabilang ang aming sarili), ngunit sa isang malalim, matibay, personal na pananampalataya sa Diyos, na nagpapatunay sa sarili sa mga aksyon. (Tingnan ang: In Search of Truth, The Narrow Way, at Universalism, Pros and Cons.)
+{{< /accordion >}}
+
+
+{{< accordion "Ano ang relasyon n’yo sa The Family (dating kilala bilang The Children of God)?" >}}
+
+SAGOT:
+Isa lang sa aming mga miyembro (Dave) ang napabilang sa The Family, at iyon ay ilang buwan lamang noong 1975. Sa sandaling malaman niya na nagtuturo sila ng sekswal na kahalayan bilang isang paraan ng pagkuha ng mga bagong miyembro, umalis siya sa grupo. . Sa loob ng maraming taon ay iniiwasan siya ng The Family dahil sa kanyang pagtutol sa kanilang mga turo tungkol sa seks.
+
+Sa mga nakalipas na taon, binago ng The Family ang ilan sa kanilang mga turo. Gayunpaman, hindi namin nagawang sumang-ayon sa kanilang paninindigan (kahit ngayon) tungkol sa pakikipagtalik sa labas ng kasal, at hindi namin itinago ang katotohanang iyon.
+
+Mayroong isang serye ng mga artikulo na mas malapit na tumatalakay sa iba pang pagkakaiba sa pagitan namin at ng The Family. (Tingnan ang Simple Salvation, Eternal Salvation, Mabuhay sa Pananalig, The Bible, at Jesus Christ.)
+{{< /accordion >}}
+

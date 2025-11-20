@@ -1,4 +1,4 @@
-############# English navigation ##############
+############# Tagalog navigation ##############
 
 # main menu
 [[main]]
@@ -12,33 +12,58 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Articles"
+url = "/blog"
 weight = 3
 
 [[main]]
+name = "FAQ"
+url = "/faq"
 weight = 4
-name = "Pages"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+name = "More"
+url = "/more"
+weight = 5
+
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+parent = "More"
+name = "Comics"
+url = "/comics"
+
+
+[[main]]
+parent = "More"
+name = "Videos"
+url = "/videos"
+
+
+# [[main]]
+
+# [[main]]
+# name = "Elements"
+# url = "/elements"
+
+
+# [[main]]
+# weight = 4
+# name = "Pages"
+
+
+
+# [[main]]
+# name = "Contact"
+# url = "/contact"
 
 #[[main]]
 #parent = "Pages"
 #name = "Authors"
 #url = "/authors"
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
+# [[main]]
+# name = "Mga Aral"
+# url = "/categories"
 
 #[[main]]
 #parent = "Pages"
@@ -53,11 +78,16 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Contact Us"
+url = "/contact"
 weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
+# [[footer]]
+# name = "Elements"
+# url = "/elements"
+# weight = 2
+
+# [[footer]]
+# name = "Privacy Policy"
+# url = "/privacy-policy"
+# weight = 3

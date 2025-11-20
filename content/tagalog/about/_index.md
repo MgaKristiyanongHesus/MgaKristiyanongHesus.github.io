@@ -5,5 +5,4 @@ description: "this is meta description"
 image: "/images/logo.jpg"
 draft: false
 ---
-
-"A live-by-faith, work-for-God-not-money Christian community. We distribute Bible-based comics, videos, CDs, novels, and other tracts, and do free (voluntary) work. We are against hypocrisy and self-righteousness in the church; and we are in favour of honesty, humility and love."
+"Isang buhay sa pamamagitan ng pananampalataya, trabaho-para-Diyos-hindi-pera Kristiyanong komunidad. Namamahagi kami ng mga komiks, video, CD, nobela, at iba pang tract na batay sa Bibliya, at gumagawa ng libreng (kusang-loob) na gawain. Laban tayo sa pagpapaimbabaw at pagkamatuwid sa sarili sa iglesya; Pabor tayo sa katapatan, kababaang-loob at pagmamahal."

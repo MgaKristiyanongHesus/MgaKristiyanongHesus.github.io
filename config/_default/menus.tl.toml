@@ -7,12 +7,12 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Tungkol sa Amin"
 url = "/about"
 weight = 2
 
 [[main]]
-name = "Articles"
+name = "Mga Aral"
 url = "/blog"
 weight = 3
 
@@ -29,13 +29,13 @@ weight = 5
 
 [[main]]
 parent = "More"
-name = "Comics"
+name = "Mga Comics"
 url = "/comics"
 
 
 [[main]]
 parent = "More"
-name = "Videos"
+name = "Mga Videos"
 url = "/videos"
 
 
@@ -73,12 +73,12 @@ url = "/videos"
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Tungkol sa Amin"
 url = "/about"
 weight = 1
 
 [[footer]]
-name = "Contact Us"
+name = "Kontakin Kami"
 url = "/contact"
 weight = 2
 
