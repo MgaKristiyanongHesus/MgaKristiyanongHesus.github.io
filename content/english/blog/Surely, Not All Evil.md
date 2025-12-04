@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/hesu/Money.webp"
 categories: ["Jesus and Money"]
 author: ""
-tags: ["Jesus Teachings", "Living By Faith", "Money"]
+tags: ["The Teachings of Jesus", "Living By Faith", "Money"]
 draft: false
 ---
 St. Paul wrote a letter to a young Christian, and said that the root of all evil is the love of money. ([1 Timothy 6:10](http://www.biblegateway.com/passage/index.php?search=1+Timothy+6%3A10;&version=50;&interface=print "Read 1 Timothy 6:10")) This is an amazing claim.  

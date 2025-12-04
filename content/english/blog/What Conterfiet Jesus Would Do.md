@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/hesu/WWFJD.webp"
 categories: ["Jesus and Money"]
 author: ""
-tags: ["Teachings of Jesus", "Money", "Jesus"]
+tags: ["The Teachings of Jesus", "Money", "Jesus"]
 draft: false
 ---
 There is a slogan making the rounds in church circles (especially in the U.S.) which asks "What would Jesus do?" It is abbreviated WWJD? and the letters feature on everything from T-shirts to jewellery. They act both as a reminder to the person wearing them and as an opening to a Christian witness when the uninformed ask what they stand for.

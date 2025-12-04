@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/ForsakingAll.webp"
 categories: ["Top Forty"]
 author: ""
-tags: ["Teachings of Jesus", "Living By Faith"]
+tags: ["The Teachings of Jesus", "Living By Faith"]
 draft: false
 ---
 

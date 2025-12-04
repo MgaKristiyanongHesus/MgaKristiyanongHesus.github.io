@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/hesu/Rock.webp"
 categories: ["Jesus and Money"]
 author: ""
-tags: ["Teachings of Jesus", "Money"]
+tags: ["The Teachings of Jesus", "Money"]
 draft: false
 ---
 It has not been easy for people to build a case against us and our teachings for one very important reason: We have built our faith on the most solid foundation anyone could ever choose for any religion.  

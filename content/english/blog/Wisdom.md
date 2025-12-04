@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/hesu/Wisdom.webp"
 categories: ["Jesus and Money"]
 author: ""
-tags: ["Teachings of Jesus", "Wisdom", "Guidance"]
+tags: ["The Teachings of Jesus", "Wisdom", "Guidance"]
 draft: false
 ---
 A number of children's stories tell of someone getting one or more wishes, and then wasting them on things that do not bring happiness. As a boy I had heard the story of Solomon being given a wish by God. ([2 Chronicles 1:7-12](http://www.biblegateway.com/passage/index.php?search=2+Chronicles+1%3A7-12;&version=50;&interface=print "Read 2 Chronicles 1:7-12")) It was not so different from the fairy tales, except that this one had a ring of truth about it. What a privilege it would have been to be given a wish by God! And how clever of Solomon to have asked for wisdom.  

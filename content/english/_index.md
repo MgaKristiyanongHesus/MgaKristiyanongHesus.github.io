@@ -20,7 +20,7 @@ features:
       -  "Top Forty"
       -  "Jesus and Money"
       -  "Churches and Theology"
-      -  "Profound Thoughts"
+      -  "Deep Thoughts"
       -  "Endtime and Sex Issues"
       -  "Inspirationals"
       -  "Leadership"

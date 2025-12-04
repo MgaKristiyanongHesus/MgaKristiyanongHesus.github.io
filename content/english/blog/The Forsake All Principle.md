@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/hesu/ForsakeAllPrin.webp"
 categories: ["Jesus and Money"]
 author: ""
-tags: ["Teachings of Jesus", "Living By Faith", "Money", "Practical"]
+tags: ["The Teachings of Jesus", "Living By Faith", "Money", "Practical"]
 draft: false
 ---
 

@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/LBFing.webp"
 categories: ["Top Forty"]
 author: ""
-tags: ["Teachings of Jesus", "Living By Faith"]
+tags: ["The Teachings of Jesus", "Living By Faith"]
 draft: false
 ---
 Jesus Christ taught people not to think about how to feed and clothe themselves.  

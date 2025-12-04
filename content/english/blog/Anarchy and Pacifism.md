@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/quak/Anarchy.webp"
 categories: ["Quaker Similarities"]
 author: ""
-tags: ["Teachings of Jesus", "Pacifism"]
+tags: ["The Teachings of Jesus", "Pacifism"]
 draft: false
 ---
 _Although the Jesus Christians have always been staunch pacifists, and although they are critical of religious hierarchies, in the article below, they examine weaknesses in their own position._  

@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/TopForty.webp"
 categories: ["Top Forty"]
 author: ""
-tags: ["Teachings of Jesus"]
+tags: ["The Teachings of Jesus"]
 draft: false
 ---
 1\. Obey my commandments - [John 14:15](http://www.biblegateway.com/passage/index.php?search=John+14%3A15;&version=50;&interface=print "Read John 14:15"), [John 14:21](http://www.biblegateway.com/passage/index.php?search=John+14%3A21;&version=50;&interface=print "Read John 14:21"), [John 14:23](http://www.biblegateway.com/passage/index.php?search=John+14%3A23;&version=50;&interface=print "Read John 14:23"); [2 John 6](http://www.biblegateway.com/passage/index.php?search=2+John+6;&version=50;&interface=print "Read 2 John 6")  
