@@ -1,11 +1,11 @@
 ---
-title: "Mga Comics"
+title: "Comics"
 meta_title: ""
 description: "This is meta description"
 draft: false
 ---
 
-## Mga Comics
+## Comics
 <br>
 
 ##### A New Reality
@@ -99,4 +99,4 @@ draft: false
 >}}
 
 
-[Alamin kung paano i-print ang NEP sa iyong sarili sa pamamagitan ng pag-click dito.](https://drive.google.com/file/d/1ZkytQ_FQjm6vS-ZTu73vovcbFJAX20U4/view?usp=sharing)
+[Learn how to print the NEP yourself by clicking here.](https://drive.google.com/file/d/1ZkytQ_FQjm6vS-ZTu73vovcbFJAX20U4/view?usp=sharing)
