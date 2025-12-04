@@ -1,0 +1,48 @@
+---
+title: "The True Conscience"
+meta_title: ""
+description: "this is meta description"
+date: 2025-09-29T00:00:00Z
+image: "/images/articles/deep/Conscience.webp"
+categories: ["Deep Thoughts"]
+author: ""
+tags: ["Guidance", "Conscience"]
+draft: false
+---
+Agad kong napagtanto na dapat ako'y nabigo saanman sa aking mga pagtatangka na turuan ang mga tao na kilalanin at sundin kung ano ang tinatawag natin ang ating konsensya.  
+  
+Napag-usapan natin ang tungkol sa pagsunod sa Diyos na alinsunod sa mga prinsipyo na inilatag sa mga turo ni Jesus, at nagbala kami laban sa mga panloloko ng isang "konsensyang lipunan"\* na laban sa kalooban ng Diyos. Ngunit sa pagitan ng dalawang konseptong ito ay ang isang tunay na natural na sistemang pag-alarma na binigyan sa atin ng Diyos kung saan makakapagsabi sa atin kapag gumagawa tayo ng isang bagay na hindi moral, hindi etikal, o hindi tapat.  
+(\*Hindi namin itinutukoy ang balisang tungkol sa mga kawalan ng katarungan sa lipunan, ngunit sa paggawa ng mabuti dahil lamang sa kung anong iisipin sa atin ng iba.)  
+  
+Karaniwang kong sinasabi, ang alarmang ito ay madalas isang "silent system". Sa ibang salita, ito'y isang "napakabanayad at munting tinig" na kailangan nating pakinggan nang mabuti, kung mapapakinggan natin ba ito.  
+  
+Kung ating ipagkawalang-bahala ang alarma, ang banayad at munting tinig ay nawawala; ngunit madalas itong napapalitan ng isang umiirit na sirena ng isang kakaibang uri.  
+  
+Ang problema ay na, matapos ipagkawalang-bahala sa una ang banayad at munting tinig, karamihan sa mga tao ay nakikita lamang ang sirena bilang isang istorbo, at ito ay lamang sa mga nakapaligid mo ang nababagabag sa sirena. Ang sirenang ito ay bumubunga ng matinding pagkabalisa bilang kapalit sa orihinal na kumbiksiyon, kung saan ating ipinagkawalang-bahala nang sobrang matagal na. Para sa isang taong nanonood, ang pagkabalisa ay tila nagiging isang malinaw na babala na mayroong talagang mali sa sistemang pag-alarma; ngunit para sa taong nagdudusa ng pagkabalisa, mahirap maghanap ng isang kasiya-siyang paliwanag para dito.  
+  
+Ipapaliwanag ko ito sa ibang paraan. Mayroon kang isang anghel sa ibabaw ng isang balikat na nagbubulong sa iyong tenga at sinasabi sa'yo kapag may nagawa kang isang bagay na mali. Ngunit mayroon kang isang demonyo sa ibabaw ng isa pang balikat, na nakakaakit sa iyong sa iyong pagmamalaki at sinasabi sa'yo na kailangan mong ipagtanggol ang iyong sarili kapag ikaw ay binigyang kritisismo. Ang anghel ay sinusubukang ituro ang katotohanan sa kritisismo, ngunit ang demonyo ay sinusubukang kuhanin ka na ipagtanggol ang iyong sarili laban sa kritisismo. Maaaring hayaan ka ng demonyo na magpanggap na sumasang-ayon sa ilang pirasong katotohanan... lalo na kung nakikita niya na magkakaroon ng parusa mula sa grupo kung hindi mo aaminin sa kanila ang iyong pagkakamali. Ngunit sa kabuuan, hindi nais ng demonyo na ikaw ay maging seryoso sa pagbabago. Hindi siya kikilos maliban kung malinaw napipilitang gawin ito.  
+  
+Karaniwan ang kritisismo ay nilayon sa pagkuha sa iyo na baguhin ang isang bagay. Ngunit tuturuan ng demonyo ang lahat ng mga paraan na nagbago ka sa nakaraan, at bibigyan ka ng matibay na mga argumento upang ipakita na ikaw ay magpakumbaba, nais na matuto, matapat at karaniwang sapat na mabuti lamang na hindi mo talaga kailangang magbago pa.  
+  
+Lahat ng ito ay may epekto sa paggawa ng kritisismo tilang hindi-makatarungan, at napangatwiranan ang pagkabalisa.  
+  
+Gayunman ang pagkabalisa ay pumupunta sapagkat ang kritisismo ay nagbabanta na ibunyag ang isang "blind sport". Ang blind spot ay kadalasan walang anuman kundi ang iyong pagmamalaki. Ngunit kadalasan, ang sinumang may kasamang kaunting karaniwang pag-iisip ay maaaring makita na ikaw ay kumikilos nang irasyonal kapag ang isa ay sobrang papalapit sa katotohanan tungkol sa blind sport. Ito ay ang iyong sa pagiging irasyonal na ang karamihan ay nagkukumbinsing pinapatunayan na mayroon kang blindspot. Ito'y sa pamamagitan lamang ng banayad na pagsasaluksok sa paligid ng blind spot (halimbawa ang iyong ego o larawan sa sarili) upang patuloy nakukuha ang parehong irasyonal na reaksyon at pagtatanggol, kung saan parehong gagana upang mawasak ang iyong konsensya.  
+  
+Ito ay ang trabaho ng isang Kristiyanong konsehero (o koponan ng mga konsehero) na unang ituro ang blind spot sa pamamagitan ng pasensyang pagsisita, at pagkatapos ay dalhin ang blind spot na ito sa atensyon ng tao na nagdurusa mula rito. Hindi ito madali; ngunit hanggang sa magawa ito, ang tunay na konsensya ay mananatili lamang sa ilalim nito. Tandaan, nais nang tunay na konsensya na sabihin ang katotohanan tungkol sa iyong sarili, at ang iyong pangangailangan na magbago; ngunit ang pakikinig sa tinuro sa'yo ng diyablo na tumakbo mula sa katotohanan, at lumikha ng isang huwad na larawan sa sarili kung saan dapat ipagtanggol, upang maiwasan ang tunay na konsensya na bumalik at ang diyablo ay maiwasak. Kung magbabago ka man, ito'y lamang sa pamamagitan ng kapag ikaw ay napipilitan. Lahat nang ito ay nagmumula sa pagsisinungaling sa iyong sarili.  
+  
+Kung nabasa mo ang awtobiograpiya ni Gandhi, makikita mo na siya ay napaka sensitibo tungkol sa pagsasabi ng katotohanan noon sa kanyang kabataan. Nagkaroon ako ng isang katulad na pag-uugali patungo sa pagsasabi ng katotohanan noong ako pa ay bata. Ngunit, sa pagtanda ko, napagtanto ko na minsan kailangan itago ang katotohanan mula sa iba (kadalasan para sa kanilang ikabubuti). Kaya bumuo ako ng pagtuturo tungkol sa pagiging "tapat sa ating pagiging hindi tapat". Sa palagay ko na kahit si Gandhi ay hindi niya napansin ang aspetong iyan ng katapatan, kaya't niloloko niya ang kanyang sarili na isipin na siya ay mas tapat kaysa sa kung ano talaga siya. Ngunit ang pangunahing punto ay na kailangan natin gawin ang lahat na huwag magsinungaling sa ating mga sarili o sa Diyos. Sapagkat bawat oras na ginagawa natin iyan, naglilikha tayo ng isang blind spot sa ating pagkatao kung saan maaaring madaling kumalat sa iba pang mga blind sport, hanggang sa masira nito ang ating buong pagkatao, at gawan tayong mga baliw.  
+  
+Ang mga systemites (iyon ay ang mga taong nasa sistema) ay madalas na ginagawa ito; kaya na lahat sila ay baliw sa isang antas. Sila ay tumatakbo palayo mula sa lahat ng uri ng hindi magagaan na katotohanan, hinahayaan ang karamihan sa kanila na malaya na magpatuloy lamang na kumilos tulad ng isang hayop araw-araw. Hindi nila maharap ang mahahalagang usapan tulad ng kamatayan, Diyos, at ang mga turo ni Jesus. Ito ang nagpadala sa kanila sa mga mito tulad ng pera, ebolusyon, at kaimbutan upang mapunan ang mga butas sa kanilang pag-unawa sa buhay.  
+  
+Para sa mga relihiyosong taong tulad ng sarili namin ang mga kahalili para sa mga katotohanan na ating binasket ay katuwiran sa sarili ng isang uri o isa pa.  
+  
+Karaniwan, sinasabi sa atin ng ating konsensya kapag tayo ay gumagawa ng isang bagay na mali, o kahit kapag tayo ay papalapit sa paggawa ng isang bagay na mali. Ngunit kailangan nating "magpraktis" sa pakikinig dito. Ipraktis ang pag-iisip tungkol sa kung ginagamit mo ba man or hindi ang parehong mga prinsipyo sa iba na ginagamit mo sa iyong sarili, at bise bersa. Kung hindi mo pa ito nagagawa, praktisin ang pagbubukas ng iyong sarili sa isang tao (mana pa'y sa isang tao na iyong mapagkakatiwalaan nang malalim sa gayong mga sekreto) tungkol sa mga bagay na nagawa mong mali noong kailan lamang. Praktisin ang paglapit sa mga tao at aminin ang mga bagay (kahit na ang mga napakaliit na mga bagay) na nagawa mong mali noong kailan lamang at iyong natakasan. Sa pakikipag-usap praktisin ang pakikinig sa iyong konsensya, tinatanong ito kung ikaw ay nagiging ganap na wasto at tapat sa iyong mga tugon at mga kritisismo. Lalo mong ipraktis ang pakikinig sa iyong konsensya kapag ang isang taong nagbibigay sa iyo ng kritisismo, upang makita kung walang ilang katotohanan sa kritisismo.  
+  
+Maaari mong kailangang lagyan ng takip sa bibig ng dyablo na nagsasabi sa iyo na masyadong malupit ang kritisismo, na ito ay nagpapalabis sa ilang mga bagay, atbp. Ngunit kung iyong gagawin ito, magsisimula mo na madiskubre ang isang espiritwal na kalayaan at kompiyansa na hindi mo pa nakakaroon noong una.  
+  
+Maaaring makatulong ito upang maunawaan na ang konsensyang lipunan at ang tunay na konsensya ay malapit na magkaugnay. Ang konsensyang lipunan ay gumagawa ng "tamang bagay" base sa grupo, kung ito man ay ang lipunan sa kabuuan o ang aming munting komunidad. Maaari itong talagang maging tamang bagay na gawin, ngunit kung ikaw ay unang tumitingin sa iba sa loob ng grupo upang maging sigurado na ginagawa mo ang tamang bagay, ito ay indikasyon na ang konsensya mo ay higit sa "sosyal" kaysa sa maka-Diyos. Hindi nating ganap na mapapagtagumpayan ang ating pangangailangan para sa isang konsensyang lipunan. Ngunit, kailangan ng isang palagiang paglago sa ating abilidad na malaman kung anong tama, at gawin ito, dahil lamang na ang ating konsensya (iyon ay ang tunay na konsensya) ay nagsasabi sa ating na gawin ito.  
+  
+Ito ay partikular na mahalaga kung susubukan mong mamuno. Ang pamumuno ay nagbibigay ng sa'yo nang labis na kalayaan at kapangyarihan upang maiwasan ang korapsyon kung hindi kay direktang kontrolado ng Diyos sa kung paano mo gagamiting ang kapangyarihan at kalayaan na iyan.  
+  
+Kaya, sa pagwawakas, maaari ko bang tawagin ang bawat isa sa inyo na gumawa ng seryosong mga pagsisikap na makinig pa sa inyong konsensya, at huliin at pawiin ang mga blind spot na nakahahadlang sa napakarami sa inyo sa inyong paglalakad kasama ng Diyos? Sa palagay ko na mahahanap natin ang mga resulta bilang positibo at encouraging. Maligayang panghuhuli! 
+

@@ -1,0 +1,49 @@
+---
+title: "Teach Others To Teach Others"
+meta_title: ""
+description: "this is meta description"
+date: 2025-09-29T00:00:00Z
+image: "/images/articles/pamu/Study.webp"
+categories: ["Leadership"]
+author: ""
+tags: ["Practical", "Wisdom", "Guidance"]
+draft: false
+---
+
+_Mag-aral ka upang maging kalugud-lugod sa paningin ng Diyos, isang manggagawa na walang dapat ikahiya, na wastong hinahati ang salita ng katotohanan."_ ([2 Timothy 2:15](http://www.biblegateway.com/passage/index.php?search=2+Timothy+2%3A15;&version=50;&interface=print "Read 2 Timothy 2:15"))  
+  
+Sa tuwing naririnig o ginagamit ko ang talatang ito mula sa Bagong Tipan, ang nasa isip ko ay ang isang taong matapat na nagbabasa ng isang aklat o nagsasaulo ng mga talata sa Bibliya. Hindi bale na ang Bibliya na alam natin ngayon ay hindi pa umiiral noong panahong iyon.  
+  
+Ngunit kamakailan lamang ako ay itinulot (nang may kaunting pag-udyok mula sa aking asawa) na makita ito mula sa isang perspektibo na mas naaayon sa mga pangyayari kung saan ito unang isinulat; at ang resulta ay naging isang mas kapana-panabik na larawan kung ano ang ibig sabihin nito. Susubukan kong ipaliwanag iyon sa artikulong ito.  
+  
+Ang dalawang salita na tila lumalabas sa ating isip sa talata sa itaas ay "pag-aaral" at "salita". Dahil sa dalawang salitang ito, tila makatwirang isipin na ang talata ay nagsasalita tungkol sa pag-aaral ng isang uri ng aklat. Ngunit noong isinulat iyon ni Pablo ang Apostol sa isang liham para sa isang bata na si Timoteo, ang Bagong Tipan noon ay hindi pa ganap na naisulat, at maging ang Lumang Tipan ay hindi maaaring magamit ng karaniwang mananampalataya noon. Ang mga aklat tulad nito ay bihirang umiral sa karaniwang tahanan. Kaya anong maaari ang pinag-uusapan niya?  
+  
+Dahil ang talata ay nagsasalita tungkol sa ating pangangailangan na "maging kalugod-lugod sa mata ng Diyos", nakukuha natin ang ideya na siya ay nagsasalita tungkol sa isang bagay na mahalaga. Sinasabi ng tradisyon na ang pag-aaral ng Bibliya ay mahalaga, hanggang sa punto na ang Bibliya ay halos NAGIGING Diyos. Ngunit kung hindi ang Bibliya ang espisipikong hinihikayat ni Pablo na aralin ni Timoteo, ano iyon? Kung talagang gusto nating palugdan ang Diyos, ang sagot sa tanong na ito ay dapat na sulit na hanapin.  
+  
+Isa pang parirala ay nagmumungkahi na maaaring may kinalaman ito sa ilang uri ng praktikal na kasanayan. Binanggit ni Pablo ang tungkol sa "isang manggagawang walang dapat ikahiya". Tiyak na sa anumang uri ng trabaho, kung ito’y man sa pagpipinta ng sasakyan, pagtatanim ng sibuyas, pag-aayos ng tax forms, o pangangaral ng sermon, mahalaga na ang mga "manggagawa" ay makagawa ng mga trabaho na wala silang dapat ikahiya. Kaya maaari na ang "pag-aaral" na pinag-uusapan dito ay kasing simple ng pagiging mahusay sa paaralan, sa apprenticeship, o kapag nagtatrabaho sa isang employer... para ikaw ay maging isang "manggagawa na walang dapat ikahiya" sa trabahong ginagawa mo.  
+  
+Ngunit pagkatapos nito ay naroon ang panghuling parirala: "na wastong humahati sa salita ng katotohanan". Ito ay nagmumungkahi ng isang bagay na higit pa sa isang mahusay na dinisenyo na kabinet o isang mahusay na naisakatuparan na jump shot sa basketball. May isang bagay tungkol sa uri ng pag-aaral na hinihikayat ni Pablo na tutulong sa isang tao na hanapin ang katotohanan, at higit pa rito, upang mahati o matukoy ang katotohanan mula sa kung ano ang hindi katotohanan. Ang pariralang ito mismo ay dapat na nagsabi sa atin noong nakaraang mga taon na ang talata ay malamang na hindi nagsasalita tungkol sa Bibliya O tungkol sa pagsulong sa ating mga trabaho.  
+  
+Ang aking sariling pakiramdam (ngayon) ay na ito ay nagsasalita tungkol sa pagkaaninaw, tungkol sa karunungan, tungkol sa payo, tungkol sa pag-iisip. Nais ng Diyos na mag-isip tayo... gamitin ang ating utak... upang ikonsidera ang mga isyu na inilalagay sa ating harapan araw-araw at subukang maaninaw ang pinakamahusay na paraan upang gamitin ang mga ito sa ating buhay.  
+  
+Kamakailan lamang ay marami akong iniisip tungkol sa "pagpapayo" at ang pangangailangan para sa lahat ng miyembro ng anumang organisasyon o komunidad na aktibong makibahagi sa paggawa ng desisyon. Nangangahulugan ito ng kakayahang pag-usapan ang mga isyu sa ating isipan, upang ikonsidera ang mga kalamangan at kahinaan, upang lutasin ang problema. Ngunit ang mga ito ay tila ilan sa mga pinaka bihirang katangian sa mundo ngayon. Kahit saan ka tumingin may mga taong handang maging puppet para sa pinakamalapit na puppet-master. Ayaw nilang mag-isip; gusto lang nila na ang ibang tao ang gumawa ng mga desisyon para sa kanila, para sila’y maaliw sa katotohanan na sila ay nasa ligtas na katayuan.  
+  
+Ang larawang ito ng mga taong hindi makapag-isip para sa sarili ay madalas na ipinakita patungkol sa mga bagong relihiyosong kilusan, ngunit ito ay, sa aking palagay, higit pang laganap sa mundo ng pagtatrabaho araw-araw. May mga taong umaabot sa pagretiro at hindi makayanan ang responsibilidad na magdesisyon para sa kanilang sarili kung kailan babangon sa umaga, kung ano ang gagawin sa buong araw, at kailan maglilipat mula sa isang bagay patungo sa isa pa. Lahat ng ito ay sumasalamin sa paraan ng kanilang pamumuhay, hindi nagtatanong, at bihirang kumukuha ng inisyatiba. Ito’y nakalulungkot na ang mundo ay puno ng mga tao na handang-handa lamang na magpalista bilang mga sangla para sa pinakamalapit na power-broker.  
+  
+Sa loob ng halos 30 taon ang aking panganay na anak na lalaki ay namuhay kasama ko at nagtrabaho kasama ko sa komunidad ng mga Kristiyano na itinatag namin ng aking asawa. Isa siya sa mga pinaka-matulungin na miyembro ng komunidad na iyon, at lahat dahil sa kanyang kakayahang tanungin ang mga bagay-bagay, at makipagtalo nang maayos sa kanyang kaso. Totoo, dati kong kinaiinisan ang kanyang mga hindi pagkakasundo minsan, ngunit kahit na tila siya ay nakikipagtalo para lamang sa pakikipagtalo, ito ay nangailangan sa kaniya na mag-isip. Bilang isang resulta, alam ko na kung siya ay maiiwan sa pamamahala ng anumang sitwasyon, halos kakayanin niya ito. At lahat sapagkat natuto siyang mag-isip.  
+  
+Hindi ako kailanman kumuha ng debating sa paaralan, ngunit ito ay parang isa sa mga pinakamagandang paksa na maaaring kunin ng isa. Karamihan sa mga tao ay nag-iisip, "Ugh! Mga argumento! Ayaw ko ang mga iyon. Nakakapanlumo! Napaka negatibo!" Ngunit, siyempre, ang nangyayari sa isang debating team ay tinuturuan ka nilang makipagtalo sa alinmang panig na ibinilin sa iyo na makipagtalo, at hindi lamang sa isa na gugustuhin mo. Sa madaling salita, sa pangkalahatan, napipilitan kang ikonsidera ang magkabilang panig, ang lahat ng mga kalamangan at kahinaan. Sa madaling salita, natututo kang mag-isip.  
+  
+Sana mas marami pang Kristiyanong mananampalataya ang talagang matututong tanungin ang kanilang pananampalataya paminsan-minsan, para lamang maaari nilang isipin ang mga isyu at maging mas kapani-paniwala at mas kumbinsido sa kung ano ang kanilang pinaniniwalaan.  
+  
+Ang pag-iisip sa labas ng kahon ay palaging bubuo ng kontrobersya, ngunit lahat ng iyon ang maghahanda sa’yo nang mas mabuti para sa anumang iyong ipasya na gawin sa iyong buhay sa huli. Anuman ang ating pinaniniwalaan o ginagawa ngayon ay magiging patay na mga tradisyon kung hindi natin alam kung bakit natin pinili ang mga ito, at kung hindi natin patuloy na pananatilihing malinaw ang mga isyu sa ating sariling isipan at sa isipan ng iba.  
+  
+Iniisip ko ang salitang "makatuwiran" noong isang araw. Ito ay nagmula sa parehong salitang-ugat ng "katwiran" at madalas nating pag-usapan ang tungkol sa "pangangatwiran" bilang isang paraan ng pagtatalo. Ngunit higit pa riyan, ang salitang "katwiran" sa sarili nito ay iniuugnay sa salitang "Bakit?" At iyon ang salitang kailangan nating itanong sa ating sarili nang palagian kung gusto nating maiwasan mawala mula sa ating landas. Bakit natin ito ginagawa? Bakit sa tingin natin ito ay mahalaga? Bakit may ibang tumututol dito? Bakit tayo inilagay dito sa planetang ito? Kung hindi natin kinukuwestiyon ang ating mga motibo at ang mga motibo ng mga nakapaligid sa atin, sa huli ay magsisimula tayong magmumukhang hindi makatwiran (i.e. "nang walang katwiran").  
+  
+May mga ilang taong nananahimik sa usapan dahil hindi raw sila magaling makipagtalo ng kanilang posisyon. Ngunit hindi ka nagiging isang mahusay na manlalaro ng basketball sa pamamagitan lamang ng paglalaro ng chess. Ito ay sa pamamagitan ng pagsasanay na ang isang tao ay nagiging mahusay, at kung alam mo na ikaw ay walang karanasan sa pagtatalo ng iyong punto, kung gayon kahit na ang maliit na piraso ng katotohanan ang dapat makatulong sa iyo na maging mas pansamantala at mapagpakumbaba sa mga puntong sinusubukan mong gawin.  
+  
+Ang matagumpay na pagtatalo ng isang punto ay hindi lamang isang bagay ng pagkakaroon ng kakayahang humiyaw at magmagaling. Nagmumula ito sa pag-iisip nang seryoso tungkol sa kung ano ang iyong pinaniniwalaan at sa pagkakaroon ng kakayahang suriin nang matapat ang mga kahinaan pati na rin ang matitibay na punto.  
+  
+Sa pamamagitan ng pagsasanay, magkakaroon ka ng higit pang kumpiyansa, at magiging handa ka para sa mga kontra-argumento na ilalabas ng sarili mong mga pahayag, upang hindi ka magsabi ng isang bagay na hindi dapat (o at least hindi napaka madalas)!  
+  
+Bilang pagtatapos, hayaan mo akong hikayatin kayong lahat na gumawa ng mga praktikal na hakbang tungo sa pag-iisip nang mabuti upang maging handa sa alinman sa daan-daang isyu na nakapaligid sa iyo araw-araw. Isipin kung ano ang maaaring magkamali. Isipin kung ano ang maaaring gumana. Makinig sa sinasabi ng iba. Pagkatapos ay sumulong nang may kumpiyansa at kababaang-loob, batid na ikaw ay aktibong naghahangad na maging "isang manggagawa na walang dapat ikahiya, na wastong hinahati ang salita ng katotohanan" sa lahat ng iyong ginagawa.

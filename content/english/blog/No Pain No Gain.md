@@ -6,7 +6,7 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/NoPainNo.webp"
 categories: ["Top Forty"]
 author: ""
-tags: ["Positibo"]
+tags: ["Positive"]
 draft: false
 ---
 

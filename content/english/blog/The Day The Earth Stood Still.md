@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
 image: "/images/articles/lefto/Theater.webp"
-categories: ["Mga Natira"]
+categories: ["Leftovers"]
 author: ""
 tags: ["Random"]
 draft: false
