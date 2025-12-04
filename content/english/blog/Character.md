@@ -9,33 +9,33 @@ author: ""
 tags: ["Guidance"]
 draft: false
 ---
+What ever happened to good old-fashioned character?  
+  
+The world is full of friendly, polite, helpful... outwardly very nice people. But in the midst of adversity, when 'niceness' is really needed, how much remains?  
+  
+I asked a nurse who was defending all the nice people in her church, how many of them were willing to actually give their lives for her; and she answered, "When it comes to that, I suppose none of them are."  
+  
+She went further and confessed that she did not even know one that would give her their car (which she badly needed to get to work at that time).  
+  
+The test of character is not how one behaves when things are going smoothly, but rather, how one behaves when faced with ultimate life-and-death priorities.  
+  
+The great evils of the world are not carried out by red-faced demons. They are carried out by people who are on the whole, good neighbours, respectable churchgoers, successful businesspeople, faithful marriage partners... but who have never found anything worth dying for.  
+  
+Consequently, whenever faced with choices between the virtues they profess and losing their jobs, their reputations, their possessions, or their life, they simply let go of the virtues 'temporarily', until the danger is past.  
+  
+Multi-national corporations that rape the environment and exploit the Third World are really just groups of nice shareholders and nice employees like you and me.  
+  
+Governments that oppress minorities and practice corruption are composed of people who would have no trouble gaining character references from their friends.  
+  
+Abortionists, tobacco advertisers, producers of pornography, bookies, criminal lawyers... they are all just out to make a living in the best way they can... the same as you and me. And if you get to know them, you'll find they are basically pretty nice people in the day to day trivialities of life.  
+  
+Until we can see that evil lurks in each of us under the cloak of our best self-image, we will be powerless to combat evil. The Enemy is happy to let us talk ideals, as long as he knows that, in the crunch, our ideals will collapse under the excuse of being 'realistic'.  
+  
+"Character" was a word I heard often when growing up. But today even the thought of a person being committed to an ideal strongly enough to die for it is suss. Young people are no longer told to develop character. Instead, they're told to love themselves, to survive, to get ahead, to look out for Number One.  
+  
+In the face of all this, we as Christians wish to declare our commitment to building character... whether or not it works (since commitment to ideals in the face of failure is the essence of character anyway). We will try to do and to say what is right simply because it is right, and to do our best to accept the punishment society hands out to such fanatics.  
+  
+We are looking for others who do the same.
 
-Ano ang nangyari sa huwaran nang pagkakaroon ng mabuting moral na karakter?  
-  
-Ang mundo ay puno ng palakaibigan, magalang, matulungin... napakabait na mga tao sa panlabas. Ngunit sa gitna ng kagipitan, kung saan ang 'kabaitan' ay kailangan talaga, gaano karami ang natitira?  
-  
-Tinanong ko ang isang babaeng nars na nagtatanggol sa lahat ng mababait na tao sa kanyang simbahan, kung ilan sa kanila ang handang ibigay talaga ang kanilang buhay para sa kanya; at siya ay sumagot, "Pagdating sa bagay na iyon, sa palagay ko'y wala".  
-  
-Dumagdag pa siya at ipinagtapat na wala talaga siyang alam na isa na magbibigay sa kanya ng kanilang sasakyan (kung kailan talagang kailangan na kailangan niya makapunta sa trabaho sa panahong iyon).  
-  
-Ang pagsubok sa karakter ay hindi sa kung paano kumilos ang isa kapag maayos ang lahat, ngunit sa halip, kung paano kumilos ang isa kapag nahaharap sa mga buhay at kamatayan na sitwasyon.  
-  
-Ang matitinding kasamaan ay hindi isinasagawa ng mga demonyo na nakikita. Ang mga ito ay isinasagawa ng mga taong nasa kabuuan ay, mabubuting kapitbahay, magagalang na sumisimba, matatagumpay na negosyante, matatapat na kasosyo sa kasal... ngunit mga hindi nakahanap ng anumang bagay na mahalaga upang ipagkamatay.  
-  
-Dahil dito, tuwing nahaharap sa mga pagpapasya sa pagitan ng mga birtud na kanilang ipinapahayag at pagkawala ng kanilang mga trabaho, kanilang reputasyon, kanilang mga pag-aari, o ang kanilang buhay, pinababayaan lamang nila ang kanilang mga birtud nang "pansamantala" hanggang sa malampasan ang panganib.  
-  
-Ang mga multi-national na korporasyon na sumisira sa kapaligiran at sinasamantala ang Ikatlong Daigdig ay mga grupo lamang ng mababait na shareholder at mababait na empleyado kagaya natin .  
-  
-Ang mga pamahalaang pumipigil sa mga minorya at nagsasagawa ng katiwalian ay binubuo ng mga tao na hindi magkakaproblema sa pagkuha ng mga sanggunian sa karakter mula sa kanilang mga kaibigan.  
-  
-Ang mga abortionist, mga tagapag-anunsyo ng tabako, mga tagapaglikha ng pornograpiya, mga bookie, mga abogado ng kriminal... lahat sila ay nagtatrabaho upang mabuhay sa pinakamahusay na paraan na makakaya nila... kagaya natin.  
-At kung iyong kilalanin sila, mahahanap mo na sila'y ay napakabait pala sa mga pang araw-araw na tribialidad ng pamumuhay.  
-  
-Hanggang sa maaari nating makita na ang kasamaan ay nagtatago sa bawat isa sa atin sa ilalim n balabal ng ating pinakamahusay na self-image, mawawalan tayo ng kapangyarihan upang labanan ang kasamaan. Ang Kaaway ay masaya na hayaan tayong mag-usap ng mga ideyal, hangga't alam niya na, kapag sa panahon ng kagipitan, ang ating ideyal ay guguho sa ilalim ng dahilan ng pagiging "makatotohanang".  
-  
-Ang "karakter" ay isang salitang madalas kong naririnig habang lumalaki. Ngunit ngayon kahit na ang pag-iisip na ang isang tao ay may matibay na dedikasyon sa isang ideyal ay sapat upang ipagkamatay ay kahina-hinala. Ang mga kabataan ay hindi na napapagsabihan na bumuo ng karakter.  
-Sa halip, sila ay napapagsabihan na mahalin ang kanilang mga sarili, na mabuhay, na mag-unlad, hangarin na maging "Number One".  
-  
-Sa harap ng lahat ng ito, tayo bilang mga Kristiyano ay nagnanais na ideklara ang ating dedikasyon sa pagbuo ng karakter... gumagana man ito o hindi (sapagkat ba ang dedikasyon sa mga ideyal sa harap ng pagkabigo ay ang nilalaman ng karakter). Susubukan namin gawin at sabihin kung ano ang tama, at gagawin namin lahat ng aming makakaya upang tanggapin ang parusang ibinibigay ng sambayanan sa mga gayong mga panatiko.  
-  
-Naghahanap kami ng iba pang nagsasagawa rin nito.
+
+

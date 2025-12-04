@@ -9,35 +9,37 @@ author: ""
 tags: ["Doctrine", "Theology"]
 draft: false
 ---
+If you understand how a miracle works, is it still a miracle? If I can do something you have no explanation for, does that make me spiritually superior to you? What is a miracle anyway? These are just a few of the questions which have perplexed me as I have tried to understand what my position should be with regard to the supernatural.  
+  
+In this age of technological wonders, it is sad that nominal Christians so often choose to put their faith in miracles rather than in a God who just happens to do things that no human being can understand.  
+  
+Jesus said, "Evil people seek miracles, but no miracle will be given to them except the miracle of Jonah." ([Luke 11:29-32](http://www.biblegateway.com/passage/index.php?search=Luke+11%3A29-32;&version=50;&interface=print "Read Luke 11:29-32")) He goes on to say that Jonah's message was proof that he was right, just as Solomon's wisdom was enough to bring the Queen of Sheba all the way from Africa to listen to him.  
+  
+So, with or without miracles, God is looking for people who will stay true to certain principles contained in the message that Jesus delivered. Such people are extremely rare.  
+  
+Paul said that the Jews were looking for miracles; but that God chose to save the world through the foolishness of preaching (I Corinthians 1:21-22), and in particular, through preaching the cross.  
+  
+What is this "preaching of the cross"?  
+  
+Jesus calls on us to take up our cross and follow him. It sounds like he is asking for a commitment to something that would be so deep as to prepare us to face even martyrdom if necessary. But such a calling is unpopular today. People prefer miracles to martyrdom. Or, as Paul put it, the preaching of the cross is, to them, foolishness.  
+  
+The Bible tells us that there is a coming world ruler who will deceive the world through dishonest miracles. (II Thessalonians 2:9-11) It says that he will only be able to do this because the masses will have already rejected the truth.  
+  
+What an accurate picture of so many today: There is a significant section of the church world today which has rejected much of the truth in the teachings of Jesus, and has replaced it with promises of miracles.  
+  
+The Pentecostal movement relies strongly on a misinterpretation of the final verse of Mark's gospel. In this passage, Jesus orders his disciples to go to all the world preaching the gospel; and he promises that miracles will "follow them that believe".  
+  
+Ask yourself, "What is my part of the contract? and what is God's part?" Jesus is not commanding us to do miracles in this passage. But he does promise that miracles will happen if we do our part. And our part is to "preach the gospel".  
+  
+If miracles aren't happening, it's probably because we aren't preaching the gospel. (We won't go into details here on what preaching the gospel means. You can read about that in such articles as Living by Faith: How to Do It, and Fingers in Their Ears.)  
+  
+Jesus said that we would do greater works than he did. What could be greater than raising the dead? Giving eternal life, of course--something that not even Jesus himself could give until after his sacrificial death.  
+  
+But eternal life does not have the here-and-now excitement that an evil world seeks; and so it has been replaced by sensationalism, and lying signs and wonders.  
+  
+As believers, we have had a few experiences that escape natural explanation... experiences that we cannot label as anything short of miraculous. But the bigger picture is that we've never been able to find a simple formula for harnessing God and getting him to act when and how we tell him to. So our primary emphasis has been on "preaching the gospel" the way he told us to; and then we just thank him for any miracles that follow as a result.  
+  
+Remember, God won't judge us by how many miracles we experience, but rather by how faithfully we obey him.
 
-Kung naiintindihan mo kung paano gumagana ang isang himala, himala pa rin ba ito? Kung magagawa ko ang isang bagay na hindi mo maipaliwanag, ginagawa ba ako nitong mas mahigit sa iyo ng espirituwal? Ano ba talaga ang isang himala? Ang mga ito ay iilan sa mga katanungan na nagpagulo sa akin habang sinubukan kong maunawaan kung ano ang dapat kong posisyon tungkol sa supernatural.  
-  
-Sa panahong ito ng mga kababalaghan sa teknolohiya, nakalulungkot na ang mga nominal na Kristiyano ay madalas na pumipiling ilagay ang kanilang pananalig sa mga himala kaysa sa isang Diyos na nagkataon na gumawa ng mga bagay na hindi maintindihan ng tao.  
-  
-Sinabi ni Hesus, "Ang masasamang tao ay naghahanap ng mga himala, ngunit walang himalang ibibigay sa kanila maliban sa himala ni Jonas." ([Luke 11:29-32][28]) Patuloy niyang sinasabi na ang mensahe ni Jonas ay patunay na siya ay tama, tulad ng karunungan ni Solomon ay sapat upang dalhin ang Reyna ng Sheba mula sa Africa upang makinig sa kanya.  
-  
-Kaya, sa mayroon o walang mga himala, ang Diyos ay naghahanap ng mga taong mananatiling tapat sa ilang mga prinsipyong nakapaloob sa mensahe na inihatid ni Hesus. Ang mga ganitong tao ay napakabihira.  
-  
-Sinabi ni Paulo na ang mga Hudyo ay humahanap ng mga himala; ngunit pinili ng Diyos na iligtas ang mundo sa pamamagitan ng kahangalan ng pangangaral ([1 Corinthians 1:21-22][29]), at sa partikular, sa pamamagitan ng pangangaral ng krus.  
-  
-Ano itong "pangangaral ng krus"?  
-  
-Si Hesus ay tumatawag sa atin na pasanin ang ating krus at sundan siya. Mukhang humihiling siya ng isang pangako sa isang bagay na magiging napakalalim upang ihanda tayo na harapin ang kahit pagkamatay para sa ating pananampalataya kung kinakailangan. Ngunit ang nasabing pagtawag ay hindi tanyag ngayon. Mas nais pa ng mga tao ang mga himala kaysa sa pagkamartir. O, tulad ng sinabi ni Paulo, ang pangangaral ng krus ay, sa kanila, kahangalan.  
-  
-Sinasabi sa atin ng Bibliya na may darating na pinuno ng mundo na magpapalinlang sa mundo sa pamamagitan ng huwad na mga himala. ([2 Thessalonians 2:9-11][30]) Sinasabi nito na magagawa lamang niya ito sapagkat tatanggihan na ng masa ang katotohanan.  
-  
-Ito'y ay isang tumpak na larawan ng napakaraming tao ngayon. Mayroong isang makabuluhang seksyon ng mundo ng simbahan ngayon na tinanggihan ang karamihan sa katotohanan sa mga aral ni Jesus, at pinalitan ito ng mga pangako ng mga himala.  
-  
-Ang kilusang Pentecostal ay lubos na umaasa sa maling interpretasyon ng huling talata ng ebanghelyo ni Marcos. Sa talatang ito, iniutos ni Hesus ang kanyang mga alagad na puntahan ang buong mundo na nangangaral ng ebanghelyo; at ipinangako niya na ang mga himala ay "susunod sa kanilang mga naniniwala".  
-  
-Tanungin ang iyong sarili, "Ano ang tungkulin ko sa kontrata? At ano ang tungkulin ng Diyos?" Hindi tayo inuutusan ni Hesus na gumawa ng mga himala sa talatang ito. Ngunit nangangako siya na ang mga himala ay mangyayari kung gagawin natin ang ating tungkulin. At ang tungkulin natin ay "ipangaral ang ebanghelyo".  
-  
-Kung ang mga himala ay hindi nangyayari, marahil ay dahil hindi tayo nangangaral ng ebanghelyo. (Hindi namin idedetalye rito kung ano ang ibig sabihin ng pangangaral ng ebanghelyo. Mababasa mo ang tungkol doon sa mga artikulo tulad ng Mabuhay sa Pananalig: Paano ito Gawin, at Mga Daliri sa Kanilang Mga Tainga.)  
-  
-Sinabi ni Hesus na gagawa tayo ng mas dakilang mga gawa kaysa sa ginawa niya. Ano ang maaaring mas malaki kaysa sa pagbangon ng mga patay? Pagbibigay ng buhay na walang hanggan, syempre-isang bagay na kahit si Hesus mismo ay hindi maaaring magbigay hanggang matapos ang kanyang sakripisyong kamatayan.  
-  
-Ngunit ang buhay na walang hanggan ay walang agarang kagalakan na hinahangad ng isang masamang mundo; at sa gayon ito'y napalitan ng sensayonalismo, at mga huwad na himala.  
-  
-Bilang mga mananampalataya, mayroon kaming ilang mga karanasan na makatakas sa natural na paliwanag... mga karanasan na hindi namin maaaring lagyan ng label bilang anumang bagay kundi kahima-himala. Ngunit ang mas malaking larawan ay hindi pa kami nakakahanap ng isang simpleng pormula upang kontrolin ang Diyos at sundin niya sa kung kailan at paano natin sasabihin sa kanya. Kaya't ang aming pangunahing empasis ay sa "pangangaral ng ebanghelyo" sa paraang sinabi niya sa atin; at pagkatapos ay pinasasalamatan lamang namin siya para sa anumang mga himala na sumusunod bilang isang resulta.  
-  
-Tandaan, hindi tayo hahatulan ng Diyos sa kung gaano karaming mga himala ang ating nararanasan, ngunit sa pamamagitan ng kung gaano tayo katapatan na sinusunod natin siya.  
+
+

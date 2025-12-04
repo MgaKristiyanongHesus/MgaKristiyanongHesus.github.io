@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
 image: "/images/articles/LetterFrom.webp"
-categories: ["Inspirationals"]
+categories: ["Inspirational"]
 author: ""
 tags: ["Letter"]
 draft: false

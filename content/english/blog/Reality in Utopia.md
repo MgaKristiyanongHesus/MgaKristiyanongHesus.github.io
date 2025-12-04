@@ -1,37 +1,40 @@
 ---
-title: "Reality of The Utopia"
+title: "Reality in Utopia"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
 image: "/images/articles/lefto/Mistake.webp"
 categories: ["Leftovers"]
 author: ""
-tags: ["Praktical", "Community"]
+tags: ["Practical", "Community"]
 draft: false
 ---
 
-Ang Utopia ay isang perpektong mundo na hindi umiiral. Madalas iniiwan ng mga taong naghahanap ng ganoong lugar ang mga ideyal nang mabigo nilang hanapin ito.  
+Utopia is an ideal world that does not exist. People searching for such a place often abandon ideals altogether when they fail to find it.  
   
-Bilang mga Kristiyano, naniniwala kami na umiiral ang Utopia, ngunit bilang ang kaharian ng langit lamang. Ito ay isang kabalintunaan, dahil ang kaharian ng langit ay hindi nakikita. Ito ay palaging lampas lamang sa ating pisikal na pagkakahawak. Parang ito’y isang paru-paro, na lumilipad palayo sa tuwing tayo ay lalapit dito. Ngunit ito nga ay umiiral, at ito ay totoo. Hindi tayo dapat tumigil sa paniniwala dito. Tulad ng paru-paro, gayunpaman, ang pinakamabuting mapagpipilian natin ay ang pagtuon na makita ang kaharian ng langit sa halip na subukang ilagay ito sa isang “kahon”. Panatilihin ang 'pangitain' ng gayong mundo, ngunit maging handa sa mga problema sa tuwing susubukan mong ikahon ito.  
+As Christians, we believe Utopia does exist, but only as the kingdom of heaven. This is a paradox, because the kingdom of heaven is invisible. It is always just beyond our physical grasp. Like a butterfly it flits away whenever we get close to it. But it does exist, and it is real. We must not stop believing this. Like the butterfly, however, our best bet is to concentrate on seeing the kingdom of heaven rather than trying to contain it. Keep the 'vision' of such a world, but be prepared for problems each time you try to package it.  
   
-Ang mensahe ng Lumang Tipan ay ibinigay sa kaharian ng Israel. Ang mensahe ng Bagong Tipan ay ibinibigay sa mga indibidwal. Ang kaharian ng langit at ang Kaharian ng Israel ay ibang-iba. Ang Israel noo’y isang nakikitang bansa, lahi, at relihiyon. Ang kaharian ng langit ay isang hindi nakikitang bansa, lahi, at relihiyon.  
+The Old Testament message was given to the kingdom of Israel. The New Testament message is given to individuals. The kingdom of heaven and the Kingdom of Israel are very different. Israel was a visible nation, race, and religion. The kingdom of heaven is an invisible nation, race, and religion.  
   
-Ang Kaharian ng Israel ay hindi masama, ngunit ito ay naglalarawan ng kalagayan ng tao pagdating sa espirituwal na kasakdalan. Kung ano ang nilayon ng Diyos na gamitin bilang isang kasangkapan (iyon ay ang mga tuntunin at pamahalaan ng Israel) ay naging mismong wakas sa sarili nito. Sa tuwing may nangyayaring ganoon, kadalasan ay kailangang ihagis ng Diyos ang kasangkapan at maghanap ng papalit nito.  
+The Kingdom of Israel wasn't evil, but it did illustrate the human predicament with regard to spiritual perfection. What God had intended to be used as a tool (i.e. Israel's rules and government) became an end in itself. Whenever something like that happens, God usually has to toss the tool out and look for something to take its place.  
   
-Nais naming gumana ang aming pagsasama bilang isang kasangkapan... isang kasangkapan na makatutulong sa bawat isa sa atin na lumapit sa espirituwal na kasakdalan. Ngunit hindi kami ang utopia. Hindi kami ang kaharian ng langit.  
+We would like our fellowship to work as a tool... a tool that can help each of us to move closer to spiritual perfection. But we are not utopia. We are not the kingdom of heaven.  
   
-Gayunpaman maaari kaming gamitin ng Diyos upang ilapit ang mga tao sa totoong utopia. Kung tumutok ka sa aming mga di-kasakdalan, maaari mo kaming itapon, bilang isang huwad na utopia, isang malaking pagkabigo.  
+Yet we can be used by God to move people closer to the real utopia. If you focus on our imperfections, you could toss us aside, as a false utopia, a big disappointment.  
   
-Ngunit bago mo gawin, tanungin mo ang iyong sarili: Nasaan ang tunay na utopia? Ito ba ay sa pinanggalingan mo? Ito ba ay matatagpuan sa iyong sarili sa gubat? Ang mga piraso ng kaharian ng langit ay matatagpuan kahit saan. Ngunit hangga't naglalakad ka sa lahat ng liwanag na mayroon ka.  
+But before you do, ask yourself: Where is the real utopia? Is it back in what you came from? Is it to be found off on your own in the bush? Bits of the kingdom of heaven can be found anywhere. But only as long as you are walking in all the light that you have.  
   
-At saan mo nakikita ang liwanag na nagniningning nang mas maliwanag ngayon? Doon ka dapat kung hindi mo mawala sa paningin mo ang 'paru-paro’'. Layunin ang pagiging perpekto. Gawin ang anumang kinakailangan upang mapalapit sa mga ideyals ng kaharian ng langit. Ngunit huwag sumuko kapag ang katotohanan ay kulang sa iyong mga inaasahan.  
+And where do you see the light shining most brightly today? That's where you need to be if you are not to lose sight of the 'butterfly'. Aim at perfection. Do whatever it takes to get closer to the ideals of the kingdom of heaven. But don't give up when reality falls short of your expectations.  
   
-Walang taong perpekto. Nadidismaya ako kung hindi ko maipaabot sa iyo ang nais kung ipabatid. Ngunit walang alinlangan na pareho kang nadidismaya kapag nakita mo kung gaano ako kainip na maaari kong maging. Ang mga pagkabigo na ito ay tila bahagi ng laro. Ang kaharian ng langit ay isang destinasyon at isang paglalakbay din. Ang kaharian ng langit ay naglalayon sa pagiging perpekto; ito ay katapatan sa kabila ng ating mga pagkakabigo.  
+Nobody's perfect. I get discouraged when I cannot get through to you. But no doubt you get equally discouraged when you see how impatient I can be. These disappointments seem to be part of the game. The kingdom of heaven is a journey as much as a destination. The kingdom of heaven is aiming at perfection; it is faithfulness in spite of our failings.  
   
-Ang bawat isa sa atin ay nangangarap ng isang lugar kung saan gumaganap ang iba para sa ating kasiyahan. Ngunit upang maging utopia, kailangan din nating gumanap sa kanilang kasiyahan.  
+We each dream of a place where others perform to our satisfaction. But to be utopia, we would need to perform to their satisfaction too.  
   
-Ang pinakamagandang nakikita kong nangyayari sa mundong ito ay isang pakikisama kung saan ang bawat isa sa atin ay nagsisikap na lingkuran ang iba, na hindi umaasa ng anumang kapalit. Kung gagawin nating lahat ito, magiging maayos ang lahat. Ngunit kahit na iyon hindi pa ako nakakita ng perpektong gawain para sa maraming tao nang napakatagal. Hindi lang din ako binigo ng iba; sapagkat binigo ko rin sila.  
+The best I can see happening in this world is a fellowship where each of us tries to serve the others, not expecting anything in return. If we all did this, things would work out fine. But even that I have never seen work perfectly for many people for very long. It's not just that others let me down either; for I too have let them down.  
   
-Marahil iyon ang dahilan kung bakit ang simbolo ng kaharian ng langit ay isang krus. Ang Hardin ng Eden ay bumagsak. Ngunit isinakripisyo ng Diyos ang kanyang Anak upang ilarawan ang isang bagay na mas maganda kaysa sa lahat ng mga bulaklak at puno sa Hardin.  
+Perhaps that is why the symbol of the kingdom of heaven is a cross. The Garden of Eden flopped. But God sacrificed his Son to illustrate something more beautiful than all the flowers and trees in the Garden.  
   
-At iyon ang tunay na Utopia ng Diyos, ang hindi nakikitang kaharian ng langit.
+And that is God's real Utopia, the invisible kingdom of heaven.
+
+
+

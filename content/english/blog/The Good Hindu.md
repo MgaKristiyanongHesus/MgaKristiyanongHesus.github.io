@@ -9,24 +9,27 @@ author: ""
 tags: ["The Teachings of Jesus", "Hard Truth"]
 draft: false
 ---
-Tinanong ng isang relihiyosong tao si Jesus, "Ano ang gagawin ko upang magkaroon ng buhay na walang hanggan?"  
+A religious man asked Jesus, "What can I do to have eternal life?"  
   
-"Mahalin mo ang Diyos at ang iyong kapwa," sagot ni Hesus.  
+"Love God and your neighbour," Jesus answered.  
   
-Dahil kakaunti ang pagmamahal ng lalaki, tinanong niya, “Sino ang aking kapwa?”  
+Because the man had little love, he asked, "Who is my neighbour?"  
   
-Pagkatapos ay nagkwento si Jesus:  
+Jesus then told a story:  
   
-Mayroong isang lalaking binugbog at ninakawan habang naglalakbay siya sa kalsada patungong Delhi mula Calcutta. Naiwan siya sa kalsada na halos patay na.  
+A man was beaten and robbed while travelling between Delhi and Calcutta. He was left by the road half dead.  
   
-Nakita siya ng isang pari, ngunit huling-huli na siya sa misa. Kaya hindi nalang niya pinansin ang lalaki.  
+A Catholic priest saw him, but he was late for mass. So he looked away and passed by.  
   
-Nakita rin siya ng isang Protestanteng misyonero, ngunit papunta siya sa isang Bible-study, kaya hindi na rin nalang niya pinansin ang lalaki.  
+A Protestant missionary also saw the man, but he was on his way to a Bible study, so he too looked the other way.  
   
-Pagkatapos ay dumating ang isang Hindu at tinulungan ang lalaki. Dinala siya sa isang ospital at binayaran ang singil, dahil walang pera ang lalaki.  
+Then a Hindu came and helped the man. He took him to a hospital and paid the bill, because the man had no money.  
   
-"Ngayon sino sa tatlo ang naging mabuting kapwa sa lalaki?" Tanong ni Hesus  
+"Now who was a good neighbour?" Jesus asked.  
   
-“Yung Hindu," sagot ng relihiyosong lalaki.  
+"The Hindu," the religious man replied.  
   
-"Kung gayon sundin mo ang kanyang halimbawa," utos ni Jesus.
+"Then follow his example," Jesus commanded.
+
+
+

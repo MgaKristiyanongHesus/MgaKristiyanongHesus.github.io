@@ -9,30 +9,29 @@ author: ""
 tags: ["Persecution"]
 draft: false
 ---
-
-Sinipi ng sumusunod na artikulo si William Penn, isang sinaunang Quaker, alang-alang sa pag-uusig. Ang mga kasalukuyang Quaker ay lubos na iginagalang sa buong mundo; ngunit may panahon na sila, tulad ng mga Hesukristiyano, ay labis na pinag-usig dahil sa kanilang pananampalataya.
-
-Noong minsan tinanong kami ng isang babae kung bakit inisip naming mga Hesukristiyano na kami ay nakakaranas ng labis na pag-uusig. Ipinagtapat ko sa kanya na sa tingin ko ay may kinalaman ito sa aming pagiging Kristiyano. Ang kanyang ekspresyon ay nagpakita na siya ay personal na na-offend sa gayong pag-aangkin. Kung tutuusin, siya rin ay isang nag-aangking Kristiyano, at hindi siya inuusig.
-
-Sa kanyang pagtatanggol, may isa pang kaibigan na nagsagawa ng parehong pagpigil. Tinukoy niya ang isa pang nag-aangking Kristiyano, at sinabing, "Maaari mo bang pag-isipin na ang iba ay nagagalit sa kanya sa kung paano ang mga tao ay nagagalit sa iyo?" Well, hindi, hindi  maaari, sabi ko, ngunit nangangahulugan ba iyon na ang kasikatan ay dapat na maging sandigan ng katuwiran?
-
-Si William Penn, sa kanyang sanaysay na "No Cross, No Crown", ay nagsusulat tungkol sa mga naunang gawi ng mga Quaker, tulad ng pagtanggi na tanggalin ang  sumbrero ng isa sa presensya ng isang taong itinuring na mas mataas sa lipunan. Sinabi niya na ang mga bagay na ito ay hindi mga bagay na kinakailangang gawin ng mga Quaker, ngunit na tila angkop ito kung tratuhin nila ang lahat nang pantay-pantay. ("Natatakot kaming gumamit ng mga bagay na naaayon sa batas, baka gamitin namin ang mga ito nang labag sa batas.") Ang hiyaw na idinulot nito mula sa diumano'y mga nakatataas sa lipunan, kasama na ang daan-daang pag-aresto at maraming taon ng pagkakulong, ay ang bagay na nagpakumbinsi sa kanila nang higit pa sa anuman na ang ginawa nila ay tama.
-
-Para sa mga naunang Quaker na ito, ang pag-uusig na tila wala sa proporsiyon sa kilos na nagdulot dito, ay malinaw na katibayan ng katuwiran ng kilos. ("Kung gusto sana natin ng patunay ng katotohanan ng aming panloob na paniniwala at paghatol, ang mismong gawain ng mga sumasalungat dito ay saganang magpapatunay sa amin.")
-
-Nagbabala ang Bibliya laban sa inuusig sa paggawa ng masama, ngunit hinihimok tayo nitong magsaya kapag inuusig dahil sa paggawa ng mabuti. ([](https://www.biblegateway.com/passage/index.php?search=1+Peter+4%3A15-16;&version=50;&interface=print)[1 Peter 4:15-16](http://www.biblegateway.com/passage/index.php?search=1+Peter+4%3A15-16;&version=50;&interface=print "Read 1 Peter 4:15-16")) Pinag-uusapan natin ang tungkol kay Jesus na naglalakad saanman na gumagawa ng mabuti, at pagkatapos ay kinapopootan at inuusig siya dahil dito. Pero bakit ganito ang tugon ng mga tao?
-
-Nagpatuloy si Penn sa parehong sanaysay na iyon, upang sabihin na mayroong awtoridad na kasama ng paggawa ng mabuti. Ang kapalaluan sa bahagi ng iba ay nagiging dahilan upang sila ay mainggit sa espirituwal na awtoridad na ito. At dahil sa kanilang pagnanasa sa gayong kapangyarihan ang nagpapaggawa sa kanila na maging mapoot sa atin at gustuhing makita na kami ay mawasak. ("Gaano kalaki ang mga pagkukunwari nina Korah, Datan, at Abiram laban kay Moises, ang pagnanais nila na maging kapantay o humigit sa kanyang makapangyarihang kapangyarihan sa kampo ng Israel, ang naglagay sa kanila sa mga sabwatan at mga paghihimagsik. Nanabik sila sa kanyang awtoridad, at ang kakulangan nila ng ito ay kanyang krimen.")
-
-Ang kampanya ni Absalom para sa mga karapatan ng mga tao laban sa mga paniniil ng kanyang ama, si Haring David ay binanggit nang bahagya ni Penn. Sinabi niya na ito ay isang pagkukunwari, na itinatago ang ambisyon ni Absalom. Yanong tipikal ng kung ano ang natagpo namin mula sa mga nagsasabing hinahangad naming kontrolin at manipulahin. Inaakusahan nila ang kanilang sarili at ang kanilang sariling mga pagnanais upang magkontrol at magmanipula.
-
-Isinulat ni Penn ang tungkol sa kabalintunaan, na ang mga humihinto sa paghahanap ng kadakilaan ay talagang nakakamit ito, at kapag nakamit nila, ang iba ay naninibugho. Gaano kadalas tayong nadudulot sa pagsukat ng ating kadakilaan sa pamamagitan ng kung gaano karaming mga miyembro mayroon natin, o kung gaano karaming mga libro ang ipinamahagi natin? Ngunit, sa katunayan, ang ating kadakilaan ay talagang nakasalalay sa simpleng katotohanan ng mensahe na aming ipinahayag.  
+_The following article quotes William Penn, an early Quaker, with regard to persecution. Modern Day Quakers are highly respected around the world; but there was a time when they, like the Jesus Christians, were sorely persecuted for their faith._  
   
+A woman once asked us why we Jesus Christians thought we were getting so much persecution. I confided in her that I thought it had something to do with us being Christians. Her expression showed that she was personally offended by such a claim. After all, she too was a professing Christian, and she was not being persecuted.  
+  
+In her defence, another friend took up the same refrain. He referred to another professing Christian, and said, "Could you imagine others being upset with her the way people are upset with you?" Well, no, I couldn't, I said, but did that mean that popularity should become the touchstone of righteousness?  
+  
+William Penn, in his essay "No Cross, No Crown", writes about early Quaker practices, such as refusing to remove one's hat in the presence of someone regarded as socially superior. He says that these things were not things that Quakers necessarily had to do, but that it seemed fitting if they were to treat everyone equally. ("We feared to use lawful things, lest we should use them unlawfully.") The outcry that it brought from the supposedly social superiors, including hundreds of arrests and many years of imprisonment, was what convinced them more than anything that what they were doing was right.  
+  
+For these early Quakers, persecution which seemed out of proportion to the act that brought it on, was clear evidence of the rightness of the act. ("If we had wanted a proof of the truth of our inward belief and judgment, the very practice of them that opposed it would have abundantly confirmed us.")  
+  
+The Bible warns against being persecuted for doing evil, but it encourages us to rejoice when persecuted for doing good. ([1 Peter 4:15-16](http://www.biblegateway.com/passage/index.php?search=1+Peter+4%3A15-16;&version=50;&interface=print "Read 1 Peter 4:15-16")) We talk about Jesus going around doing good, and then being hated and persecuted for it. But why do people react like that?  
+  
+Penn went on in that same essay, to say that there is an authority that comes with doing good. Pride on the part of others causes them to be jealous of this spiritual authority. And their lust for such power makes them hate us and want to see us destroyed. ("How specious soever might be the pretences of Korah, Dathan, and Abiram against Moses, it was their emulation of his mighty power in the camp of Israel, that put them upon conspiracies and mutinies. They longed for his authority, and their not having it was his crime.")  
+  
+Absalom's campaign for the rights of the people against the tyrannies of his father, King David are touched on by Penn. He says that this was a pretence, hiding Absalom's ambition. How typical of what we have encountered from those who say we seek to control and manipulate. They indict themselves and their own desires to control and manipulate.  
+  
+Penn wrote of the paradox, in that those who cease to seek greatness actually achieve it, and when they do, others become jealous. How often do we slip into measuring our greatness by how many members we have, or by how many books we have been able to distribute? But, in fact, our greatness really lies in the simple truth of the message which we have proclaimed.  
+  
+Recently, some who have known us almost exclusively through our political activism have turned on us when they learned of our Christian faith. (If they can find nothing better to attack us for, we are attacked for having kept our Christian faith "secret", thereby tricking them into working with us!)  
+  
+So we have, in fact, achieved a greatness (or authority) which is disproportionate to our size. Our authority is that of Jesus himself, of whom it was said, "He spoke as one who had authority, and not as one of the scribes or Pharisees."  
+  
+When we go in the name of Jesus (i.e. backed up by what he said, and not just saying "Lord, Lord"), we have this same authority, as he promised we would have. Kings and armies are forced to hide from the dazzling power of that Light which we hold forth.
 
-Kamakailan, ang ilang nakakakilala sa amin nang halos eksklusibo sa pamamagitan ng aming pampulitikang aktibismo ay bumaling sa amin nang malaman nila ang aming pananampalatayang Kristiyano. (Kung wala silang mahanap na mas mahusay upang atakihin kami, kami ay inaatake dahil sa “paglilihim” sa aming pananampalatayang Kristiyano, at sa gayo'y nililinlang sila na makipagtulungan sa amin!)
 
-Sa katunayan, nakamit namin ang isang kadakilaan (o awtoridad) na hindi katimbang sa aming sukat. Ang aming awtoridad ay kay Jesus mismo, na nagsabi, "Siya ay nagsalita bilang isang may awtoridad, at hindi bilang isa sa mga eskriba o mga Pariseo."
 
-Kapag kumilos tayo sa ngalan ni Jesus (iyon ay sinuportahan ng kanyang sinabi, at hindi lamang sa pagsasabi ng "Panginoon, Panginoon"), mayroon tayong parehong awtoridad, gaya ng ipinangako niya na kakaroonin natun. Ang mga hari at hukbo ay napipilitang tumago 
-
-mula sa nakasisilaw na kapangyarihan ng Liwanag na iyon na ating inihahayag.

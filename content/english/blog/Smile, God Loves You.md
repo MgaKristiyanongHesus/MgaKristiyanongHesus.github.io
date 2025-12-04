@@ -9,25 +9,27 @@ author: ""
 tags: ["Positive"]
 draft: false
 ---
-Mayroong mas malaking kasalanan kaysa sa pagsuway sa Diyos; ito’y ang kasalanan ng hindi naniniwala na mahal ka niya.  
+There is a greater sin than not obeying Jesus; it is the sin of not believing that he loves you.  
   
-Kapag naniniwala kang nasa ibang tao ang iyong pinakamahuhusay na interes, maaari mong tanggapin ang malalaking paghihirap sa ngalan ng taong iyon. Ang mga tao ay magbabayad talaga ng mga doktor upang literal na gisiin ang kanilang laman-loob, sapagkat pinagkakatiwalaan nila ang kanilang mabubuting hangarin.  
-Kapag hiniling ka ni Hesus na gumawa ng isang bagay na mahirap, sinusubukan niya ang iyong pananampalataya sa kanyang pag-ibig at kabutihan. Kakaunti lamang ang handang mamuhay sa pananalig sa pagsunod kay Hesus. Pagkatapos ng lahat, hinihiling niya sa atin na talikuran ang ating career, pamilya, mga pag-aari, at reputasyon.  
+When you believe another person has your best interests at heart, you can accept great difficulties on behalf of that person. People will actually pay doctors to literally rip their insides out, because they trust their good intentions.  
   
-Ngunit ginagawa niya ito dahil may mas mabuting siyang ibibigay sa iyo. Sinubukan namin ito at totoo ito.  
+When Jesus asks you to do something difficult, he's testing your faith in his love and goodness.  
   
-Tulad ng isang mangangalakal, na nagbenta ng lahat ng mayroon siya upang makuha ang pinaka perpektong perlas sa buong mundo, hindi na kami nag-aalala tungkol sa kung ano ang binayaran namin para dito, dahil alam na namin ngayon kung gaanong isang mahusay na alok na natanggap namin.  
+Very few are willing to live by faith in obedience to Jesus. After all, he asks us to give up our career, family, possessions, and reputation.  
   
-Ito ay pinagtalunan na ang Diyos "sa kanyang awa" ay hindi inaasahan na literal nating gawin ang mga aral ni Hesus. Siyempre, ang pag-aakalang iyon ay ang mga turo ni Kristo ay sumasalungat sa awa ng Diyos.  
+But he does so because he has something better to give you. We tried it and it's true.  
   
-Ngunit natuklasan natin na ang mga aral ni Hesus ay pagpapahayag ng kanyang awa. Sa pagtanggap kay Hesus, hindi lamang natin tinanggap ang isang pangalan at isang tiket sa langit, ngunit tinanggap natin ang kanyang buong plano ng kaligtasan; at nagsisimula ito ngayon.  
+Like the merchant man who sold all he had to get the most perfect pearl in the world, we are no longer concerned about what we paid for it, because we now know what a bargain we have received.  
   
+It has been argued that God "in his mercy" does not expect us to take the teachings of Jesus literally. The assumption, of course, is that the teachings of Christ contradict Gods mercy.  
+  
+![person operating on themselves](https://jesuschristians.com/images/stories/smile_god_loves_you.png "smile, God loves you!")But we have discovered that the teachings of Jesus are expressions of his mercy. In accepting Jesus, we have not just accepted a name and a ticket to heaven, but we have accepted his whole plan of salvation; and it starts right now.  
+  
+While you cling to your mediocrity, your respectability, your image of balance and moderation, you will never experience this world of faith and love. Let go of your lukewarm religious counterfeits and begin to believe that God really does love you... infinitely... in every word that Jesus spoke.  
+  
+You cannot say, "I believe you love me, and as an expression of that faith, I will reject your discipline." This is not faith. It's a slap in the face of a loving God. But if we will accept God's call, letting our lives be moulded according to his will, everything will work together for our good. ([Romans 8:28](http://www.biblegateway.com/passage/index.php?search=Romans+8%3A28;&version=50;&interface=print "Read Romans 8:28"))  
+  
+The religious world is full of people trying to conduct their own operations. They refuse to put themselves totally in the hands of the Master Surgeon. They fear losing identity, friends, family, wealth, or status. And because of it, they are slowly losing their souls!
 
-![smile god loves you](https://www.jesuschristians.com/images/Language_pics/Fillipino_pics/smile_god_loves_you.png)Habang kinakapit mo ang iyong sa iyong katahimikan, iyong paggalang, iyong imahe ng balanse at moderasyon, hindi mo mararanasan ang mundong ito ng pananalig at pag-ibig. Talikuran mo ang iyong mga maligamgam na huwad na relihiyon at magsimulang maniwala na mahal ka talaga ng Diyos... ng walang hanggan... sa bawat salita na sinalita ni Hesus.
 
-  
-Hindi mo masasabi, "Naniniwala akong mahal mo ako, at bilang isang pagpapahayag ng pananampalatayang iyon, tatanggihan ko ang iyong pagdidisiplina"  
-  
-Hindi ito pananampalataya. Ito’y isang sampal sa mukha ng isang mapagmahal na Diyos. Ngunit kung tatanggapin natin ang tawag ng Diyos, hayaan ang ating buhay na hulma alinsunod sa kanyang kalooban, lahat mga ito ay gagana para sa ating kabutihan. ([Romans 8:28](http://www.biblegateway.com/passage/index.php?search=Romans+8%3A28;&version=50;&interface=print "Read Romans 8:28"))  
-  
-Ang relihiyosong mundo ay puno ng mga taong sumusubok na magsagawa ng kanilang sariling mga operasyon. Tumatanggi silang ilagay ang kanilang mga sarili sa kamay ng Bihasang Surgeon. Natatakot silang mawala ang kanilang pagkakakilanlan, kaibigan, pamilya, yaman, o katayuan. At dahil dito, unti-unting nawawala ang kanilang kaluluwa!
+

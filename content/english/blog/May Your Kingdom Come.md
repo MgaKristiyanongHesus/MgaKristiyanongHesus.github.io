@@ -9,23 +9,26 @@ author: ""
 tags: ["The Kingdom of Heaven", "Prophesy"]
 draft: false
 ---
+As people with a serious concern for the welfare of this planet, the return of Christ offers us hope.  
+  
+Earth at the moment has a jinx on it. The best laws, best political systems, and best technology still go haywire, and the end result is greater suffering, increased corruption, and bigger and better wars.  
+  
+As we understand it, the Creator of this planet has told us, through Jesus Christ, how the perfect government should operate. He calls on us to practice these principles in our own lives, but assures us that the same world that killed Jesus for his beliefs will eventually kill us. In other words, we have been given all the necessary theory... but not the means to put it into practice on a large scale.  
+  
+This dilemma is part of an ingenious recruiting system for the leaders of the new world. Only those who believe in honesty, faith, and love enough to die for those beliefs will be suitable leaders in the new world order. Political expediency, economic pragmatism, and moral compromise are the stuff from which 'successful' systems are made; but they are also the seeds from which their corruption grows. So our coming Leader is seeking an army of people who will not cheat on fundamental principles for the sake of political success.  
+  
+The second coming of Christ means, among other things, the lifting of the jinx... the turning of some cosmic switch, which will finally let good triumph over evil, on a grand and everlasting scale.  
+  
+As we understand it, Jesus will, after his return, live in and reign over earth. He will appoint some of us as rulers over specific geographical areas. The people we lead will not be angels. They will be ordinary people with ordinary problems. It will be our job to teach them how to work together in harmony, for the good of all mankind... and we will succeed! We will literally create heaven on earth.  
+  
+But we will only succeed because our Leader has the ability to stop the flow of outside evil influences (i.e. the devil). Our task as world leaders will be difficult, but it will no longer be a losing battle. (We leaders will have the added advantage that we will never die.)  
+  
+The entire human race has an instinctive longing for a world where good triumphs over evil. But plan after plan for the salvation of the human race has resulted in failure.  
+  
+Each new system offers promises of the longed-for utopia. Some put their hopes in new systems. Some give up hope altogether. But we look for the return of the One we call the Son of God, who alone can rule the world in fairness to all.  
+  
+In the meantime, we strive to practice daily the principles that he taught. This (and the persecution that accompanies it) is our training for the day when our Leader returns to establish God's kingdom on earth.
 
-Habang ang mga tao may seryosong pagkabahala para sa kalagayan ng planetang ito, ang pagbabalik ni Kristo ay nagbibigay sa ating ng pag-asa.  
-  
-Ang mundo sa kasalukuyan ay nasa ilalim ng isang sumpa. Ang pinakamahusay na mga batas, pinakamahusay na mga sistemang pampulitika, at ang pinakamahusay na teknolohiya ay magulo pa rin, at ang huling resulta nito ay mas pinalala pa ang kahirapan, nadagdagan pa ang korapsyon, at mas malaki at mas mahusay na mga digmaan.  
-  
-Sa pagkakaunawaan namin nito, sinabihan tayo ng Naglikha sa planetang ito, sa pamamagitan ni JesuKristo, kung paano dapat tumatakbo ang isang perpektong pamahalaan. Tinatawag niya tayo na isagawa ang mga prinsipyong ito sa ating buhay, ngunit tinitiyak niya tayo na ang parehong mundo na nagpatay kay Jesus dahil sa kanyang mga paniniwala ay papatayin tayo sa huli. Sa ibang salita, binigyan tayo ng lahat ng mahahalagang teorya… ngunit hindi ang mga paraan upang isagawa ito sa isang malaking sukatan.  
-  
-Ang dilemang ito ay bahagi ng isang bihasang sistemang plano ng pagrekrut para sa mga pinuno sa bagong mundo. Ang mga naniniwala lamang sa katapatan, pananampalataya, at pag-ibig na sapat upang mamatay para sa mga paniniwalang ito ay magiging angkop na mga pinuno sa bagong kaayusan ng mundo. Ang political expediency, economic pragmatism, at moral compromise ay ang bagay mula kung saan ginagawa ang “mahuhusay” na sistema; ngunit mayroon ding mga binhi mula kung saan lumalago ang korapsyon. Kaya ang ating paparating na Pinuno ay naghahanap ng isang hukbo ng mga tao na hindi dadayain ang pangunahing mga prinsipyo para lamang sa tagumpay sa politika.  
-  
-Ang ikalawang pagdating ng Kristo ay nangangahulugan, sa gitna ng iba pang mga bagay, sa pag-aalis ng sumpa… ang paglipat ng isang cosmic switch, kung saan magwawakas na hayaan ang mabuti na magtagumpay laban sa masama, sa isang malawakang at magpasawalang hanggang sukatan.  
-  
-Sa pagkakaunawaan namin nito, si Jesus ay, pagkatapos ng kanyang pagbalik, mabubuhay at maghahari sa buong daigdig. Siya ay maghihirang ng ilan sa atin na maging pinuno sa iba’t ibang bahagi ng daigdig. Ang mga taong ating pamumunuan ay hindi magiging mga anghel. Sila ay magiging ordinaryong mga tao nang may ordinaryong mga problema. Ito ang ating magiging trabaho na turuan sila kung paano magtrabaho nang magkasama at nang may pagkakaisa, para sa ikabubuti ng lahat ng sangkatauhan… at tayo’y magtatagumpay! Lilikhain natin ang langit sa lupa.  
-  
-Ngunit magtatagumpay lamang tayo sapagkat ang ating Pinuno ay mayroong kakayahang pigilan ang pagdaloy ng impluwensiya ng kasamaan sa labas (iyon ay ang diyablo). Ang ating magiging gawain bilang mga pinuno ng mundo ay magiging mahirap, ngunit hindi na ito magiging isang nabibigong laban. (Tayong mga pinuno ay magkakaroon ng nadagdagang benepisyo na hindi tayo talagang mamatay)  
-  
-Ang buong sangkatauhan ay may isang katutubong ugali ng pag-asam para sa isang mundo kung saan ang kabutihan ay nagtatagumpay laban sa kasamaan. Ngunit plano pagkatapos ng isa pang plano para sa kaligtasan ng sangkatauhan ay nagresulta sa kabiguan.  
-  
-Bawat bagong sistema ay nag-aalay ng mga pangakong ng inaasam na yutopia. Ang ilan ay inilalagay ang kanilang mga pag-asa sa bagong mga sistema. Ang ilang ay sumuko sa pag-asa nang lubos. Ngunit tumitingin kami para sa pagbalik ng Isa na aming tinatawag na Anak ng Diyos, na nag-iisang maaaring pamunuan ang mundo sa kabutihan sa lahat.  
-  
-Samantala, sinisikap naming isagawa araw-araw ang mga prinsipyo na kanyang itinuro. Ito (at ang pag-uusig na sinasamahan nito) ay ang ating paghehersisyo para sa araw kapag ang ating Pinuno ay bumalik upang itatag ang kaharian ng Diyos sa daigdig.
+
+
+

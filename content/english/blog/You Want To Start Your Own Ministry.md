@@ -9,23 +9,25 @@ author: ""
 tags: ["Practical", "Guidance"]
 draft: false
 ---
+People often write to us who are not satisfied with what they see in the churches today, and so they want to start their own ministry.  
+  
+It is commendable that they are willing to take such initiative, and we will do all we can to assist them in their efforts. Some want to become evangelists and move from church to church preaching to the congregations. Some see themselves more as prophets, with a message of judgment on the churches. Others have set up their own websites, on which they have posted articles on various subjects. There have even been a few who have set about to start their own Christian communities.  
+  
+We are pleased to be able to contribute some small part in these bold efforts. However, we do have a serious word of caution to each of these people. We have generally found that there is a quantum leap between starting your own ministry and actually trying to serve God. One focuses on how you are going to change others, whereas the other focuses on how God is going to change us.  
+  
+There are a number of reasons why these people do not want to work with us. The most common is greed. Money equals power, and if they were to forsake all of their power to a community that is bigger than themselves, then they could no longer be in control of all that they do. With enough money, they can come and go as they please. They can indulge themselves when they feel like it. They can use the money to buy themselves recognition and even friends from time to time.  
+  
+Of course this unwillingness to forsake all private ownership (as happens when one joins a Jesus Christian community) is closely linked with another barrier to co-operation, and that is pride. Some issues linked to money in the previous paragraph contain an element of pride too: personal recognition and personal control.  
+  
+Then there is fear... usually quite an irrational fear. The devil can make people imagine some really bizarre possibilities about what is going to happen to them if they move in and start working with us. He does it to keep them out there on their own. Because the list is so long and varied, we won't even begin to state the possibilities here. The point is, however, that fear is hardly a sound Christian motive for doing anything.  
+  
+Finally, there is lust: Most often sexual freedom (although it can involve such things as drug addiction as well). We live in a sex-crazed world, and we Jesus Christians are trying to live sexually chaste lives. For people who have never learned to control their sexual desires, or at least to express them in scripturally acceptable ways, such control is anathema.  
+  
+So what kind of a "ministry" is going to grow from greed, pride, fear, and lust? Usually, no ministry at all. Most of these people have fallen or will fall flat on their faces.  
+  
+The answer isn't necessarily to give up hope of having your own ministry, nor is it necessarily that you should join us. God can teach you the same lessons through almost anyone... a fellow evangelist, a spouse or lover, your local church. Considering all of the problems that are going to come out of such an uncommitted life, we would rather have you learn them from someone else anyway. Then come to us when you've learned them all. :o)  
+  
+Seriously, we will do what we can to help you overcome these problems. It won't be easy, but it's part of the recipe for a truly humble, truly loving, truly obedient ministry of faith in God, and not faith in ourselves.
 
-Madalas sumulat sa amin ang mga tao na hindi nasisiyahan sa nakikita nila sa mga simbahan ngayon, kaya gusto nilang magsimula ng kanilang sariling ministeryo.  
-  
-Ito ay kapuri-puri na handa silang kumuha ng gayong inisyatiba, at gagawin namin ang lahat ng aming makakaya upang tulungan sila sa kanilang mga pagsisikap. Ang ilan ay gustong maging ebanghelista at pumunta sa iba't ibang simbahan na nangangaral sa mga kongregasyon. Mas nakikita pa ng ilan ang kanilang sarili bilang mga propeta, na may mensahe ng paghatol sa mga simbahan. Ang iba ay nag-tayo ng kanilang sariling mga website, kung saan sila ay nag-post ng mga artikulo tungkol sa iba't ibang mga paksa. Mayroon pa ngang iilan na nagtakdang magsimula ng sarili nilang mga komunidad na Kristiyano.  
-  
-Kami ay natutuwa na makapag-ambag ng isang maliit na bahagi sa mga matapang na pagsisikap na ito. Gayunpaman, mayroon kaming seryosong babala sa bawat isa sa mga taong ito. Sa pangkalahatan, nalaman namin na mayroong isang biglaang transisyon sa pagitan ng pagsisimula ng iyong sariling ministeryo at talagang nagsisikap na maglingkod sa Diyos. Ang isa ay tumutuon sa kung paano mo babaguhin ang iba, samantalang ang isa nama’y tumutuon sa kung paano tayo babaguhin ng Diyos.  
-  
-Mayroong isang bilang ng mga dahilan kung bakit ang mga taong ito ay ayaw makipagtrabaho sa amin. Ang pinaka karaniwan ay ang kasakiman. Ang pera ay tumutumbas ng kapangyarihan, at kung tinalikuran nila ang lahat ng kanilang kapangyarihan sa isang komunidad na mas malaki kaysa sa kanilang sarili, kung gayon hindi na nila makokontrol ang lahat ng kanilang ginagawa. Nang may sapat na pera, maaari silang pumunta at umalis ayon sa gusto nila. Maaari silang magpakasawa sa kanilang sarili kapag ramdam nila ito. Maaari nilang gamitin ang pera upang bilhin ang kanilang sarili ng pagkilala at maging ang mga kaibigan paminsan-minsan.  
-  
-Siyempre, ang atubiling ito na talikuran ang lahat ng pribadong pagmamay-ari (tulad ng nangyayari kapag ang isa ay sumali sa isang HesuKristiyanong komunidad) ay malapit na nauugnay sa isa pang hadlang sa kooperasyon, at iyon ay pagmamalaki. Ang ilang isyu na naugnay sa pera sa nakaraang talata ay naglalaman din ng elemento ng pagmamataas: personal na pagkilala at personal na kontrol.  
-  
-Tapos naroon ang takot... kalimitan isang irasyonal na takot. Ang diyablo ay maaaring gawin ang mga tao na pag-isipan ang ilang talagang kakaibang posibilidad tungkol sa kung ano ang mangyayari sa kanila kung lilipat sila at nagsimulang makipagtrabaho sa amin. Ginagawa niya ito para panatilihin silang mag-isa roon. Dahil nga ang listahan ay napakahaba at iba-iba, hindi na namin sisimulang sabihin ang mga posibilidad dito. Ang punto ay, gayunpaman, na ang takot ay hindi isang mabuting Kristiyanong motibo para sa paggawa ng anuman.  
-  
-Sa wakas, naroon ang pagnanasa: Pinaka madalas sekswal na kalayaan (bagama't maaari rin itong nabibilang sa mga bagay tulad ng adiksyon sa droga). Nabubuhay tayo sa isang mundong nababaliw sa seks, at kaming mga HesuKristiyano ay nagsisikap na mamuhay ng sekswal na malinis na buhay. Para sa mga taong hindi kailanman natutong kontrolin ang kanilang mga sekswal na kagustuhan, o at least ilabas ang mga ito sa mga paraan na katanggap-tanggap ayon sa banal na kasulatan, ang gayong kontrol ay isang pagsumpa.  
-  
-Kaya anong uri ng "ministeryo" ang lalago mula sa kasakiman, pagmamataas, takot, at pagnanasa? Kadalasan, walang ministeryo talaga. Karamihan sa mga taong ito ay nabigo o mahihiya na sila’y nabigo.  
-  
-Ang sagot ay hindi kinakailangang mawalan ng pag-asa na magkaroon ng sarili mong ministeryo, at hindi rin kinakailangan na sumali ka sa amin. Ang Diyos ay maaaring magturo sa iyo ng parehong mga aralin sa pamamagitan ng halos kahit sino... isang kapwa ebanghelista, isang asawa o kasintahan, ang iyong lokal na simbahan. Sa pagsasaalang-alang ng lahat ng mga problema na nagbubunga sa gayong buhay na di-tapat, mas gugustuhin namin naman na matutunan mo ang mga ito mula sa ibang tao. Pagkatapos ay pumunta sa amin kapag natutunan mo na ang lahat. :o)  
-  
-Seryoso, gagawin namin ang aming makakaya upang matulungan kang malampasan ang mga problemang ito. Hindi ito magiging madali, ngunit bahagi ito ng resipi para sa isang tunay na mapagpakumbaba, tunay na mapagmahal, tunay na masunurin na ministeryo ng pananampalataya sa Diyos, at hindi pananampalataya sa ating sarili.
+
+

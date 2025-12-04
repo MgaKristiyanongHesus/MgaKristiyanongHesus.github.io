@@ -6,28 +6,30 @@ date: 2025-09-29T00:00:00Z
 image: "/images/articles/PedoDef.webp"
 categories: ["Strong Meat"]
 author: ""
-tags: ["Hard Truths", "Random"]
-draft: false
+tags: ["Hard Truth", "Random"]
+draft: true
 ---
+There have been a number of attempts to incite anger against ourselves by implying that we support paedophilia. Because the issue of paedophilia is such a volatile one these days, it is one of the easiest words to use when someone is trying to incite a lynch mob. The media, both sides of the political spectrum, virtually all churches, and virtually all members of the general public range between those who want to kill paedophiles in the most painful way possible (on the right) to those who publicly and strongly denounce the practice (on the left).  
+  
+To speak up in defence of the paedophiles themselves as human beings is on a par with speaking up in defence of the 9/11 perpetrators. So, with an introduction like that, we can expect that this article is going to add more fuel to the torches being carried by the lynch mobs who seek to have us destroyed.  
+  
+We will say, for the record (once again) that we think paedophilia is a despicable practice and that stringent measures are urgently needed to curb the spread of this terrible curse on our society.  
+  
+But, having said that, we would start by reminding people that one of the most insidious fruits of paedophilia is simply that it eventually creates paedophiles from its own victims. One can rob people without making those victims into robbers themselves. Rape victims are never going to become rapists. And only rarely will a murder victim take the life of their killer as they die; even then, there is some justice in that the crime rebounds back on the perpetrator, rather than on some other innocent person, as happens with paedophilia.  
+  
+Victims of paedophilia frequently grow up to become predators themselves, preying on other innocent children. One would think that this pattern in itself would cause at least a few of the hate-mongers to question who they hope to help when they set out to vent their anger on someone who very likely was, a few years earlier, an innocent victim of child sex abuse themselves.  
+  
+There is a further dilemma which seems to be unique to paedophiles. They appear to be beyond feeling guilt for their behaviour, or at least beyond self-induced rehabilitation. Despite all of the condemnation that they receive from angry mobs and vitriolic media reps (as well as a lot of other therapies), they don't seem to be capable of changing. The rehabilitation rate is virtually zero.  
+  
+We could say that this makes them even more depraved and even more worthy of execution, but it makes more sense to say that something happened when they were being abused as children which is not going to change through emotional appeals or vengeful threats now.  
+  
+I'm not saying that we should pat them on the head and say, "There, there! Don't be discouraged. God will forgive you for what you have done and for what you are almost certainly going to continue doing." Many churches tried that approach in the past and they are paying dearly for it today. But I am saying that we need to look more deeply than just threats of punishment.  
+  
+What I would gladly campaign for is a sympathetic form of exile. We can afford to build incredibly expensive cages for criminals, so why not a community (the bigger the better) where they can move about as they please (with other paedophiles), but from which they will never be allowed contact with children? It need not be any more inhumane than the best TB sanitorium in the world. Treat paedophilia as an infectious disease, and isolate it.  
+  
+And, for Christ's sake, stop hating them.  
+  
+Note: If exile seems too extreme, then we challenge critics to suggest a softer, more loving approach that is going to effectively protect children.
 
-Mayroong ilang mga pagtatangka na mag-incite ng galit laban sa aming sarili sa pamamagitan ng pagpapahiwatig na sinusuportahan namin ang pedophilia. Dahil ang isyu ng pedophilia ay pabagu-bago ngayon, ito ay isa sa mga pinakamadaling salita na gamitin kapag may sinusubukang mag-incite ng lynch mob. Ang media, ang magkabilang panig ng pampulitikang spectrum, halos lahat ng simbahan, at halos lahat ng miyembro ng pangkalahatang publiko ay nasa pagitan ng mga gustong pumatay ng mga pedophile sa pinakamasakit na paraan na posible (sa right) sa mga hayag at mahigpit na tinutuligsa ang gawain (sa left).  
-  
-Ang pagsasalita bilang pagtatanggol sa mga pedophile bilang mga tao ay katumbas ng pagsasalita bilang pagtatanggol sa mga may kasalanan ng 9/11. Kaya, sa isang pagpapakilala na tulad nito, maaari naming asahan na ang artikulong ito ay magdaragdag ng higit pang apoy sa mga sulo na dinadala ng mga lynch mob na naghahangad na kami ay sirain.  
-  
-Sasabihin namin, para sa rekord (once again) na sa tingin namin ang pedophilia ay isang kasuklam-suklam na gawain at ang mahigpit na mga hakbang ay agarang kailangan upang pigilan ang pagkalat ng kakila-kilabot na sumpang ito sa ating lipunan.  
-  
-Pero, nang sabihin iyon, magsisimula kami sa pagpapaalala sa mga tao na ang isa sa mga pinaka mapanlinlang na bunga ng pedophilia ay ang sa kalaunan ay lumilikha ito ng mga pedophile mula sa sarili nitong mga biktima. Maaaring magnakaw ang isang tao nang hindi ginagawang magnanakaw ang mga biktima mismo. Ang mga biktima ng panggagahasa ay hindi kailanman magiging rapist. At bihira lamang na ang isang biktima ng pagpatay ay kitilin ang buhay ng pumapatay sa kanila habang sila ay namamatay; kahit noon pa man, may ilang hustisya na ang krimen ay bumabalik sa may kagagawan, sa halip na sa ibang inosenteng tao, gaya ng nangyayari sa pedophilia.  
-  
-Ang mga biktima ng pedophilia ay madalas na lumalaki na nagiging mga predator mismo, na na-peprey sa iba pang mga inosenteng bata. Ang isang tao ay mag-iisip na ang pattern na ito mismo ang mag-cacause ng at least a few sa mga hate mongers na kwestunin kung sino ang inaasahan nilang tulungan kapag nagsimula silang ilabas ang kanilang galit sa isang tao na very likely, noon nakalipas na mga taon, ay isang biktima ng child sex abuse mismo.  
-  
-Mayroong karagdagang problema na tila natatangi sa mga pedophile. Lumilitaw na lampas sila sa pakiramdam na nagkasala para sa kanilang pag-uugali, o hindi bababa sa lampas sa self-induced rehabilitation. Sa kabila ng lahat ng pagkondena na natatanggap nila mula sa mga galit na mga tao at vitriolic media rep (pati na rin ng maraming iba pang mga therapy), mukhang hindi nila kayang magbago. Ang rate ng rehabilitasyon ay halos zero.  
-  
-Maaari naming sabihin na ito ay nagpapagawa sa kanila na mas masama at mas karapat-dapat na bitayin, pero mas makatuwirang sabihin na may nangyari noong sila ay inaabuso bilang mga bata na hindi magbabago sa pamamagitan ng emosyonal na mga apela o mapaghiganti na pagbabanta ngayon.  
-  
-Hindi ko sinasabi na dapat natin silang tapikin sa ulo at sabihing, "Tahan na! Huwag kang panghinaan ng loob. Papatawarin ka ng Diyos sa iyong nagawa at sa halos tiyak na ipagpapatuloy mo." Sinubukan ng maraming simbahan ang pamamaraang iyon noong nakaraan at nagdudusa sila para dito ngayon. Pero sinasabi ko na kailangan nating tingnan nang mas malalim kaysa sa mga banta ng parusa.  
-  
-Ang gusto kong ikampanya ay isang sympathetic na anyo ng exile. Kayang-kaya nating magtayo ng hindi kapani-paniwalang mamahaling mga kulungan para sa mga kriminal, kaya bakit hindi isang komunidad (mas malaki ang mas mahusay) kung saan maaari silang maglakad-lakad ayon sa gusto nila (kasama ang iba pang mga pedophile), pero mula sa kung saan hindi sila papayagang makipag-ugnayan sa mga bata? Hindi na ito kailangang maging mas hindi makatao kaysa sa pinakamahusay na TB sanitorium sa mundo. Tratuhin ang pedophilia bilang isang nakakahawang sakit, at ihiwalay ito.  
-  
-At, alang-alang kay Kristo, stop hating them.  
-  
-Tandaan: Kung parang masyadong extreme ang exile, hinahamon namin ang mga kritiko na magmungkahi ng mas malambot, mas mapagmahal na diskarte na epektibong magpoprotekta sa mga bata.
+
+

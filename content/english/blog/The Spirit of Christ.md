@@ -9,41 +9,43 @@ author: ""
 tags: ["Doctrine"]
 draft: false
 ---
+Christian tradition has tended to exaggerate the distinction between the Son of God and God's Holy Spirit.  
+  
+When Jesus was baptised by John, the Bible says the Holy Spirit came down on him in a bodily form, like a dove. ([Luke 3:22](http://www.biblegateway.com/passage/index.php?search=Luke+3%3A22;&version=50;&interface=print "Read Luke 3:22")) It further says that God did not just give a "measure" of the Holy Spirit to Jesus (as he does to each of us), but rather that Jesus had the "fullness" of God's Spirit. ([John 3:34](http://www.biblegateway.com/passage/index.php?search=John+3%3A34;&version=50;&interface=print "Read John 3:34"))  
+  
+We understand this to mean that there was no division between Jesus' own spirit and God's Spirit (like there is with us). His spirit and God's Spirit were one and the same.  
+  
+So the Holy Spirit was not invented on the Day of Pentecost. The disciples had been touched by the Holy Spirit throughout their time with Jesus. Receiving the Holy Spirit and receiving the spirit of Jesus are pretty much the same thing.  
+  
+So what is the link between the spirit of Christ and what happened on the Day of Pentecost, i.e. on the day when the disciples were said to be "filled" with the Holy Spirit?  
+  
+A clue can be found in [John 6:63](http://www.biblegateway.com/passage/index.php?search=John+6%3A63;&version=50;&interface=print "Read John 6:63"), where Jesus said, "The words that I speak to you are Spirit and they are life." Or as the Today's English Version puts it: "The words that I have spoken to you bring God's life-giving Spirit." In another place Jesus said that the Holy Spirit would bring his teachings to our remembrance. ([John 14:26](http://www.biblegateway.com/passage/index.php?search=John+14%3A26;&version=50;&interface=print "Read John 14:26")) So the teachings bring the Spirit and the Spirit brings the teachings. They are intricately interlinked.  
+  
+The Day of Pentecost was the climax of 3 1/2 years of soaking in the teachings of Jesus. The disciples, and most of Jerusalem, had been saturated with his teachings. The religious hierarchy had, in fact, heard enough of what Jesus taught to make them kill him just to try and shut him up. At Pentecost the "body" of Jesus was gone, but his followers moved on in the power of his "spirit".  
+  
+Peter says that we are "born again" by the Word of God. ([1 Peter 1:23](http://www.biblegateway.com/passage/index.php?search=1+Peter+1%3A23;&version=50;&interface=print "Read 1 Peter 1:23")) [John 1:11-12](http://www.biblegateway.com/passage/index.php?search=John+1%3A11-12;&version=50;&interface=print "Read John 1:11-12") says that we receive power to become God's children only by receiving Jesus in a way that his own people did not receive him. His "own people" had no problem with Jesus the miracle worker, as long as he kept his mouth shut; but they could not accept his teachings. And the situation is not much different today.  
+  
+If the church insists on preaching religious experiences without giving people the teachings of Jesus, then you can be sure that the experiences that they offer will be a counterfeit. Only the words that Jesus spoke can bring God's life-giving Spirit. It was the teachings of Jesus which precipitated Pentecost.  
+  
+We have found that those who start with the assumption that the Holy Spirit is something quite separate from Jesus (i.e. primarily an "experience") are amongst the strongest opponents of his teachings. They generate doctrines which make Jesus the Teacher the enemy of God the Holy Spirit. And yet Jesus said that the Holy Spirit would "bring to your remembrance all things whatsoever I have said unto you." ([John 14:26](http://www.biblegateway.com/passage/index.php?search=John+14%3A26;&version=50;&interface=print "Read John 14:26"))  
+  
+If your faith is in an experience, you will end up denying the words of Jesus. If your faith is in the words of Jesus, you will still receive experiences (when and as God chooses), but with or without the experiences, you will have God's true Holy Spirit... and that is what really matters.  
+  
+Experiences are subjective, and they must therefore be subject to the teachings of Jesus, which should be our true (objective) source of guidance.  
+  
+Jesus breathed on the disciples sometime before the Day of Pentecost, and he said, "Receive the Holy Spirit!" ([John 20:22](http://www.biblegateway.com/passage/index.php?search=John+20%3A22;&version=50;&interface=print "Read John 20:22")) But even before that, they were receiving his spirit, inasmuch as they were receiving his teachings. Even if we did not have verses like [John 6:63](http://www.biblegateway.com/passage/index.php?search=John+6%3A63;&version=50;&interface=print "Read John 6:63") to tell us this, common sense should tell us. It is impossible to know the "spirit" of a person without reference to what that person has said.  
+  
+The word "spirit" means "breath". Breath and words both come from the mouth. You cannot speak without breathing. In [Revelation 19:13-15](http://www.biblegateway.com/passage/index.php?search=Revelation+19%3A13-15;&version=50;&interface=print "Read Revelation 19:13-15"), Jesus is called the "Word of God" and a sword comes out of his mouth. In [Ephesians 6:17](http://www.biblegateway.com/passage/index.php?search=Ephesians+6%3A17;&version=50;&interface=print "Read Ephesians 6:17") this is called "the sword of the Spirit". Jesus, the Spirit of God, the Word of God and the teachings of Jesus are all interchangeable.  
+  
+You find the spirit of a law by studying the words, in an effort to grasp the essence of what they are communicating. Sure, people can distort the law by focusing on one "letter" over another. But it does not mean that we should not try to grasp the "spirit" of the law, by looking for the "sincere milk of the word". ([1 Peter 2:2](http://www.biblegateway.com/passage/index.php?search=1+Peter+2%3A2;&version=50;&interface=print "Read 1 Peter 2:2")) And you will find the true Spirit of Christ by studying his teachings. Jesus himself said that out of the abundance of the heart the mouth speaks. ([Matthew 12:34](http://www.biblegateway.com/passage/index.php?search=Matthew+12%3A34;&version=50;&interface=print "Read Matthew 12:34")) In other words, the spirit (or heart) that is in us will come out through what we say. The Spirit of Christ also came out through what he said.  
+  
+If you wanted someone to get the spirit of what you were saying, wouldn't you rather have them humbly listen to you than to have them go off in a room and tickle themselves with a feather while saying your name, in an attempt to obtain an experience?  
+  
+Obviously, the essence of what you are (your personality, your authority, your credibility, your spirit, or whatever you want to call it) could best be discovered by listening to what you say.  
+  
+Your flesh proves nothing; it is your spirit that is important, and the words that you speak are your spirit. The same is true of Jesus. ([John 6:63](http://www.biblegateway.com/passage/index.php?search=John+6%3A63;&version=50;&interface=print "Read John 6:63")) Or, if you prefer the TEV translation, the words that anyone speaks will bring their spirit to those who listen.  
+  
+There are a lot of "unclean spirits", but only one Holy Spirit, and that Holy Spirit is the spirit of Christ the Teacher--the second Person of the Trinity. Receive his teachings and you'll receive his Spirit. Reject his teachings and you'll receive an unclean spirit.
 
-Ang tradisyong Kristiyano ay kadalasang nagpapalaki ng mga pagkakaiba sa pagitan ng Anak ng Diyos at ng Banal na Espiritu ng Diyos.  
-  
-Nang si Jesus ay bininyagan ni Juan, sinasabi sa Bibliya na ang Banal na Espiritu ay bumaba sa kanya sa anyo ng isang kalapati. ([Luke 3:22](http://www.biblegateway.com/passage/index.php?search=Luke+3%3A22;&version=50;&interface=print "Read Luke 3:22")) Dagdag pa ritong sinabi na ang Diyos ay hindi nagbigay ng "sukat" ng Banal na Espiritu kay Jesus (tulad ng ginagawa niya sa bawat isa sa atin), ngunit sa halip, si Hesus ay may kapunuan ng Espiritu ng Diyos. ([John 3:34](http://www.biblegateway.com/passage/index.php?search=John+3%3A34;&version=50;&interface=print "Read John 3:34"))  
-  
-Nauunawaan natin na nangangahulugan ito na walang pagkakaiba sa pagitan ng espiritu ni Jesus at ng Espiritu ng Diyos (tulad ng sa atin). Ang Kanyang espiritu at ang Espiritu ng Diyos ay iisa at pareho.  
-  
-Kaya't ang Banal na Espiritu ay hindi naimbento sa Araw ng Pentecostes. Ang mga alagad ay nahipo ng Banal na Espiritu sa buong panahon na kasama nila si Jesus. Ang pagtanggap ng Banal na Espiritu at pagtanggap ng espiritu ni Jesus ay halos magkatulad na bagay.  
-  
-Kung gayon ano ang ugnayan sa pagitan ng espiritu ni Kristo at sa mga nangyari sa Araw ng Pentecostes, yaong araw na sinabi na ang mga alagad ay "napuno" ng Banal na Espiritu?  
-  
-Ang isang tanda ay matatagpuan sa [John 6:63](http://www.biblegateway.com/passage/index.php?search=John+6%3A63;&version=50;&interface=print "Read John 6:63"), kung saan sinabi ni Jesus, "Ang mga salitang sinasabi ko sa inyo ay Espiritu at ito ang buhay." O tulad ng inilagay ng Today's English Version: "Ang mga salitang sinabi ko sa inyo ay ang Espiritu ng Diyos na nagbibigay-buhay." Sa ibang lugar sinabi ni Hesus na ang Banal na Espiritu ay magpapa-alala sa kanyang turo. ([John 14:26](http://www.biblegateway.com/passage/index.php?search=John+14%3A26;&version=50;&interface=print "Read John 14:26")) Kaya't ang mga aral ay nagdadala ng Espiritu at ang Espiritu ay nagdadala ng mga aral. Ang mga ito ay masalimuot na magkakaugnay.  
-  
-Ang Araw ng Pentecostes ay ang rurok ng 3 1/2 taon ng pagbababad sa mga aral ni Jesus. Ang mga alagad, at ang karamihan sa Jerusalem, ay napuspos sa kanyang mga aral. Sa katunayan, ang mga pinuno ng relihiyon ay nakarinig nang sapat sa mga itinuro ni Hesus upang maging dahilan upang patayin at patahimikin nila siya.  
-  
-Sinabi ni Pedro na tayo ay “muling ipinanganak” sa Salita ng Diyos. ([1 Peter 1:23](http://www.biblegateway.com/passage/index.php?search=1+Peter+1%3A23;&version=50;&interface=print "Read 1 Peter 1:23")) Sinasabi sa [John 1:11-12](http://www.biblegateway.com/passage/index.php?search=John+1%3A11-12;&version=50;&interface=print "Read John 1:11-12") na tumatanggap tayo ng kapangyarihang maging mga anak ng Diyos sa pamamagitan lamang ng pagtanggap kay Jesus sa paraang hindi pagtanggap ng kanyang sariling bayan. Ang “kanyang sariling bayan” ay walang problema kay Hesus na gumagawa ng himala, hangga't sarado ang kanyang bibig; ngunit hindi nila matanggap ang kanyang mga aral. At ang sitwasyon ay hindi gaanong naiiba ngayon.  
-  
-Kung ipagpipilitan ng simbahan na ipangaral ang mga karanasan sa relihiyon nang hindi binibigyan ang mga tao ng mga aral ni Hesus, matitiyak mo na ang mga karanasan na kanilang inaalok ay huwad. Ang mga salita lamang ni Hesus ang Espiritung nagbibigay buhay. Ang mga aral ni Hesus ang nagpasiklab ng Pentecostes.  
-  
-Nalaman namin na ang mga taong nagsimula na sa palagay nila ang Banal na Espiritu at si Jesus ay magkakahiwalay na bagay (iyon ay isang "karanasan") ay kabilang sa pinakamalalakas na kalaban ng kanyang mga turo. Gumagawa sila ng mga doktrina na ginagawang kaaway si Jesus ang Guro ng Banal Espiritu ng Diyos. Gayunpaman sinabi ni Jesus na ang Banal na Espiritu ang "magpapaalala sa inyo ng lahat ng mga bagay na sinabi ko sa inyo." ([John 14:26](http://www.biblegateway.com/passage/index.php?search=John+14%3A26;&version=50;&interface=print "Read John 14:26"))  
-  
-Kung ang iyong pananampalataya ay nasa isang karanasan, magtatapos ka sa pagtanggi sa mga salita ni Jesus. Kung ang iyong pananampalataya ay nasa mga salita ni Jesus, makakatanggap ka pa rin ng mga karanasan (sa oras na ipahintulot ng Diyos), ngunit kung mayroon man o walang mga karanasan, magkakaroon ka ng tunay na Banal na Espiritu ng Diyos... at iyon ang mahalaga.  
-  
-Ang mga karanasan ay personal; samakatuwid dapat silang napapasailalim sa mga turo ni Hesus, na dapat ay ating tunay na (hangarin) mapagkukunan ng patnubay.  
-  
-Huminga si Hesus sa kanyang mga alagad nung minsan bago ang Araw ng Pentecostes, at sinabi niya, "Tanggapin ninyo ang Banal na Espiritu!" ([John 20:22](http://www.biblegateway.com/passage/index.php?search=John+20%3A22;&version=50;&interface=print "Read John 20:22")) Ngunit bago pa man iyon nangyari, natatanggap nila ang kanyang espiritu, hangga't natatanggap nila ang kanyang mga turo. Kahit na wala tayong mga talata tulad ng [John 6:63](http://www.biblegateway.com/passage/index.php?search=John+6%3A63;&version=50;&interface=print "Read John 6:63") upang sabihin ito sa atin, dapat malaman natin sa karaniwang pag-iisip. Imposibleng makilala ang "espiritu" ng isang tao nang walang reperensya sa sinabi ng taong iyon.  
-  
-Ang salitang "espiritu" ay nangangahulugang "hininga". Ang hininga at mga salita ay parehong nagmumula sa bibig. Hindi ka maaaring magsalita nang hindi humihinga. Sa [Revelation 19:13-15](http://www.biblegateway.com/passage/index.php?search=Revelation+19%3A13-15;&version=50;&interface=print "Read Revelation 19:13-15"), tinawag si Jesus bilang "Salita ng Diyos" at isang espada ang lumabas sa kanyang bibig. Sa [Ephesians 6:17](http://www.biblegateway.com/passage/index.php?search=Ephesians+6%3A17;&version=50;&interface=print "Read Ephesians 6:17") tinatawag itong "espada ng Espiritu". Si Jesus, ang Espiritu ng Diyos, ang Salita ng Diyos at ang mga aral ni Jesus ay pawang mapagpapalit.  
-  
-Mahahanap mo ang espiritu ng isang batas sa pamamagitan ng pag-aaral ng mga salita, sa pagsisikap na maunawaan ang diwa ng pinag-uusapan nito. Oo, maaaring baluktutin ng mga tao ang batas sa pamamagitan ng pagtuon sa isang "letra” higit sa iba. Ngunit hindi ito nangangahulugan na hindi natin dapat subukang intindihin ang "diwa" ng batas, sa pamamagitan ng paghahanap ng "dalisay na gatas ng salita".([1 Peter 2:2](http://www.biblegateway.com/passage/index.php?search=1+Peter+2%3A2;&version=50;&interface=print "Read 1 Peter 2:2")) At mahahanap mo ang totoong Espiritu ni Kristo sa pamamagitan ng pag-aaral ng kanyang mga turo. Si Jesus mismo ang nagsabi na mula sa kasaganaan ng puso ay nagsasalita ang bibig. ([Matthew 12:34](http://www.biblegateway.com/passage/index.php?search=Matthew+12%3A34;&version=50;&interface=print "Read Matthew 12:34")) Sa madaling salita, ang espiritu (o puso) na nasa atin ay lalabas sa pamamagitan ng sinasabi natin. Ang Espiritu ni Kristo ay lumabas din sa pamamagitan ng kanyang sinabi.  
-  
-Kung nais mong makuha ng isang tao ang diwa ng iyong sinasabi, hindi mo ba mas gugustuhin silang makinig sa iyo kaysa magpunta sila sa isang silid at kilitiin ang kanilang sarili ng isang balahibo habang sinasabi ang iyong pangalan, sa isang pagtatangka na magkaroon ng isang karanasan?  
-  
-Malinaw na, ang diwa ng kung ano ka (iyong pagkatao, iyong awtoridad, iyong kredibilidad, iyong espiritu, o anumang nais mong tawagan ito) ay matutuklasan nang mas mahusay sa pamamagitan ng pakikinig sa iyong sinasabi.  
-  
-Walang mapapatunayan ang iyong laman; ang iyong espiritu ang mahalaga, at ang mga salitang sinasabi mo ay ang iyong espiritu. Totoo rin ito para kay Jesus. ([John 6:63](http://www.biblegateway.com/passage/index.php?search=John+6%3A63;&version=50;&interface=print "Read John 6:63")) O, kung mas gusto mo ang pagsasalin ng TEV, ang mga salitang sinasalita ng sinuman ay magdadala ng kanilang diwa sa mga nakikinig.  
-  
-Mayroong maraming mga "karumaldumal na espiritu", ngunit iisa lamang ang Banal na Espiritu, at ang Banal na Espiritung iyon ang espiritu ni Kristo, ang Guro - ang pangalawang Persona ng Trinidad. Tanggapin mo ang kanyang mga aral at tatanggapin mo ang kanyang Espiritu. Tanggihan ang kanyang mga aral at makakatanggap ka ng isang masamang espiritu.
+
+

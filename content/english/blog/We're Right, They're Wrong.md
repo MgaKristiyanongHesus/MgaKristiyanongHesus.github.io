@@ -9,37 +9,39 @@ author: ""
 tags: ["Guidance"]
 draft: false
 ---
+Within our community, we try to use the Golden Rule -- measuring our actions by the same principles that we use for measuring the actions of our enemies, and vice versa. So if, for example, we want freedom to distribute our literature, then we believe that they should have the same freedom. If it is wrong for them to cause division in our ranks, then we must not deliberately set out to cause division in their ranks. And so on and so on.  
+  
+But occasionally we find ourselves in a situation where it just doesn't seem right to apply the same principle to both sides. A situation along these lines came up in Kerala, South India, years ago, in which I found myself saying, "But the difference is that we are right and they are wrong."  
+  
+Our natural response was to actually laugh at such an argument. We had become so indoctrinated by the values of a society which does not know the difference between right and wrong, that we thought such a claim was laughable.  
+  
+After all, claiming that we are right and they are wrong is the reasoning behind every war. It's the claim that has been made by every new division in the Christian church. It's the justification for racism and bigotry. But there is one difference between those illustrations and our own use of the phrase: We really are right and they really are wrong!  
+  
+See, they use "right" and "wrong" hypocritically, without any genuine attempt to arrive at the truth. There is no humble examination of themselves for sin and error. They show no concern for the welfare of others, and especially not for their enemies. So, obviously, the fruit of their argument is always going to be bad. But it should not scare off someone who is sincerely seeking the truth, and following the other criteria listed above, from showing some kind of confidence about what we have discovered as a result.  
+  
+As long as we always stay open to new knowledge, and open to a higher revelation of truth, we do not need to throw out the confidence we now have in what we have found. And what we have found is the Son of God, the Creator of the Universe. We have found the Way, the Truth, and the Life.  
+  
+When we first started as a community, we discussed what to call ourselves. "Why not just call ourselves Christians?" someone asked.  
+  
+"Because that's what all the churchies call themselves, and we don't want to be confused with them," someone else responded.  
+  
+"But Christian is what we are," came back the answer. "We really are following Jesus, and the churchies aren't. So why should we be the ones to retreat and go looking for a new name, when we are the ones that the name rightly belongs to in the first place?"  
+  
+See, the only difference between us and the churchies is that the name is "right" for us, and "wrong" for them. We're both fighting over the same name... but we are entitled to it and they aren't. Is that a double standard? Or is it just a simple fact that anyone could test by studying the evidence?  
+  
+We have been known to break the law by painting Christian graffiti along railway lines, by distributing Christian literature where it is forbidden, by converting Hindu university students to faith in Jesus. But that does not obligate us to defend all law-breakers, or even all graffitists. Why? Because we're right and most of the others are wrong.  
+  
+We have called the police to report our car stolen. Church leaders have also called the police... to have us removed from their church meetings for giving roses to members of the congregation. What's the difference? The difference is that we were morally right in our action, while they were morally wrong.  
+  
+Man looks on the outward appearance, but God looks on the heart. Until we examine the motives behind actions (and God has given us a lot of information on how to do that), it cannot be said that people are equally right or wrong just because they are engaging in similar activities.  
+  
+There is far too much violence in the world today; and yet Jesus will destroy millions at the Battle of Armageddon, and then proceed to rule the world with a "rod of iron". How is that different from what governments are now doing? Only one difference... Jesus is right, and they are wrong. Jesus will be genuinely seeking the good of all, while the others only hypocritically claim to be doing that, at the same time that they secretly lust after wealth and power for themselves.  
+  
+The list could go on and on, and in a way it could cover anything. Anything done in a sincere desire to serve and obey God becomes good and right, no matter how wrong or foolish it may appear to be to human eyes; and anything not done in obedience to God becomes evil, no matter how impressive it may be to human understanding.  
+  
+This is a frightening teaching, for it can be used to justify anything, even murder. And it has been used to justify anything, including murder. Using it to justify something, however, is wrong; but using it to give confidence to those who are honestly and humbly seeking to know and follow the will of God is not.  
+  
+Can you see the difference? We who are sincerely seeking to know and follow the will of God are right... and they are wrong!
 
-Sa loob ng aming komunidad, sinusubukan naming gamitin ang Gintong Panuntunan -- pagsukat sa ating mga kilos sa pamamagitan ng parehong mga prinsipyo na ginagamit namin para sa pagsukat sa mga kilos ng aming mga kaaway, at bise bersa. Kaya kung, halimbawa, gusto namin ng kalayaan na ipamahagi ang aming mga panitikan, kung gayon naniniwala kami na dapat magkaroon sila ng parehong kalayaan. Kung mali para sa kanila na gumawa ng dibisyon sa aming mga ranggo, kung gayon hindi kami dapat na sadyang magtakda na gumawa ng dibisyon sa kanilang mga ranggo. At iba pa.  
-  
-Ngunit paminsan-minsan ay nahahanap namin ang aming sarili sa isang sitwasyon kung saan lamang hindi mukhang tama na ilagay ang parehong prinsipyo sa magkabilang panig. Isang sitwasyon tungkol dito ay nagmula sa Kerala, South India, noong nakaraang mga taon, kung saan nasumpungan ko ang aking sarili na nagsasabing, "Ngunit ang pagkakaiba ay kami ay tama at sila ay mali."  
-  
-Ang aming natural na tugon ay talagang tumawa sa gayong argumento. Kami ay naging sobrang napag-indoktrinado ng mga pagpapahalaga ng isang lipunan na hindi alam ang pagkakaiba sa pagitan ng tama at mali, na naisip namin na ang nasabing pahayag ay nakakatawa.  
-  
-Pagkatapos ng lahat, ang pag-angkin na tayo ay tama at sila ay mali ay ang dahilan sa likod ng bawat giyera. Ito ay ang pag-angkin na nagawa ng bawat bagong dibisyon sa simbahang Kristiyano. Ito ang pagbibigay-katwiran para sa diskriminasyon at pagkapanatiko. Ngunit may isang pagkakaiba sa pagitan ng mga ilustrasyong iyon at ng aming sariling paggamit ng parirala: Talagang kami ay tama at sila ay talagang mali.  
-  
-Kita n'yo, gumagamit sila ng "tama" at "mali" nang mapagpaimbabaw, nang walang anumang tunay na pagtatangka na makarating sa katotohanan. Walang mapagpakumbabang pagsusuri sa kanilang sarili para sa kasalanan at pagkakamali. Hindi sila nagpapakita ng pagmamalasakit para sa kapakanan ng iba, at lalo na hindi para sa kanilang mga kaaway. Kaya, malinaw naman, ang bunga ng kanilang pagtatalo ay palaging magiging masama. Ngunit hindi nito dapat takutin ang isang tao na taos-puson naghahanap ng katotohanan, at sumusunod sa iba pang pamantayan na nakalista sa itaas, mula sa pagpapakita ilang uri ng kumpinyansa tungkol sa natuklasan bilang isang resulta.  
-  
-Hangga't palagi tayong mananatiling bukas sa bagong kaalaman, at bukas sa isang mas mataas na paghahayag ng katotohanan, hindi natin kailangan itapon ang kumpinyansa na mayroon tayo ngayon sa ating nahanap. At ang natagpuan namin ay ang Anak ng Diyos, ang Lumikha ng Sansinukob. Natagpuan namin ang Daan, Ang Katotohanan, at ang Buhay.  
-  
-Noong una kaming nagsimula bilang isang komunidad, tinalakay kung ano ang aming tatawagin sa aming mga sarili. "Bakit hindi nalang natin tawagin ang ating mga sarili mga Kristiyano?"  
-  
-"Sapagkat iyon ang tawag sa lahat ng mga simbahan sa kanilang mga sarili, at ayaw naming malito sa kanila," may ibang tumugon.  
-  
-"Ngunit Kristiyano ay kung ano tayo," bumalik ang sagot. "Sinusundan talaga natin si Hesus, at ang mga simbahan ay hindi. Kaya bakit tayo dapat umatras at maghanap ng bagong pangalan, kung tayo ang may tamang pag-aari ng pangalan sa una?"  
-  
-Kita n'yo, ang pagkakaiba lamang sa pagitan namin at ng mga simbahan ay na ang pangalan ay "tama" para sa amin, at "mali" sa para kanila. Pareho kaming nag-aaway sa iisang pangalan... ngunit may karapatan kami rito at hindi sila. Ito ba ay isang dobleng pamantayan? O isang simpleng katotohanan lamang na ang sinuman ay maaaring isubok sa pamamagitan ng pag-aaral ng ebidensya?  
-  
-Nakilala kaming lumabag sa batas sa pamamagitan ng pagpipinta ng Kristiyanong graffiti sa mga mga linya ng riles, sa pamamagitan ng pamamahagi ng mga panitikang Kristiyano kung saan ipinapagbawal, sa pamamagitan ng pag-convert ng mga estudyante ng Hindu na unibersidad sa pananalig kay Jesus. Ngunit hindi iyan nagpipilit sa amin na ipagtanggol ang lahat ng mga lumalabag sa batas, o kahit na ang lahat ng mga graffitist. Bakit? Sapagkat kami ay tama at karamihan sa kanila ay mali.  
-  
-Tumawag kami sa pulisya upang iulat ang aming sasakyan na ninakaw. Ang mga pinuno ng simbahan ay tumawag din sa pulisya... upang alisin kami kami mula sa kanilang mga pagpupulong ng simbahan dahil sa pagbibigay ng mga rosas sa mga miyembro ng kongregasyon. Ano ang pagkakaiba? Ang pagkakaiba ay kami ay tama sa moral sa aming kilos, habang sila ay mali sa moral.  
-  
-Ang tao ay tumitingin sa panlabas na hitsura ngunit ang Diyos ay tumitingin sa puso. Hanggang sa suriin natin ang mga motibo sa likod ng mga aksyon (at binigyan tayo ng Diyos ng maraming impormasyon tungkol sa kung paano ito gawin), hindi masasabing ang mga tao ay parehong tama o mali dahil lamang sa nakikilahok sila sa mga magkatulad na gawain.  
-  
-Napakaraming karahasan sa mundo ngayon; gayunpaman ay wawasakin ni Jesus ang milyun-milyon sa Labanan ng Armagedon, at pagkatapos ay magpapatuloy upang mamuno sa mundo sa isang "panghampas na bakal". Paano iyan naiiba sa ginagawa ng mga pamahalaan ngayon? Isang pagkakaiba lamang... si Jesus ay tama, at sila'y mali. Si Jesus ay tunay na maghahanap ng ikabubuti ng lahat, habang ang iba ay mapagpaimbabaw na inaangkin lamang na ginagawa iyon, habang na lihim nilang ninanasa ang yaman at kapangyarihan para sa kanilang sarili.  
-  
-Ang listahan ay maaaring magpatuloy-tuloy, at sa isang paraan maaari itong masakop ang anumang bagay. Anumang bagay na ginawa sa isang taos-pusong pagnanais na maglingkod at sumunod sa Diyos ay nagiging mabuti at wasto; at anumang hindi ginawa sa pagsunod sa Diyos ay nagiging masama, gaano man kahanga-hanga ito sa pag-unawa ng tao.  
-  
-Ito ay isang nakakatakot na turo, sapagkat maaari itong magamit upang bigyan katwiran ang anumang bagay, maging ang pagpatay. At ginamit ito upang bigyan katwiran ang anumang bagay, kabilang ang pagpatay. Gayunpaman, ang paggamit nito upang bigyang katwiran ang isang bagay ay mali; ngunit ang paggamit nito upang magbigay kumpinyansa sa mga taong matapat at mapagkumbabang naghahangad na malaman at sundin ang kalooban ng Diyos ay hindi.  
-  
-Nakikita mo ba ang pagkakaiba? Tayo na taos-pusong naghahangad na malaman at sundin ang kalooban ng Diyos at tama... at sila'y mali!  
+
+

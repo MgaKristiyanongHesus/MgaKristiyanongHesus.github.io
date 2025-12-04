@@ -9,23 +9,25 @@ author: ""
 tags: ["Practical"]
 draft: false
 ---
+I have often heard people complaining about having to eat "leftovers". It baffles me, because it is said as though there is something inferior about leftovers. Food that was absolutely delicious the night before suddenly gets this terrible reputation the next day.  
+  
+Perhaps as a reaction to that, I have developed a kind of lifelong obsession for eating leftovers. I have noticed that it is an obsession which extends to a great many other things as well. I hate to see anything go to waste, and I realise that most people have an aversion to using leftovers, remnants, off-cuts, the last little bit at the bottom of the jar, etc. So the more little bits that I can put to good use, the more satisfied that I feel.  
+  
+A fringe benefit of using the leftovers is tidiness... and even a look of wealth. The refrigerator has more room for full bottles of milk and whole cartons of eggs. Instead of half a dozen jars with a little bit of jam at the bottom of each, there is one almost new, almost full jar.  
+  
+Junk becomes recycled, while the best items are available for others, or to be sold.  
+  
+There are even leftovers with regard to jobs. (I'm not as good on this one, but Cherry makes up for me here.) Most people walk away from a job with a few loose ends still hanging, whereas the leftover lovers put the finishing touches on what others leave half-done. They put the tools away, wipe up the muddy footprints, scrub the ring off the bathtub, pick up dirty clothes, and just generally clean up behind those who grab the easy bits and then leave the rest.  
+  
+Often the task of finishing off leftovers is overwhelming, especially in a wealthy society. Everywhere there are leftovers cluttering shelves, rooms, and the landscape. Everywhere there are unfinished tasks, because some new interest caught the attention of the person who was doing it.  
+  
+I am sure that some people will consider it trivial and unnecessary for me to even be writing this; but I do believe that there is an important spiritual lesson here, about being faithful in little things before God can make us rulers over bigger things.  
+  
+James said, in his epistle, "Go to \[That's Old English for "shame on you".\] you rich men, for your riches are corrupted, and your garments are moth-eaten. Your gold and silver is cankered and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. You have heaped treasure together for the last days." ([James 5:1-3](http://www.biblegateway.com/passage/index.php?search=James+5%3A1-3;&version=50;&interface=print "Read James 5:1-3"))  
+  
+Whether we think of ourselves as rich or not, if we have more possessions (or more jobs) than we can maintain, then we need to simplify. That may mean cleaning up, fixing up, using up, or just plain giving or throwing away the rusty bits, the moth-eaten bits, the mouldy bits, the messy bits, and the leftover bits. When it comes to jobs, we need to sort out our priorities, and make sure we have totally finished the most important ones before we run off to start others. We should be able to present each finished task to God as an offering of praise, something that we can say with confidence has been completed to at least near perfection. No loose ends, nothing left for others to finish for us.  
+  
+I love a finished work, even if it's just finishing off the last of a jar of mayonnaise, or putting the final touches on a painting. But there are so many unfinished tasks in the world, that I pray for more such labourers.
 
-Madalas kong narinig ang mga tao na nagrereklamo tungkol sa pagkain ng tira-tira. Ito ang nagpapaggulo sa akin, sapagkat sinasabi na parang may isang bagay na masama tungkol sa tira-tira. Ang pagkain na talagang masarap kagabi ay biglang nakakuha ng napakasamang reputasyon sa kinabukasan.  
-  
-Marahil bilang isang reaksyon doon, nakabuo ako ng isang uri ng panghabambuhay na pagkahumaling sa pagkain ng tira. Napansin ko na ito ay isang pagkahumaling na umaabot sa napakaraming iba pang mga bagay. Ayaw kong makita ang anumang bagay na nasasayang, at napagtanto ko na karamihan sa mga tao ay may pag-ayaw sa paggamit ng mga tira-tira, mga naiwan, mga tirang kahoy, ang huling unting dami sa ilalim ng garapon, atbp. Kaya kapag mas maraming maliliit na piraso na maaari kong ilagay sa mabuting paggamit, mas nasisiyahan ko.  
-  
-Ang isang karagdagang benepisyo ng paggamit ng tira-tira ay ang kalinisan... at maging ang hitsura ng yaman. Ang ref ay may higit pang espasyo para sa mga punong bote ng gatas at buong karton ng mga itlog. Sa halip na kalahating dosenang garapon na may kaunting jam sa ilalim ng bawat isa, mayroong isang halos bago, halos puno na garapon.  
-  
-Ang basura ay nare-recycle, habang ang pinakamahusay na mga gamit ay maaaring magamit para sa iba, o ibenta.  
-  
-Mayroong ngang tira-tira pagdating sa mga gawain. (Hindi ako ganoong kagaling dito, ngunit si Cherry ang bumabawi para sa akin dito.) Karamihan sa mga tao ay lumalayo mula sa isang gawain na may ilan pang hindi natatapos na mga bahagi, samantalang tinatapos ng mga taong mahilig sa tira-tira ang mga hindi tinapos ng mga iba. Itinatago nila ang mga kagamitan, pinupunasan ang sahig na medyo maputik, kuskusin ang natitirang dumi sa bathtub, dinadampot ang maruruming damit, at karaniwang naglilinis lang sa likod ng mga kumukuha ng madadaling bahagi ng gawain at pagkatapos ay iniiwan ang natitira upang tapusin ng iba.  
-  
-Kadalasan ang pagtatapos ng tira-tira ay sobrang nakakapagod, lalo na sa isang mayaman na lipunan. Saanman ay may tira-tirang nakakalat na mga istante, silid, at paligid. Saanman may mga gawain na di-tapos, dahil may isang bagong interes ang nakakuha sa atensyon ng taong gumagawa nito.  
-  
-Ako’y sigurado na ituturing di-kailangan ng ilang tao ang aking isinusulat dito; ngunit naniniwala nga ako na mayroon isang mahalagang espiritwal na leksyon dito, tungkol sa pagiging tapat sa maliliit na bagay sa harapan ng Diyos ang maaaring bumuo sa atin na maging pinuno ng malalaking bagay.  
-  
-Sinabi ni Santiago, sa kanyang sulat, “Mahiya kayong mayayaman, sapagkat bulok na ang mga kayamanan n’yo at kinain ng mga gamu-gamo ang inyong mga damit. Ang inyong mga ginto at pilak ay kinakalawang na, at ang kalawang ding iyon ang magiging patunay laban sa inyo at parang apoy tutupok sa inyong laman. Nag-impok kayo ng kayamanan para sa mga huling araw.” ([James 5:1-3](http://www.biblegateway.com/passage/index.php?search=James+5%3A1-3;&version=50;&interface=print "Read James 5:1-3"))  
-  
-Kung sa tingin natin na mayaman tayo o hindi, kung mayroon tayong higit pang mga pag-aari (o higit pang mga gawain) kaysa sa maaari nating panatilihin, sa gayon kailangan nating magbawas. Iyon ay maaaring mangahulugan ng paglilinis, pag-aayos, paggamit, o simpleng pagbibigay o pagtatapon ng mga kinakalawang na piraso, ang mga bagay na kinain ng mga gamu-gamo, ang inaamag na mga piraso, ang mga makalat na piraso, at ang mga natirang piraso. Pagdating sa mga gawain, kailangan nating ayusin ang ating mga priyoridad, at siguraduhing natapos na natin ang mga pinakamahalagang bagay bago tayo magsimula sa paggawa ng ibang bagay. Dapat nating maiharap ang bawat natapos na gawain sa Diyos bilang isang pag-aalay ng papuri, isang bagay na masasabi natin nang may kumpiyansa na natapos at least malapit sa kasakdalan. Wala ng mga bahagi na hindi natapos, walang bagay natitira para tapusin ng iba para sa atin.  
-  
-Gustung-gusto ko ang isang natapos na gawain, kahit na ito ay ang pag-uubos lamang ng pinakahuling laman ng garapon ng mayonesa, o ang paglalagay ng mga huling detalye sa isang larawan. Ngunit napakaraming mga gawain na hindi natatapos sa mundo, kaya't nananalangin ako dumami pa ang gayong mga manggagawa.
+
+

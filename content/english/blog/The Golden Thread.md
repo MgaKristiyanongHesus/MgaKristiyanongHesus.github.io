@@ -9,17 +9,19 @@ author: ""
 tags: ["Doctrine", "Theology", "Positive"]
 draft: false
 ---
+I had a vision that was very strong and that seemed significant.  
+  
+There was a panorama city-scape before me. Every now and then I saw the glitter of gold. In my dream, I zoomed in on the area. There was a golden thread, or ribbon along a path near a river, that was mostly obscured by trees and shrubs.  
+  
+The golden thread represented truth. Several of us (including myself) were on the path. The thread was being spun before us by God himself, and it was meant to show us the way. We had to concentrate on the thread and ignore distractions, or we would lose our way. It was important to keep following the golden thread.  
+  
+Other people, notably preachers, would occasionally get a glimpse of the golden thread. They would instantly receive the truths contained in that portion of the thread which they had seen reflected in the sunlight. However, instead of following the thread to find more truth, they would run off and become famous for the sermons and books that would result from their brief encounter with truth.  
+  
+Some of us back on the path faithfully following the thread became a little jealous of these instant success preachers, especially since they had received such a small portion of the overall truth that we had discovered. However, we quickly realised that our jealousy too was a distraction, and we returned to following the golden thread.  
+  
+The lesson seems obvious, and that is that we have a higher calling than just some new doctrine, or gimmick. Our calling is to walk in the light continually. If we try to use the light selfishly, we will lose track of the thread and where it is leading overall.  
+  
+Never stop learning, for when we stop growing, we start to die.
 
-Nagkaroon ako ng isang pangitain na napakalakas at mukhang mahalaga.  
-  
-Mayroong isang panorama city-scape sa harapan ko. Minsan nakikita ko ang kislap ng ginto. Sa panaginip ko, malalim kong ipinagtuon ang lugar. Mayroong isang gintong sinulid, o ribon sa isang landas malapit sa isang ilog, na karamihan ay natatakpan ng mga puno at palumpong.  
-  
-Ang gintong sinulid ay kumakatawan sa katotohanan. Marami sa amin (kasama ang aking sarili) ay ang nasa landas. Ang sinulid ay ginagalawan sa harap namin ng Diyos mismo, at ito'y inilaan upang ipakita sa amin ang daan. Kailangan namin ituon ang pansin sa sinulid at huwag pansinin ang mga nakakagambala, o mawawala ang aming daan. Mahalagang magpatuloy na sundin ang gintong sinulid.  
-  
-Ang ibang mga tao, kapansin-pansin ang mga mangangaral, ay paminsan-minsang masusulyapan ang gintong sinulid. Agad nilang matatanggap ang mga katotohanang nakapaloob sa bahaging iyon ng sinulid na nakita nilang sumasalamin sa sikat ng araw. Subalit, sa halip na sundan ang sinulid upang makahanap ng higit pang katotohanan, sila'y magsisitakas at magiging tanyag sa mga sermon at libro na magreresulta mula sa kanilang maikling pakikipagtagpo sa katotohanan.  
-  
-Ang ilan sa amin balik sa landas ay matapat na sinusundan ang sinulid ay naging medyo mainggit sa mga agarang pagtatagumpay ng mga mangangaral, lalo na't natanggap nila ang isang maliit na bahagi ng pangkalahatang katotohanan na aming natuklasan. Gayunpaman, mabilis naming napagtanto na ang aming pagseselos ay isang nakakagambala rin, at bumalik kami sa pagsunod sa gintong sinulid.  
-  
-Tila halata ang aralin, at iyon ay mayroon tayong mas mataas na pagtawag kaysa sa ilang mga bagong doktrina, o gimik lamang. Ang ating tungkulin ay patuloy na maglakad sa liwanag. Kung susubukan nating gamitin ang liwanag nang makasarili, mawawalan ang ating pagtuon sa sinulid at kung saan ito patungo sa pangkalahatan.  
-  
-Huwag na huwag maghihinto sa pag-aaral, sapagkat kapag huminto tayo sa paglago, nagsisimula tayong mamatay.  
+
+

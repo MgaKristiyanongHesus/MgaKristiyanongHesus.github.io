@@ -7,7 +7,7 @@ image: "/images/articles/PedoDef.webp"
 categories: ["Malakas na Karne"]
 author: ""
 tags: ["Mahirap Na Katotohanan", "Random"]
-draft: false
+draft: true
 ---
 
 Mayroong ilang mga pagtatangka na mag-incite ng galit laban sa aming sarili sa pamamagitan ng pagpapahiwatig na sinusuportahan namin ang pedophilia. Dahil ang isyu ng pedophilia ay pabagu-bago ngayon, ito ay isa sa mga pinakamadaling salita na gamitin kapag may sinusubukang mag-incite ng lynch mob. Ang media, ang magkabilang panig ng pampulitikang spectrum, halos lahat ng simbahan, at halos lahat ng miyembro ng pangkalahatang publiko ay nasa pagitan ng mga gustong pumatay ng mga pedophile sa pinakamasakit na paraan na posible (sa right) sa mga hayag at mahigpit na tinutuligsa ang gawain (sa left).  

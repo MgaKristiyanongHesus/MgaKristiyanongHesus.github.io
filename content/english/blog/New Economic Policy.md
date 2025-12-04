@@ -9,91 +9,131 @@ author: ""
 tags: ["Economy","The Kingdom of Heaven"]
 draft: false
 ---
+Anyone knows that material wealth is measured in goods: apples, cars, shoes, sheep, etc. When the number and the quality of these things increases, wealth increases.  
+  
+But economists disagree. They say they can make wealth by destroying goods or by producing fewer goods of poorer quality.  
+  
+If we would use the technology, labour, and resources that are now available to us, the entire planet could enjoy an amazingly high standard of living. But the experts say it wouldn't be good for the economy. Why?  
+  
+Because the economists work for the rich and not for the poor. They are only interested in higher profits for the sellers... even if it means fewer sales at a higher price.  
+  
+Businessmen may make more money by destroying half their crop and tripling their prices. Half the population may go hungry, but economists will say they have increased the wealth of the country. Do you see a flaw in their thinking?  
+  
+![choice between money or reasources](https://jesuschristians.com/images/stories/NEP1.png "money or resources?")The flaw is that they have confused money with wealth. And hardly anyone in the world dares to correct that error. But think about it: You can't eat money. It will not keep you warm. It is only useful if you can trade it for something else.  
+  
+But if we continue with our present economic policies, there will be less and less to trade it for.  
+  
 
-Gusto naming malaman ang mahahalagang pagkakaiba sa pagitan ng relihiyon ng Kristiyano at sa lahat ng iba pang mga relihiyon; sa pagitan ng bahagi ng Bibliya bago pa ipinanganak si Jesus, at ang bahagi pagkatapos siya ipinanganak, sa pagitan ng mga turo ni Jesus at ng mga turo ng lahat ng ibang pinuno ng relihiyon. Hindi kami interesado sa mga maliliit na pagkakaiba na pinagtatalunan ng karamihan. Hiniling namin sa Diyos na ipakita sa amin ang mahahalagang pagkakaiba, at ipinakita niya.  
+### WHAT IS MONEY?
+
   
-Ang natutunan namin ay ang relihiyong Kristiyano (yung itinuro ni Jesus) ay kakaiba sa lahat ng ibang mga relihiyon na hindi mo talaga matatawag itong isang relihiyon. Sa maraming mga pamamaraan, ang mga grupong tumatawag sa kanilang sarili bilang Kristiyano ay mas katulad pa sa iba pang mga relihiyon kaysa sa katulad nila si Jesus at sa kanyang mga unang alagad.  
+Before money existed, people were still greedy. But there were limits to their greed. When you traded chickens for sacks of wheat, there were limits to how many chickens you could carry home, house, and maintain.  
   
-Mayroong ilang mahahalagang pamamaraan na halos ang lahat ng mga relihiyon ay magkakapareho, at nangyari lamang na ang mga bagay na ito, sa parehong pagkakataon, ay mga bagay na nagpapaiba sa kanila sa itinuro ni Jesus.Tatalakayin namin ang anim na pagkakaiba.  
+![person hoarding chickens](https://jesuschristians.com/images/stories/NEP2.png "hoarding chickens")True, some had more than others, but it was unthinkable that any one person could have a million (much less, a billion) chickens in their back yard. And, if others in your village were starving while you had even a thousand chickens, it was hard to convince the others that you were entitled to a thousand times more than they had.  
   
+Then someone invented money. It was easier to carry, store, maintain, and especially easier to hide. With enough money, you could own the world, without actually putting it in your back yard.  
   
-**A. Mga Gusali  
-**  
-Halos lahat ng mga relihiyon ay labis ang pagkahumaling sa mga gusali. Marami silang espesyal na pangalan para sa kanilang mga gusali, at sa isa o ibang paraan, nagbibigay sila ng mas maraming oras, pera, at pagmamahal sa mga gusali kaysa sa Diyos at sa ibang tao. Ang iba't ibang mga relihiyon ay madalas na nakikipagkumpitensya sa bawat isa upang makagawa ng mas malaki at mas matibay na mga gusali.  
+Poor people could work in your factories, shop in your supermarkets, do business in your skyscrapers, even drive on your roads in cars financed by your banks, and never feel angry about how unfair this is.  
   
-Ang matinding pagkawili sa mga gusali ay isang problema mula sa simula, sa pagitan ng Diyos at ng mga tao. Sinasabi ng unang aklat ng Bibliya na "Si Cain ay lumayo sa Diyos... at nagtayo ng isang lungsod." ([Genesis 4:16-17](http://www.biblegateway.com/passage/index.php?search=Genesis+4%3A16-17;&version=50;&interface=print "Read Genesis 4:16-17")) Sinasabi rito na ang Diyos ay nagalit sa mga tao dahil sa kanilang pagkawili na gumawa ng isang napakataas na tore. ([Genesis 11:3-4](http://www.biblegateway.com/passage/index.php?search=Genesis+11%3A3-4;&version=50;&interface=print "Read Genesis 11:3-4"))  
+Now the rich control the media, education, religion, even the government. They have brainwashed us into believing that they have a right to destroy the world in order to increase their wealth. We now think that whatever is good for BHP is good for all of us.  
   
-Nais ng mga relihiyosong tao na mahalin ng iba ang kanilang mga gusali. ([Luke 21:5-6](http://www.biblegateway.com/passage/index.php?search=Luke+21%3A5-6;&version=50;&interface=print "Read Luke 21:5-6")) At nagagalit sila kapag may sinabing anuman ang mga tao laban sa kanilang mga gusali, at sa lahat ng pera na kanilang nilulustay para riyan.  
+Worse still, we have all been tricked into playing their game. We now believe that money is the key to happiness. The entire human race has lost touch with reality in our obsession with money as an end in itself. This is madness!  
   
-Bakit pinatay si Jesus? Sinasabi ng Bibliya na ang isang dahilan na napagkasunduan ng mga pinuno ng relihiyon ay, siya ay pinatay dahil siya ay labag sa kanilang gusali. ([Matthew 26:59-61](http://www.biblegateway.com/passage/index.php?search=Matthew+26%3A59-61;&version=50;&interface=print "Read Matthew 26:59-61"))  
+
+### WORK VS. PLAY
+
   
-Ang gusali mismo ay hindi masama; ngunit si Jesus ay labag sa PAG-IBIG na mayroon ang mga tao para sa kanilang gusali. Ito yaong pag-ibig na dapat sana ibinigay para sa Diyos at sa iba, at hindi para sa isang walang buhay na gusali. Ang mga simbahan ngayon ay gumagastos ng halos 90% ng kanilang pera sa mga gusali, at mas mababa sa 1% upang matulungan ang mga mahihirap. Sinasabi ng Bibliya na kung saan natin inilagak ang ating pera ay doon ay kung saan natin ibinigay ang ating pag-ibig. ([Matthew 6:21](http://www.biblegateway.com/passage/index.php?search=Matthew+6%3A21;&version=50;&interface=print "Read Matthew 6:21"))  
+The struggle for more money does not only hurt the losers - the poor. It also hurts the winners, by making their work life a miserable existence... a rat race!  
   
-Nung sabihin ni Jesus, "Natapos na," habang siya ay namamatay sa krus, sinasabi niya na ang Diyos ay tapos na sa pamamaraan ng relihiyon. Ipinakita ng Diyos ang katotohanang ito sa pamamagitan ng pagsira ng kurtina sa isang espesyal na lugar kung saan pinaniniwalaan ng mga Hudyo na tumahan ang Diyos. Ginawa Niya ito sa parehong oras nang mamatay si Hesus.  
+Musicians, actors, athletes, and kids play. Others work. But what is the difference? The general rule is that "players" do not receive wages for what they freely choose to do, and "workers" do. And with increased leisure, people are learning to make "play" out of many activities.  
   
-Bago ito nangyari, sinabi ni Jesus sa isang babae na darating ang panahon na hindi na mahalaga kung saan mananalanginl ang mga tao, ngunit lamang na mayroon silang tamang diwa sa kanilang mga puso kapag sila ay nagdarasal. ([John 4:21-24](http://www.biblegateway.com/passage/index.php?search=John+4%3A21-24;&version=50;&interface=print "Read John 4:21-24")) Sa kaharian ng langit hindi ka pupunta sa bahay sambahan, dahil ikaw ang bahay sambahan. ([Acts 7:48](http://www.biblegateway.com/passage/index.php?search=Acts+7%3A48;&version=50;&interface=print "Read Acts 7:48")) Ang unang Kristiyano na namatay para sa kanyang pananampalataya ay namatay ilang sandali matapos sabihin ito sa mga pinuno ng relihiyon. At nagagalit ang mga pinuno ng relihiyon kapag itinuturo namin ito ngayon.  
+Prisoners study law; grandmothers take up flying; uni students enter campus politics; businessmen start hobby farms. And they do this with no promise of pay for their efforts. Are they working or are they playing?  
   
-Ang bagong tipan ay malinaw tungkol sa katotohanan na ang Diyos ay tumatahan sa mga puso ng mga tao ngayon, at hindi sa mga gusali. ([1 Corinthians 6:19](http://www.biblegateway.com/passage/index.php?search=1+Corinthians+6%3A19;&version=50;&interface=print "Read 1 Corinthians 6:19")) Ito ay isang napakalaki at mahalagang pagkakaiba sa pagitan ng simbahan na itinayo ni Jesus at ang mga gusali na itinatayo ng mga relihiyon sa buong mundo.  
+They are "plorking" (pronounced plurking). Plorking is a combination of playing and working. It means being creative, productive, or useful without being concerned about receiving money for it.  
   
+Some people enjoy their jobs and would not trade them for anything. These lucky plorkers (who just happen to be paid for it) are more reliable, more dedicated, and more contented than their workmates.  
   
-**B. Kalusugan**  
+If everyone did the things they wanted to do, everyone would be more productive, and society would be richer for it.  
   
-Dahil mahal ng mga relihiyosong tao ang gusali kaysa sa Diyos na tumatahan dito, nang marinig nila na ang Diyos ay nananahan na sa ating mga katawan ngayon, nagsisimula na rin silang mahalin ang kanilang mga katawan, at ituro na ito ang nais ng Diyos. Muli ay nagpapakita sila ng higit na pagmamahal sa "sisidlan" kaysa sa Diyos na tumatahan dito.  
+But the money myth has convinced people that they must spend their lives making money rather than being happy and productive.  
   
-Halos lahat ng mga relihiyon ay may mga aral tungkol sa kung paano maging malusog ([Mark 7:3-4](http://www.biblegateway.com/passage/index.php?search=Mark+7%3A3-4;&version=50;&interface=print "Read Mark 7:3-4")), at sinisikap nilang gawin ang mga panuntunang ito na katumbas sa (o mas mahalaga kaysa sa) tunay na espirituwal na mga panuntunang itinuro ni Jesus. Ang panuntunan sa kalusugan tungkol sa pagkain ng karne, pag-inom ng alak, paggamit ng asukal, paggamit ng droga, at iba pang mga bagay na naging mga panuntunan sa relihiyon.  
+People who cannot find a way to make money (or who aren't interested in making money) are made to feel they are useless. Worse than that, they are told that they have sinned against the world that feeds them until they begin to make money again. No thought at all is given to how creative, useful, or productive the non-wage earners may be.  
   
-Sinasabi nila na ang mga tao na sumusunod sa kanilang mga panuntunan tungkol sa kalusugan ay mas espirituwal kaysa sa mga taong hindi sumusunod sa kanila. Ngunit sinabi ni Jesus, "Walang pumapasok sa iyong bibig ang maaaring magpapaitim ng iyong budhi." ([Mark 7:15](http://www.biblegateway.com/passage/index.php?search=Mark+7%3A15;&version=50;&interface=print "Read Mark 7:15")) Sinabi ng mga tao na si Jesus ay isang alkoholiko at baboy dahil hindi siya natatakot uminom ng alak at kumain ng pagkain na sinabi ng relihiyosong mga tao ay masama para sa kanya. ([Luke 7:34](http://www.biblegateway.com/passage/index.php?search=Luke+7%3A34;&version=50;&interface=print "Read Luke 7:34")) Sinabi niya na maproprotektahan tayo ng Diyos mula sa panganib kung kumain o uminom tayo ng pagkain o tubig na hindi mabuti para sa atin. Sinabi ni Jesus na si Pedro ay dapat na kumatay at kumain ng mga hayop na sinabi ng kanyang relihiyon ay marurumi ([Acts 10:9-16](http://www.biblegateway.com/passage/index.php?search=Acts+10%3A9-16;&version=50;&interface=print "Read Acts 10:9-16")) Ito ay dahil nais niya na si Pedro ay manirahan at makipagtulungan sa mga tao mula sa iba’t ibang relihiyon, na hindi sumusunod sa mga panuntunan ng relihiyon ni Pedro. Ang mga panuntunan sa kalusugan ay makakatulong sa mga tao na maging mas malusog; ngunit kapag ginagawa nilang panuntunan sa relihiyon, pinaghihiwalay nila ang mga tao at napapaniwala ang bawat panig na sila ay mas mahusay kaysa sa kabilang panig  
+If players are the best workers, then more effort should be made to encourage people to play, instead of condemning the few who do.  
   
-Maraming mga taong malusog ang hindi mapagpakumbaba. May sakit ang kanilang espiritu. Wala silang masyadong totoong pagmamahal sa ibang tao. Ang mga taong malulusog ay maaaring maging malupit sa mga may sakit, sa pamamagitan ng pagsasabi na sila ay may sakit dahil sila ay masama at dahil ang Diyos ay nagagagalit sa kanila.  
+
+### WHERE DO WARS COME FROM?
+
   
-Nais ng Diyos na magkaroon tayo ng mabuting puso higit pa sa pagkakaroon ng malusog na katawan. Hindi mahalaga sa espirituwal kung tayo ay may sakit o lumpo. ([Matthew 18:8-9](http://www.biblegateway.com/passage/index.php?search=Matthew+18%3A8-9;&version=50;&interface=print "Read Matthew 18:8-9")) Kadalasan ang isang taong may sakit ay mas mapagpakumbaba kaysa sa isang malusog na tao. ([John 9:9-41](http://www.biblegateway.com/passage/index.php?search=John+9%3A9-41;&version=50;&interface=print "Read John 9:9-41"))  
+To most people, we fight wars because people in another country are evil and we (the good people) must stop them. But it isn't really that simple.  
   
-Balang araw ang ating mga katawan ay mamamatay. ([1 Corinthians 6:13](http://www.biblegateway.com/passage/index.php?search=1+Corinthians+6%3A13;&version=50;&interface=print "Read 1 Corinthians 6:13")) Ang mga relihiyon na naghihikayat sa mga tao na manalangin para sa Diyos na pagalingin sila ay madalas na nagtuturo na ang pinaka-espiritwal ay ang malulusog. Ang pagpapagaling ay nagiging isa pang puwersa upang paghiwalayin ang mga tao. Ngunit sa kaharian ng langit, hindi tayo naghahanap ng perpektong pisikal na katawan.([Romans 8:23](http://www.biblegateway.com/passage/index.php?search=Romans+8%3A23;&version=50;&interface=print "Read Romans 8:23")) Naghahanap tayo ng mga bagong espirituwal na katawan, pagkatapos mamatay ang ating pisikal na katawan. ([1 Corinthians 15:50-53](http://www.biblegateway.com/passage/index.php?search=1+Corinthians+15%3A50-53;&version=50;&interface=print "Read 1 Corinthians 15:50-53"))  
+Remember that people in the other country are being told the same things about us!  
   
+Greed is the great weakness of capitalism; but it is also the great weakness of socialism. Both sides are trying to destroy the other for the same reason... greed. Wars are just an extension of the greed that operates within every strata of society. But it is easier to see the utter foolishness of such motivation when we look at the devastation of war.  
   
-**C. Mga Espesyal na Gawang Panrelihiyon**  
+![people fighting and war](https://jesuschristians.com/images/stories/NEP3.png "fighting and war")Tragically, the rich on both sides do not fight their own wars. Instead, they sacrifice the lives of the poor in their quest for more power.  
   
-Halos lahat ng mga relihiyon ay nagtuturo sa mga tao na magsagawa ng mga espesyal na gawang panrelihiyon upang maging espirituwal. Maraming iba't ibang katawagan ang mga gawain na ito. Para sa mga simbahan ang mga iyon ay tinatawag na "sakramento" habang sa relihiyong Hudyo ay tinatawag na "paghahain". Ngunit sinabi ni Jesus na ang Diyos ay hindi interesado sa mga hain (o sa mga sakramento). ([Hebrews 10:5-6](http://www.biblegateway.com/passage/index.php?search=Hebrews+10%3A5-6;&version=50;&interface=print "Read Hebrews 10:5-6")) Ang nais ng Diyos ay ang pagmamahal. ([Mark 12:33](http://www.biblegateway.com/passage/index.php?search=Mark+12%3A33;&version=50;&interface=print "Read Mark 12:33"))  
+The same conflicts go on within our country, in the form of running battles between employers and employees. And it even operates on the family and individual level in the form of almost constant arguing and malice.  
   
-Karamihan sa mga relihiyon ay nagtuturo sa mga tao na bigkasin ang mga mahiwagang salita na sinasabi nilang magbibigay sa kanila ng espirituwal na lakas. ([Matthew 6:7](http://www.biblegateway.com/passage/index.php?search=Matthew+6%3A7;&version=50;&interface=print "Read Matthew 6:7")) Ang mga simbahan ay madalas na nagsusulat ng mga dasal para magamit ng mga tao kapag nakikipag-usap sila sa Diyos. Ito ay maaaring labag sa itinuro ni Jesus tungkol sa mga lihim na panalangin sa ating puso, kung saan hindi ito maririnig ng iba. ([Matthew 6:6](http://www.biblegateway.com/passage/index.php?search=Matthew+6%3A6;&version=50;&interface=print "Read Matthew 6:6")) Ang mga salitang ginagamit natin ay hindi mahalaga. Naririnig ng Diyos ang lenggwahe ng ating espiritu. ([Romans 8:26](http://www.biblegateway.com/passage/index.php?search=Romans+8%3A26;&version=50;&interface=print "Read Romans 8:26")) Kung ang ating espiritu ay hindi tama, ang mga espesyal na salita ay hindi makakatulong. Kung ang ating espiritu ay tama, hindi kinakailangan ang mga espesyal na salita.  
+Hatred between the sexes, racism, generation gaps, are all self-destructive. And they all come from a desire to explain the emptiness greed has left in our own spirits, by blaming someone else.  
   
-Maraming mga relihiyon ang nagtuturo sa mga tao na hiwain ang kanilang mga katawan sa ilang pamamaraan, upang ipakita na sila ay mas mahusay kaysa sa ibang mga tao.  
+For your own sanity, for unity in your family, for prosperity in your country, and for the survival of the human race, someone must begin to declare war on greed... before we all destroy ourselves!  
   
-Sinasabi ng Bibliya na ang Diyos ay hindi interesado rito. Ang gusto lang niya ay maniwala ang mga tao sa kanya. ([Romans 3:28-30](http://www.biblegateway.com/passage/index.php?search=Romans+3%3A28-30;&version=50;&interface=print "Read Romans 3:28-30")) Maraming mga Kristiyano ang nagtangkang gumawa ng mga bagong sakramento upang palitan ang mga sakramento ng mga Hudyo na hindi na ginagawa ng mga alagad ni Jesus.  
+
+### A NEW MOTIVATION
+
   
-Sinabi ni Jesus na dapat nating lukuban ang mga tao sa espiritu ng katotohanan na nasa kanyang mga aral, ngunit sinubukan ng mga unang Kristiyano na lukuban ang mga tao ng tubig, ang madalas gawin ng mga Hudyo (tulad ni Juan Bautismo). ([Luke 3:16](http://www.biblegateway.com/passage/index.php?search=Luke+3%3A16;&version=50;&interface=print "Read Luke 3:16")) Sinimulan ding gawin iyon ni Paul, sa pag-aakalang mayroong mahika sa tubig, ngunit mabilis niyang naunawaan na ang mga gawaing ito ay naghihiwalay din sa mga tao. Ipinakita sa kanya ng Diyos na hindi niya dapat sinusubukang sundin ang pagkaunawa ng mga Hudyo sa mga sakramento. ([1 Corinthians 1:17](http://www.biblegateway.com/passage/index.php?search=1+Corinthians+1%3A17;&version=50;&interface=print "Read 1 Corinthians 1:17"))  
+Although there was a lot of criticism of the space race during the 1960's and the 1970's, it was fulfilling a human need in a much more positive way than Vietnam. Kennedy's Peace Corps offered hopes of being an even better alternative to war. (Of course, these programs were only as successful as the zeal of the masses allowed. Personal inventiveness, adventure, and love do not depend on support from the government.)  
   
-Ang mga gawain na nais ng Diyos na gawin ng mga tao sa kanyang kaharian ay hindi mga espesyal na gawang panrelihiyon. Ang nais niya ay sundin natin ang kanyang Anak, si Jesus. ([Hebrews 10:7](http://www.biblegateway.com/passage/index.php?search=Hebrews+10%3A7;&version=50;&interface=print "Read Hebrews 10:7"); [1 Samuel 15:22](http://www.biblegateway.com/passage/index.php?search=1+Samuel+15%3A22;&version=50;&interface=print "Read 1 Samuel 15:22"))  
+The human spirit enjoys a challenge. If we are not actively building, we are actively destroying. Too often we think the way to build ourselves up is to tear someone else down.  
   
+What is needed is a vision and a commitment that are both positive and complete. We believe the goal must be total love... for all mankind. Our aggression must be directed against the lies and deceptions that are destroying the world (but not against the people who tell and believe the lies).  
   
-**D. Mga Banal na Araw at Pagpupulong**  
+We are talking about more than nice words for a political platform or a new religion. We are talking about a community of people who refuse to let money be a motivation for their daily living... people who actively seek every day to use all of their skills, energy, and resources to express love for others.  
   
-Halos lahat ng mga relihiyon ay may mga banal na araw at/o lingguhang pagpupulong. Paulit-ulit nilang ginagawa ang mga pagpupulong na ito, sapagkat naniniwala silang ito ang nagpapasaya sa Diyos. ([Hebrews 10:11](http://www.biblegateway.com/passage/index.php?search=Hebrews+10%3A11;&version=50;&interface=print "Read Hebrews 10:11")) Ang problema ay ang pagpupulong o ang banal na araw ay para lamang sa isang maikling panahon. Pagkatapos nito, ang mga tao ay aalis sa pagpupulong at babalik sa kanilang pamumuhay bago ang pagpupulong.  
+In time we hope to see this spirit of love spread and affect others. Real love is much more than emotional thrills; it is capable of ushering in a whole new world order. In fact, we've found it is more powerful than life itself.  
   
-Sa oras ng pagdating ng isa pang banal na araw, kailangan nilang gawin ulit ang parehong mga bagay, sapagkat masyadong matagal ang pagitan ng mga pagpupulong.  
+A few of us have begun to work for love rather than for money. We have given up everything we own and we are prepared to die for love.  
   
-Ang mga tagasunod ni Hesus ay namuhay kasama siya, pitong araw sa isang linggo. ([Luke 8:1](http://www.biblegateway.com/passage/index.php?search=Luke+8%3A1;&version=50;&interface=print "Read Luke 8:1")) Sinasabi ng Bibliya na "ipinakita" nila na ang Kaharian ng Langit ang nagbago sa kanilang paraan ng pamumuhay. Ang mga unang Kristiyano ay namuhay nang magkasama, pitong araw sa isang linggo. ([Acts 2:44-45](http://www.biblegateway.com/passage/index.php?search=Acts+2%3A44-45;&version=50;&interface=print "Read Acts 2:44-45")). Ginugol nila ang bawat araw sa paggawa ng mabuti ([Acts 5:42](http://www.biblegateway.com/passage/index.php?search=Acts+5%3A42;&version=50;&interface=print "Read Acts 5:42")). Sinasabi ng Bibliya na hindi tayo dapat huminto sa pamumuhay nang magkasama, tulad ng ginagawa ng karamihan sa mga tao ngayon. ([Hebrews 10:25](http://www.biblegateway.com/passage/index.php?search=Hebrews+10%3A25;&version=50;&interface=print "Read Hebrews 10:25"))  
+We have already found that such commitment pays dividends in terms of inner fulfilment, increased awareness, and a zest for life. We believe we've hit on the answer to the world's problems.  
   
-Ang dahilan ng pagkakaiba na ito sa pagitan ng relihiyon at ng kaharian ng langit ay dahil hindi pinapakain ng mga pinuno ng relihiyon ang kanilang mga tagasunod. Ang mga pinuno ng relihiyon ay nagtuturo sa mga tao na magtrabaho para sa pera anim na araw sa isang linggo at bigyan ang Diyos ng isang araw sa isang linggo.  
+
+### THE SOURCE
+
   
-Sinabi ni Hesus, na dapat tumigil ang mga tao sa pagtatrabaho para sa pera. ([John 6:27](http://www.biblegateway.com/passage/index.php?search=John+6%3A27;&version=50;&interface=print "Read John 6:27"); [Matthew 6:24](http://www.biblegateway.com/passage/index.php?search=Matthew+6%3A24;&version=50;&interface=print "Read Matthew 6:24"), [Matthew 6:31-33](http://www.biblegateway.com/passage/index.php?search=Matthew+6%3A31-33;&version=50;&interface=print "Read Matthew 6:31-33")) Kung titigil tayo sa pagtatrabaho para sa pera, maaari tayong magtrabaho para sa Diyos. Kapag nagtatrabaho tayo para sa Diyos, hindi natin kailangan ng isang espesyal na araw ng pahinga, sapagkat ang ating buong buhay ay mapupuno ng “pahinga” na ibinibigay ng Diyos. ([Matthew 11:28-30](http://www.biblegateway.com/passage/index.php?search=Matthew+11%3A28-30;&version=50;&interface=print "Read Matthew 11:28-30")) Magiging banal na araw ang bawat araw sa Kaharian ng Langit.  
+This is always the hardest part to get across: The things in this booklet really came from the teachings of Jesus Christ. That's right; we're Christians.  
   
-Ang katuruang ito tungkol sa pagpapakain ng Diyos sa mga taong nagtatrabaho para sa kanya ay isang katuruan na walang ibang pinuno ng relihiyon ang may pananampalatayang magturo sa kanilang mga tagasunod. Ito rin, ay isang mahalagang aral na nagpapaiba mga turo ni Jesus mula sa lahat ng iba pang mga aral sa mundo.  
+Please don't confuse us with all that passes for Christianity today. Jesus said some amazing things, if people would just take him seriously. He called this new economic police the "good news of the kingdom of God."  
   
+It's important to bring God into it for a couple of reasons.  
   
-**E. Mga Namumuno at Grupo**  
+For one thing, if we're not careful, we can end up letting go of money and then fighting over the things it can buy. Just as goods are more important than money, so God is more important than the goods. He's the source of all true wealth.  
   
-Karamihan sa mga relihiyon ay interesado sa kanilang mga pinuno at sa mga patakaran ng kanilang grupo. Ang mga panuntunan ay naghihiwalay sa mga tao sa isang grupo mula sa mga tao sa ibang pang mga grupo. Dahil dito, ang mga tao mula sa iba\`t ibang relihiyon ay nagkikipagtalo, nakikipaglaban, at nagsisimula ng mga giyera laban sa isa’t isa.  
+The obvious argument, "If we don't look after ourselves, who will?" has an answer when you bring God into it. If you're working for love, you're working for God. It becomes his responsibility to look after your material needs. And we've found that he does!  
   
-Sinabi ni Jesus na ang kaharian ng langit ay hindi nakikita. ([Luke 17:20-21](http://www.biblegateway.com/passage/index.php?search=Luke+17%3A20-21;&version=50;&interface=print "Read Luke 17:20-21")) Ang pagiging kasapi o hindi pagiging kasapi sa isang grupo ay hindi nakagagawa ng anumang pagkakaiba sa mga taong nasa Kaharian ng Langit. Sumasali ka sa Kaharian ng Langit sa pamamagitan ng pagkakaroon ng pananampalataya sa Diyos, pagmamahal sa iba, pagnanais na malaman ang katotohanan, at pagiging mapagpakumbaba.  
+![person helping and God approving](https://jesuschristians.com/images/stories/NEP4.png "God wants us to help others")Also, God comes into it when you try to decide the best way to go about loving others. Only he knows the future, and he explains a lot about the overall plan in the Bible.  
   
-Nalaman namin na ang mga relihiyosong tao ay sobrang interesado na malaman ang pangalan ng aming pangkat, ang pangalan ng aming pinuno, at kung paano naiiba ang aming mga panuntunan sa kanilang mga panuntunan. Mayroon silang espesyal na pagkawili sa mga pagkakaiba, sapagkat ang talagang nais nila ay isang dahilan upang masabing mali kami at tama sila.  
+Some good places to start if you want to study the source of our theory and the source of real wealth, are the 6th chapter of Matthew (2nd half mostly) and the 4th and 5th chapters of James (first couple verses of each especially). We have a lot of other study material too if you are interested.  
   
-Halos lahat ng mga relihiyon ay may mga espesyal na titulo para sa kanilang mga pinuno. Ang mga pinuno ay nagiging mapagmataas dahil sa kanilang titulo. Sinabi ni Jesus na hindi tayo dapat gumamit ng mga espesyal na titulo (tulad ng Padre, Mister, o Reverend) para sa ating mga pinuno, sapagkat lahat tayo ay magkakapatid sa pamilya ng Diyos. ([Matthew 23:2-12](http://www.biblegateway.com/passage/index.php?search=Matthew+23%3A2-12;&version=50;&interface=print "Read Matthew 23:2-12"))  
+
+### THE COST
+
   
+It's not realistic to expect that the rest of the world will quickly accept our new economic policy. People have been conditioned against it for too long.  
   
-**F. Mga pag-aaral tungkol sa Diyos**  
+To really change the world, you have to change the hearts of people, and that's a very tall order. But never underestimate the power of one life. People like Gandhi, Socrates, and Jesus Christ have had a mighty influence on history because they believed some things were more important than even life itself.  
   
-Ang mga relihiyon ay maraming masasabi tungkol sa Diyos. Sinabi nila na nauunawaan nila kung ano ang maaari at hindi maaaring gawin ng Diyos. Ngunit sa Kaharian ng Langit, ang pinakamahalagang bagay ay alamin kung ano ang nais ng Diyos na gawin natin, at pagkatapos ay gawin ito. Walang sinuman (maliban kay Hesus) ang nakakaintindi ng lahat tungkol sa Diyos. ([John 1:18](http://www.biblegateway.com/passage/index.php?search=John+1%3A18;&version=50;&interface=print "Read John 1:18")) Ang nais lamang ng Diyos na gawin natin ay makinig, maniwala, at sumunod sa kanyang Anak - si Jesus. ([John 6:29](http://www.biblegateway.com/passage/index.php?search=John+6%3A29;&version=50;&interface=print "Read John 6:29")) Mahilig magtanong sa amin ang mga relihiyosong tao tungkol sa mga bagay na hindi nagpapabago sa ating paraan ng pamumuhay. Nais nilang malaman kung sa palagay namin ay may iisang Diyos o tatlong Diyos, ang pinaniniwalaan namin sa kung anong mangyayari sa atin pagkamatay, kung ano ang paniniwalaan namin tungkol sa mga anghel at demonyo, kung ano ang pinaniniwalaan namin tungkol kay Jesus bilang isang tao at Diyos nang magkasabay, at maraming iba pang mga bagay na hindi gumagawa ng anumang pagkakaiba sa paraan ng pamumuhay natin. Kung “nagkamali” tayo ng sagot sa alinman sa mga katanungang ito, gagamitin nila ito upang sabihin na kami ay masama at sila ay mabuti. Ngunit sinabi ni Jesus na mas interesado siyang maghanap ng mga taong susunod sa kanya. ([Luke 6:46](http://www.biblegateway.com/passage/index.php?search=Luke+6%3A46;&version=50;&interface=print "Read Luke 6:46"))  
+Just one such individual in the world today could make a big difference; and two or three... or even a dozen might be enough to start a spiritual revolution that could change the entire world.  
   
-Sa pagwawakas, may iba pang mga pamamaraan na ang Kaharian ng Langit ay naiiba sa lahat ng mga relihiyon sa mundo, ngunit kung pag-aaralan mo ang anim na pamamaraan na ito, makakatulong ang mga ito na maunawaan mo ang pagkakaiba sa pagitan ng sinasabi ni Jesus at kung ano ang mga sinasabi ng mga pinuno ng relihiyon.
+There have been armies of people who were willing to kill for what they believed in. Why not an army of people who are willing to die for what they believe in?  
+  
+We can give our lives by dying quickly for this new world order, or we can give our lives a day at a time by labouring patiently and faithfully to bring a little light to a dark world.  
+  
+Remember that if you change even one small part of the world, you have still changed the world. Much change is very slow and gradual.  
+  
+We have learned that the message we preach often causes people to act in irrational anger. Sometimes they themselves do not know why they are reacting in the way they are. But if we are sure that our motives have only been to show love, then even a hateful response should be encouraging; it proves that we are getting through.  
+  
+When they have done all they can to stop us, and we still continue to love, they will know then that love is stronger than hate.
+
+
+

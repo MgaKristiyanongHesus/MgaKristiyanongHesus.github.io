@@ -9,24 +9,27 @@ author: ""
 tags: ["Science"]
 draft: false
 ---
+In the book Life After Life, a doctor interviews hundreds of people who were clinically dead and then revived. He notes a number of patterns in their experiences. One of these patterns was a widespread conviction by many of these people as they were dying that what really matters in life is not how much money you earn, but how much you love others and how much you learn.  
+  
+The love part seemed obvious to us; but the learning revelation caught us by surprise.  
+  
+Advances in science have been traditionally regarded with suspicion by the church. If you consider how things like TVs, cars, nuclear energy, and silicon chips have altered human history, the suspicion is understandable. Even medical advances such as tranquillisers, test tube babies, and heart transplants have posed serious ethical dilemmas.  
+  
+So is all learning necessarily good? And if not, how do we decide what to learn and what not to learn?  
+  
+Jesus said, "I am... the Truth." ([John 14:6](http://www.biblegateway.com/passage/index.php?search=John+14%3A6;&version=50;&interface=print "Read John 14:6")) He promised to possess his followers with his "Spirit of Truth" after he ascended into heaven, and he said, "When the Spirit of Truth comes, he will guide you into all truth." ([John 16:13](http://www.biblegateway.com/passage/index.php?search=John+16%3A13;&version=50;&interface=print "Read John 16:13"))  
+  
+On the basis of this, we have concluded that all learning must be good. It seems reasonable to assume that evil only comes from misapplication of truth, or from an unwillingness to learn the whole truth.  
+  
+You cannot tell the "whole truth" without bringing Jesus into it sooner or later. But neither can you tell the whole truth by restricting yourself to theology.  
+  
+True love and true learning must be two sides of the same coin.  
+  
+If learning is not motivated by love, you will invariably mis-learn, limiting yourself to learning only what suits your selfish goals. On the other hand, true love is more than romance and emotionalism. It will seek answers that work... for the good of all.  
+  
+True scientific method is consistent with this understanding of Christianity. It is built on such things as respect for past knowledge, and a willingness to question unproven dogmas in an effort to find the whole truth. There is no room for pride, greed, or fear to hide truth, nor is there room to promote something that is not true.  
+  
+Obviously modern education has fallen far away from these ideals... as has modern religion. But the answer is not to become simpletons... any more than it is to become atheists. True science is the product of true Christianity; and we must seek to rediscover them both.
 
-Sa librong Life After Life, isang doktor ang nag-iinterbyu sa daang-daang mga tao na klinikal na namatay at pagkatapos ay muling nabuhay. Napuna niya ang isang bilang ng mga pattern sa kanilang mga karanasan. Isa sa mga pattern na ito ay ang malawak na paniniwala ng karamihan sa mga taong ito habang sila ay namamatay na ang kung ano talagang mahalaga sa buhay ay hindi sa kung gaano karaming pera ang iyong nakikita, ngunit sa kung gaano mo minamahal ang iba at kung gaano ka natututo.  
-  
-Ang bahaging tungkol sa pagmamahal ay tila na malinaw sa amin; ngunit ang pahayag tungkol sa pagkatuto ang nakakuha sa amin ng sorpresa.  
-  
-Ang mga pag-uunlad sa siyensya ay tradisyunal na itinuturing na may hinala ng simbahan. Kung iyon isinaalang-alang kung paano binago ng mga bagay tulad ng mga TV, mga sasakyan, nuclear energy, at mga silicon chip ang kasaysayan ng tao, makatwiran ang pagkahinahinala. Kahit ang mga pag-unlad sa medikal tulad ng mga tranquillers, test tube babies, at mga heart transplant ang nagbigay-daan sa mga seryosong etikal na dilema.  
-  
-Kaya ang lahat ba na ng pagkatuto ay laging mabuti? At kung hindi, paano natin ba ipasya kung ano ang ipag-aaralan at kung ano ang hindi ipag-aaralan?  
-  
-Sinabi ni Jesus, "Ako... ang Katotohanan." ([John 14:6][28]) Ipinangako niya na haharian sila kasama ng kanyang "Espiritu ng Katotohanan" pagkatapos niyang umakyat sa langit, at sinabi niya, "Kapag ang Espiritu ng Katotohanan ay dumating, siya ang maggagabay sa inyo sa lahat ng katotohanan." ([John 16:13][29])  
-  
-Batay dito, aming iniwakas na lahat ng pagkatuto ay dapat maging mabuti. Ito ay tila na makatuwiran na ipalagay na ang kasamaan ay mapupunta lamang mula sa maling paggamit ng katotohanan, o mula sa isang hindi pagnanais na pag-aralan ang buong katotohanan.  
-  
-Hindi mo masasabi ang "buong katotohanan" nang hindi mo isinasama si Jesus dito sa lalong madaling panahon. Ngunit hindi mo rin masasabi ang buong katotohanan sa pamamagitan ng paghihigpit sa iyong sarili sa teolohiya.  
-Ang tunay na pagmamahal at ang tunay na pagkatuto ay dapat na maging dalawang mukha sa parehong barya.  
-  
-Kung pagkatuto ay hindi nagmula sa pagmamahal, hindi ka matututo, lilimitahan ang iyong sarili sa pagkatuto lamang sa kung ano ang nababagay sa iyong makasariling mga layunin. Gayunman, ang tunay na pag-ibig ay higit sa pag-iibigan at emosyonalismo. Ito ay maghahangad ng mga kasagutan na gumagana... para sa ikabubuti ng lahat.  
-  
-Ang tunay na pamamaraang siyentipiko ay naaayon sa ganitong pag-unawa ng Kristiyanismo. Ito ay nakabatay sa gayong mga bagay tulad sa pagrespeto para sa mga nakaraang kaalaman, at isang pagnanais na usisain ang mga hindi napapatunayan na patakaran sa pagsisikap upang hanapin ang buong katotohanan. Walang puwang para sa kayabangan, kasakiman, o takot na itago ang katotohanan, wala ring puwang upang itaguyod ang isang bagay na hindi totoo.  
-  
-Malinaw na ang modernong edukasyon ay lumayo nang napakalayo mula sa mga ideyal na ito... tulad na nangyari sa modernong relihiyon. Ngunit ang sagot ay hindi sa pagiging mga bobo... anumang higit pa sa pagiging mga ateista. Ang tunay na siyensiya ay isang produkto ng tunay na Kristiyanismo; at ating dapat muling tuklasin ang dalawang ito.  
+
+

@@ -1,29 +1,31 @@
 ---
-title: "As Hard As A Rock"
+title: "Solid As A Rock"
 meta_title: ""
 description: "this is meta description"
 date: 2025-09-29T00:00:00Z
 image: "/images/articles/hesu/Rock.webp"
 categories: ["Jesus and Money"]
 author: ""
-tags: ["Teaching of Jesus", "Money"]
+tags: ["Teachings of Jesus", "Money"]
 draft: false
 ---
+It has not been easy for people to build a case against us and our teachings for one very important reason: We have built our faith on the most solid foundation anyone could ever choose for any religion.  
+  
+Jesus said that anyone who "hears these sayings of mine and obeys them will be like a wise man who builds his house on a rock. When the storms come and beat upon that house, it will not fall." ([Matthew 7:24-25](http://www.biblegateway.com/passage/index.php?search=Matthew+7%3A24-25;&version=50;&interface=print "Read Matthew 7:24-25"))  
+  
+We are fanatically committed to following the teachings of Jesus. No report on us would be complete without mentioning it. Our faith in Jesus opens the door for us to receive God's free gift of salvation. And our faith is made evident by our efforts (imperfect though they may be) to structure all that we do and say on the basis of what he has taught us.  
+  
+It is our faith in Jesus and all that he taught, that has given us a kind of immunity to the attacks of the cult-busters. They will, of course, eventually succeed in destroying us personally and physically; but they will never stop the truth of the Rock on which we stand.  
+  
+Cult-busters display their own hypocrisy when they accuse us of trying to work our way to heaven by obeying Jesus. All they can offer as an alternative is that we should deliberately disobey Jesus to prove our faith in God's grace. How absurd!  
+  
+They can condemn us for being poor, for being zealously evangelistic, for breaking social traditions, for being prepared to lay down our lives in love. But the more they condemn us, the more they condemn themselves.  
+  
+Paradoxically, we are becoming more popular and more hated at the same time. If it were all popularity, we might have cause to worry that we had compromised our faith in order to gain it; and if it were all persecution, we might wonder whether we were just trouble-makers, with nothing positive to offer. But we are getting a fair bit of both reactions to what we say and do.  
+  
+Our hope is that eventually the entire world will hear what we are saying in spite of the cult-busters (in some cases because of them!); and that they will all be given a chance to choose between the lie of perverted grace (i.e. that it is sinful to try to obey Jesus), the lie of false works (i.e. obey the government; obey your parents; obey your pastor; obey your boss; obey anyone, but don't obey Jesus), and childlike faith in, and obedience to, Jesus.  
+  
+We might add that the real error in cults like the Children of God (the one they try hardest to link us with) is the same as that of the born-againers: Both say they are free to break the rules because they are under God's grace, little realising that God's grace is given to those whom he chooses (and he does not choose to give it to those who wilfully reject the teachings and disciplines of his Son).
 
-Hindi madali para sa mga tao na bumuo ng isang kaso laban sa amin at sa aming mga aral dahil sa isang napakahalagang kadahilanan: Itinayo namin ang aming pananampalataya sa pinaka matibay na pundasyon na maaaring piliin ng sinuman para sa anumang relihiyon.  
-   
-Sinabi ni Hesus na “ang sinumang makarinig sa mga salitang ito at sumunod sa mga ito ay magiging tulad ng isang pantas na nagtatayo ng kanyang bahay sa isang malaking bato. Kapag dumating ang mga bagyo at tumama sa bahay na iyon, hindi ito babagsak.” ([Matthew 7:24-25](http://www.biblegateway.com/passage/index.php?search=Matthew+7%3A24-25;&version=50;&interface=print "Read Matthew 7:24-25"))  
-  
-Masigasig kaming nakatuon sa pagsunod sa mga aral ni Hesus. Walang ulat tungkol sa amin ang magiging kumpleto nang hindi binabanggit ito. Ang ating pananalig kay Hesus ay magbubukas ng pintuan upang matanggap natin ang libreng regalo ng kaligtasan ng Diyos. At ang ating pananampalataya ay napapatunayan sa ating mga pagsisikap (maaaring hindi perpekto man) na buuin ang lahat ng ating ginagawa at sinasabi batay sa mga itinuro niya sa amin.  
-  
-Ang aming pananalig kay Hesus at sa lahat ng kanyang itinuro, na nagbigay sa amin ng isang uri ng pagtutol sa mga paglusob ng mga cult-buster. Siyempre, sa kalaunan ay magtatagumpay sila sa pagwawasak sa atin nang personal at pisikal; ngunit hindi nila pipigilan ang katotohanan ng Bato na kinatatayuan natin.  
-  
-Ipinakita ng mga cult-buster ang kanilang sariling pagkukunwari kapag inaakusahan nila kami na nagsisikap kami na magtrabaho patungo sa langit sa pamamagitan ng pagsunod kay Hesus. Ang tanging maalok nila bilang kahalili ay dapat nating sadyang suwayin si Hesus upang mapatunayan ang ating pananampalataya sa biyaya ng Diyos. Iyan ay kasinungalingan!  
-  
-Maaari nilang hatulan kami dahil sa pagiging mahirap, sa pagiging masigasig sa pag e-ebanghelyo, sa paglabag sa mga tradisyon sa lipunan, sa pagiging handa na ibuwis ang aming buhay sa pag-ibig. Ngunit kung gaano nila tayo kinokondena, mas lalo nilang kinokondena ang kanilang sarili.  
-  
-Sa paradoksikal, kami ay nagiging mas tanyag at mas kinasusuklaman nang sabay. Kung lahat ng ito ay katanyagan, maaaring magkaroon kami ng dahilan upang mag-alala na nakompromiso namin ang aming pananampalataya upang makamit ito; at kung lahat ng ito ay pag-uusig, maaari kaming magtaka kung kami ay gumagawa lamang ng gulo, na walang positibong inaalok. Ngunit nakakakuha kami ng kaunting balanse ng parehong mga reaksyon sa kung ano ang sinasabi at ginagawa namin.  
-  
-Ang aming inaasahan ay sa kalaunan maririnig ng buong mundo ang sinasabi namin sa kabila ng mga cult-busters (minsan dahil sa kanila!); at lahat sila ay mabibigyan ng pagkakataong pumili sa pagitan ng kasinungalingan ng huwad na grasya (na makasalanan na subukang sundin si Hesus), ang kasinungalingan ng maling gawain (i.e. pagsunod sa gobyerno; pagsunod sa iyong mga magulang; pagsunod sa iyong pastol; pagsunod sa iyong boss; pagsunod sa sinuman, ngunit huwag sundin si Hesus)  
-  
-Maaari naming idagdag na ang totoong pagkakamali sa mga kulto tulad ng The Children of God (ang pinagsisikapan nilang maiugnay sa amin) ay kapareho ng sa mga taong Born-Again: Pareho nilang sinasabi na malaya silang maglabag sa mga patakaran dahil nasa ilalim sila ng biyaya ng Diyos, hindi gaanong napagtanto na ang biyaya ng Diyos ay ibinibigay sa mga pinipili niya (at hindi niya pinipiling ibigay ito sa mga sadyang tatanggi sa mga aral at disiplina ng kanyang Anak).
+
+
