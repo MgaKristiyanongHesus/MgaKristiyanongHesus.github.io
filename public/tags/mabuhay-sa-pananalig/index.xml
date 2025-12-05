@@ -1,61 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mabuhay Sa Pananalig on Mga Kristiyanong Hesus</title>
-    <link>http://localhost:1313/tags/mabuhay-sa-pananalig/</link>
-    <description>Recent content in Mabuhay Sa Pananalig on Mga Kristiyanong Hesus</description>
-    <generator>Hugo</generator>
-    <language>tl</language>
-    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mabuhay-sa-pananalig/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ang Mito ng Paggawa ng Tolda</title>
-      <link>http://localhost:1313/blog/ang-mito-ng-paggawa-ng-tolda/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-mito-ng-paggawa-ng-tolda/</guid>
-      <description>&lt;p&gt;Ang mga Katoliko, Ebandyeliko, Pentecostal, Anglikano, Saksi ni Jehova, The Children of God, Mormon, - sa katunayan, bawat denominasyon at sekta na alam namin - ay may isang parehong paniniwala: sinusuportahan nilang lahat ang mito ng paggawa ng tolda.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Prinsipyo na Talikuran Lahat</title>
-      <link>http://localhost:1313/blog/ang-prinsipyo-na-talikuran-lahat/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-prinsipyo-na-talikuran-lahat/</guid>
-      <description>&lt;p&gt;Mayroong isang prinsipyo sa mga bagay na espiritwal na natuklasan ng mga tao mula sa maraming pananampalataya. Tinatawag namin itong prinsipyo na &amp;ldquo;talikuran ang lahat&amp;rdquo;. Ngunit maaari itong mailarawan sa maraming paraan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mabuhay sa Pananalig</title>
-      <link>http://localhost:1313/blog/mabuhay-sa-pananalig/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mabuhay-sa-pananalig/</guid>
-      <description>&lt;p&gt;Ito ang pangatlo sa isang serye ng mga artikulo tungkol sa pagkakaiba-iba ng doktrina sa pagitan namin at ng The Family. Ang unang dalawang artikulo ay ang &amp;ldquo;Simpleng Kaligtasan&amp;rdquo; at &amp;ldquo;Walang Hanggang Kaligtasan&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mabuhay sa Pananalig - Paano Ito Gawin</title>
-      <link>http://localhost:1313/blog/mabuhay-sa-pananalig---paano-ito-gawin/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mabuhay-sa-pananalig---paano-ito-gawin/</guid>
-      <description>&lt;p&gt;Tinuruan ni Jesukristo ang mga tao na huwag isipin kung paano pakanin at damitan ang kanilang sarili (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;6%3A25-32;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read Matthew 6:25-32&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Matthew 6:25-32&lt;/a&gt;).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pamumuhay sa Isang Komunidad</title>
-      <link>http://localhost:1313/blog/pamumuhay-sa-isang-komunidad/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pamumuhay-sa-isang-komunidad/</guid>
-      <description>&lt;p&gt;Lagi kong pinaniwalaan na ang pamumuhay sa isang komunidad (tulad ng ginagawa namin, at ng ginawa ng sinaunang mga Kristiyano) ay medyo opsyonal. Hindi ito iniutos (sa napakaraming salita) sa kung ano ang itinuro ni Jesus, kahit malinaw na siya at ang kanyang mga disipulo ay namuhay nang magkasama, lumakbay nang magkasama, at nagkaroon ng isang supot kung saan doon inilagay ang kanilang mga salapi. Matibay kong naramdaman ang tungkol sa mga espirituwal na mga benepisyo ng gayong pamumuhay; ngunit hindi ko lamang naisip na mayroong isang kaso na gawin itong lubusang esensyal.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Talikuran Lahat</title>
-      <link>http://localhost:1313/blog/talikuran-lahat/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/talikuran-lahat/</guid>
-      <description>&lt;p&gt;(Ang artikulong ito ay nagmula sa The Family, bagaman na-edit ito nang bahagya.)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tiyak, Hindi Lahat ng Kasamaan</title>
-      <link>http://localhost:1313/blog/tiyak-hindi-lahat-ng-kasamaan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/tiyak-hindi-lahat-ng-kasamaan/</guid>
-      <description>&lt;p&gt;Sumulat si San Pablo ng isang liham sa isang batang Kristiyano, at sinabi niya na ang ugat ng lahat ng kasamaan ay ang pag-ibig sa pera. (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=1&amp;#43;Timothy&amp;#43;6%3A10;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read 1 Timothy 6:10&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;1 Timothy 6:10&lt;/a&gt;) Ito ay isang kamangha-manghang pahayag.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mabuhay Sa Pananalig on Mga Kristiyanong Hesus</title><link>https://MgaKristiyanongHesus.github.io/tags/mabuhay-sa-pananalig/</link><description>Recent content in Mabuhay Sa Pananalig on Mga Kristiyanong Hesus</description><generator>Hugo</generator><language>tl</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://MgaKristiyanongHesus.github.io/tags/mabuhay-sa-pananalig/index.xml" rel="self" type="application/rss+xml"/><item><title>Ang Mito ng Paggawa ng Tolda</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-mito-ng-paggawa-ng-tolda/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-mito-ng-paggawa-ng-tolda/</guid><description>&lt;p&gt;Ang mga Katoliko, Ebandyeliko, Pentecostal, Anglikano, Saksi ni Jehova, The Children of God, Mormon, - sa katunayan, bawat denominasyon at sekta na alam namin - ay may isang parehong paniniwala: sinusuportahan nilang lahat ang mito ng paggawa ng tolda.&lt;/p&gt;</description></item><item><title>Ang Prinsipyo na Talikuran Lahat</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-prinsipyo-na-talikuran-lahat/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-prinsipyo-na-talikuran-lahat/</guid><description>&lt;p&gt;Mayroong isang prinsipyo sa mga bagay na espiritwal na natuklasan ng mga tao mula sa maraming pananampalataya. Tinatawag namin itong prinsipyo na &amp;ldquo;talikuran ang lahat&amp;rdquo;. Ngunit maaari itong mailarawan sa maraming paraan.&lt;/p&gt;</description></item><item><title>Mabuhay sa Pananalig</title><link>https://MgaKristiyanongHesus.github.io/blog/mabuhay-sa-pananalig/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mabuhay-sa-pananalig/</guid><description>&lt;p&gt;Ito ang pangatlo sa isang serye ng mga artikulo tungkol sa pagkakaiba-iba ng doktrina sa pagitan namin at ng The Family. Ang unang dalawang artikulo ay ang &amp;ldquo;Simpleng Kaligtasan&amp;rdquo; at &amp;ldquo;Walang Hanggang Kaligtasan&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Mabuhay sa Pananalig - Paano Ito Gawin</title><link>https://MgaKristiyanongHesus.github.io/blog/mabuhay-sa-pananalig---paano-ito-gawin/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mabuhay-sa-pananalig---paano-ito-gawin/</guid><description>&lt;p&gt;Tinuruan ni Jesukristo ang mga tao na huwag isipin kung paano pakanin at damitan ang kanilang sarili (&lt;a href="http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;6%3A25-32;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read Matthew 6:25-32"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Matthew 6:25-32&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Pamumuhay sa Isang Komunidad</title><link>https://MgaKristiyanongHesus.github.io/blog/pamumuhay-sa-isang-komunidad/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pamumuhay-sa-isang-komunidad/</guid><description>&lt;p&gt;Lagi kong pinaniwalaan na ang pamumuhay sa isang komunidad (tulad ng ginagawa namin, at ng ginawa ng sinaunang mga Kristiyano) ay medyo opsyonal. Hindi ito iniutos (sa napakaraming salita) sa kung ano ang itinuro ni Jesus, kahit malinaw na siya at ang kanyang mga disipulo ay namuhay nang magkasama, lumakbay nang magkasama, at nagkaroon ng isang supot kung saan doon inilagay ang kanilang mga salapi. Matibay kong naramdaman ang tungkol sa mga espirituwal na mga benepisyo ng gayong pamumuhay; ngunit hindi ko lamang naisip na mayroong isang kaso na gawin itong lubusang esensyal.&lt;/p&gt;</description></item><item><title>Talikuran Lahat</title><link>https://MgaKristiyanongHesus.github.io/blog/talikuran-lahat/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/talikuran-lahat/</guid><description>&lt;p&gt;(Ang artikulong ito ay nagmula sa The Family, bagaman na-edit ito nang bahagya.)&lt;/p&gt;</description></item><item><title>Tiyak, Hindi Lahat ng Kasamaan</title><link>https://MgaKristiyanongHesus.github.io/blog/tiyak-hindi-lahat-ng-kasamaan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/tiyak-hindi-lahat-ng-kasamaan/</guid><description>&lt;p&gt;Sumulat si San Pablo ng isang liham sa isang batang Kristiyano, at sinabi niya na ang ugat ng lahat ng kasamaan ay ang pag-ibig sa pera. (&lt;a href="http://www.biblegateway.com/passage/index.php?search=1&amp;#43;Timothy&amp;#43;6%3A10;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read 1 Timothy 6:10"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;1 Timothy 6:10&lt;/a&gt;) Ito ay isang kamangha-manghang pahayag.&lt;/p&gt;</description></item></channel></rss>
