@@ -59,7 +59,8 @@ target = 'assets/notwatching/hugo_stats.json'
 
 ############################# Outputs ############################
 [outputs]
-home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
+home = ["HTML", "RSS", "Sitemap", "WebAppManifest", "SearchIndex"]
+
 
 ############################# Imaging ############################
 [imaging]
