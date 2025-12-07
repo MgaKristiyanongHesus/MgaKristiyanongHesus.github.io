@@ -1,1 +1,56 @@
-{"name":"Mga Kristiyanong Hesus","short_name":"Mga Kristiyanong Hesus","lang":"en-us","display":"fullscreen","orientation":"portrait","start_url":"https://mgakristiyanonghesus.github.io/?utm_source=web_app_manifest","background_color":"#fff","theme_color":"#000","icons":[{"src":"/images/favicon_hu_d136e2a136134e43.png","sizes":"48x48","type":"image/png"},{"src":"/images/favicon_hu_8315d50aef72c180.png","sizes":"72x72","type":"image/png"},{"src":"/images/favicon_hu_a47c6224ab77d6e3.png","sizes":"96x96","type":"image/png"},{"src":"/images/favicon_hu_364fa864d6b0a693.png","sizes":"144x144","type":"image/png"},{"src":"/images/favicon_hu_77a38aec36c88002.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"/images/favicon_hu_caa2ed2c29eea545.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Mga Kristiyanong Hesus",
+  "short_name": "Mga Kristiyanong Hesus",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "https://mgakristiyanonghesus.github.io/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#000",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu_d136e2a136134e43.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_8315d50aef72c180.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_a47c6224ab77d6e3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_364fa864d6b0a693.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_77a38aec36c88002.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon_hu_caa2ed2c29eea545.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
