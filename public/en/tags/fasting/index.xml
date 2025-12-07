@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fasting on Mga Kristiyanong Hesus</title><link>https://MgaKristiyanongHesus.github.io/en/tags/fasting/</link><description>Recent content in Fasting on Mga Kristiyanong Hesus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://MgaKristiyanongHesus.github.io/en/tags/fasting/index.xml" rel="self" type="application/rss+xml"/><item><title>Fasting Without Ceasing</title><link>https://MgaKristiyanongHesus.github.io/en/blog/fasting-without-ceasing/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/en/blog/fasting-without-ceasing/</guid><description>&lt;p&gt;This kind goeth not out, except through prayer and fasting. (&lt;a href="http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;17%3A14-21;&amp;amp;version=50;&amp;amp;interface=print"
-
-
- title="Read Matthew 17:14-21"
-
-
-
- target="_blank"
- 
-
-
-&gt;Matthew 17:14-21&lt;/a&gt;)&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fasting on Mga Kristiyanong Hesus</title>
+    <link>http://localhost:1313/en/tags/fasting/</link>
+    <description>Recent content in Fasting on Mga Kristiyanong Hesus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/fasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fasting Without Ceasing</title>
+      <link>http://localhost:1313/en/blog/fasting-without-ceasing/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/fasting-without-ceasing/</guid>
+      <description>&lt;p&gt;This kind goeth not out, except through prayer and fasting. (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;17%3A14-21;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read Matthew 17:14-21&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Matthew 17:14-21&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

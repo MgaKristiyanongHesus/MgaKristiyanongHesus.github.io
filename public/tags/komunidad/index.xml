@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Komunidad on Mga Kristiyanong Hesus</title><link>https://MgaKristiyanongHesus.github.io/tags/komunidad/</link><description>Recent content in Komunidad on Mga Kristiyanong Hesus</description><generator>Hugo</generator><language>tl</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://MgaKristiyanongHesus.github.io/tags/komunidad/index.xml" rel="self" type="application/rss+xml"/><item><title>Pamumuhay sa Isang Komunidad</title><link>https://MgaKristiyanongHesus.github.io/blog/pamumuhay-sa-isang-komunidad/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pamumuhay-sa-isang-komunidad/</guid><description>&lt;p&gt;Lagi kong pinaniwalaan na ang pamumuhay sa isang komunidad (tulad ng ginagawa namin, at ng ginawa ng sinaunang mga Kristiyano) ay medyo opsyonal. Hindi ito iniutos (sa napakaraming salita) sa kung ano ang itinuro ni Jesus, kahit malinaw na siya at ang kanyang mga disipulo ay namuhay nang magkasama, lumakbay nang magkasama, at nagkaroon ng isang supot kung saan doon inilagay ang kanilang mga salapi. Matibay kong naramdaman ang tungkol sa mga espirituwal na mga benepisyo ng gayong pamumuhay; ngunit hindi ko lamang naisip na mayroong isang kaso na gawin itong lubusang esensyal.&lt;/p&gt;</description></item><item><title>Reality sa Utopia</title><link>https://MgaKristiyanongHesus.github.io/blog/reality-sa-utopia/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/reality-sa-utopia/</guid><description>&lt;p&gt;Ang Utopia ay isang perpektong mundo na hindi umiiral. Madalas iniiwan ng mga taong naghahanap ng ganoong lugar ang mga ideyal nang mabigo nilang hanapin ito.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Komunidad on Mga Kristiyanong Hesus</title>
+    <link>http://localhost:1313/tags/komunidad/</link>
+    <description>Recent content in Komunidad on Mga Kristiyanong Hesus</description>
+    <generator>Hugo</generator>
+    <language>tl</language>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/komunidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pamumuhay sa Isang Komunidad</title>
+      <link>http://localhost:1313/blog/pamumuhay-sa-isang-komunidad/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/pamumuhay-sa-isang-komunidad/</guid>
+      <description>&lt;p&gt;Lagi kong pinaniwalaan na ang pamumuhay sa isang komunidad (tulad ng ginagawa namin, at ng ginawa ng sinaunang mga Kristiyano) ay medyo opsyonal. Hindi ito iniutos (sa napakaraming salita) sa kung ano ang itinuro ni Jesus, kahit malinaw na siya at ang kanyang mga disipulo ay namuhay nang magkasama, lumakbay nang magkasama, at nagkaroon ng isang supot kung saan doon inilagay ang kanilang mga salapi. Matibay kong naramdaman ang tungkol sa mga espirituwal na mga benepisyo ng gayong pamumuhay; ngunit hindi ko lamang naisip na mayroong isang kaso na gawin itong lubusang esensyal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reality sa Utopia</title>
+      <link>http://localhost:1313/blog/reality-sa-utopia/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/reality-sa-utopia/</guid>
+      <description>&lt;p&gt;Ang Utopia ay isang perpektong mundo na hindi umiiral. Madalas iniiwan ng mga taong naghahanap ng ganoong lugar ang mga ideyal nang mabigo nilang hanapin ito.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

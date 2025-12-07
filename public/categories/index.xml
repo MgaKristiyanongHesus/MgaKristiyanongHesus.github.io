@@ -1,1 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Mga Kristiyanong Hesus</title><link>https://MgaKristiyanongHesus.github.io/categories/</link><description>Recent content in Categories on Mga Kristiyanong Hesus</description><generator>Hugo</generator><language>tl</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://MgaKristiyanongHesus.github.io/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Malakas Na Karne</title><link>https://MgaKristiyanongHesus.github.io/categories/malakas-na-karne/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/malakas-na-karne/</guid><description/></item><item><title>Mga Inspirasyonal</title><link>https://MgaKristiyanongHesus.github.io/categories/mga-inspirasyonal/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/mga-inspirasyonal/</guid><description/></item><item><title>Mga Malalalim Na Kaisipan</title><link>https://MgaKristiyanongHesus.github.io/categories/mga-malalalim-na-kaisipan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/mga-malalalim-na-kaisipan/</guid><description/></item><item><title>Mga Natira</title><link>https://MgaKristiyanongHesus.github.io/categories/mga-natira/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/mga-natira/</guid><description/></item><item><title>Mga Oras Ng Pagtatapos at Seks</title><link>https://MgaKristiyanongHesus.github.io/categories/mga-oras-ng-pagtatapos-at-seks/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/mga-oras-ng-pagtatapos-at-seks/</guid><description/></item><item><title>Mga Pagkakatulad Sa Mga Quaker</title><link>https://MgaKristiyanongHesus.github.io/categories/mga-pagkakatulad-sa-mga-quaker/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/mga-pagkakatulad-sa-mga-quaker/</guid><description/></item><item><title>Mga Simbahan at Teolohiya</title><link>https://MgaKristiyanongHesus.github.io/categories/mga-simbahan-at-teolohiya/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/mga-simbahan-at-teolohiya/</guid><description/></item><item><title>Pamumuno</title><link>https://MgaKristiyanongHesus.github.io/categories/pamumuno/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/pamumuno/</guid><description/></item><item><title>Si Hesus at Pera</title><link>https://MgaKristiyanongHesus.github.io/categories/si-hesus-at-pera/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/si-hesus-at-pera/</guid><description/></item><item><title>Top Forty</title><link>https://MgaKristiyanongHesus.github.io/categories/top-forty/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/categories/top-forty/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mga Kristiyanong Hesus</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Mga Kristiyanong Hesus</description>
+    <generator>Hugo</generator>
+    <language>tl</language>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malakas Na Karne</title>
+      <link>http://localhost:1313/categories/malakas-na-karne/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/malakas-na-karne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mga Inspirasyonal</title>
+      <link>http://localhost:1313/categories/mga-inspirasyonal/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mga-inspirasyonal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mga Malalalim Na Kaisipan</title>
+      <link>http://localhost:1313/categories/mga-malalalim-na-kaisipan/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mga-malalalim-na-kaisipan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mga Natira</title>
+      <link>http://localhost:1313/categories/mga-natira/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mga-natira/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mga Oras Ng Pagtatapos at Seks</title>
+      <link>http://localhost:1313/categories/mga-oras-ng-pagtatapos-at-seks/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mga-oras-ng-pagtatapos-at-seks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mga Pagkakatulad Sa Mga Quaker</title>
+      <link>http://localhost:1313/categories/mga-pagkakatulad-sa-mga-quaker/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mga-pagkakatulad-sa-mga-quaker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mga Simbahan at Teolohiya</title>
+      <link>http://localhost:1313/categories/mga-simbahan-at-teolohiya/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mga-simbahan-at-teolohiya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pamumuno</title>
+      <link>http://localhost:1313/categories/pamumuno/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/pamumuno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Si Hesus at Pera</title>
+      <link>http://localhost:1313/categories/si-hesus-at-pera/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/si-hesus-at-pera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Top Forty</title>
+      <link>http://localhost:1313/categories/top-forty/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/top-forty/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

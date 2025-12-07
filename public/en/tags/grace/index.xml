@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Grace on Mga Kristiyanong Hesus</title><link>https://MgaKristiyanongHesus.github.io/en/tags/grace/</link><description>Recent content in Grace on Mga Kristiyanong Hesus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://MgaKristiyanongHesus.github.io/en/tags/grace/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazing Grace</title><link>https://MgaKristiyanongHesus.github.io/en/blog/amazing-grace/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/en/blog/amazing-grace/</guid><description>&lt;p&gt;It is easy to assume that people have already heard about God&amp;rsquo;s grace through the churches. But on closer inspection, it appears that the churches themselves do not believe the gospel they preach.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grace on Mga Kristiyanong Hesus</title>
+    <link>http://localhost:1313/en/tags/grace/</link>
+    <description>Recent content in Grace on Mga Kristiyanong Hesus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/grace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazing Grace</title>
+      <link>http://localhost:1313/en/blog/amazing-grace/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/amazing-grace/</guid>
+      <description>&lt;p&gt;It is easy to assume that people have already heard about God&amp;rsquo;s grace through the churches. But on closer inspection, it appears that the churches themselves do not believe the gospel they preach.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

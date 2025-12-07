@@ -8,6 +8,7 @@ categories: ["Inspirational"]
 author: ""
 tags: ["Letter"]
 draft: false
+type: "post"
 ---
 
 _"Study to show yourself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth."_ ([2 Timothy 2:15](http://www.biblegateway.com/passage/index.php?search=2+Timothy+2%3A15;&version=50;&interface=print "Read 2 Timothy 2:15"))  

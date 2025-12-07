@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Mark of the Beast on Mga Kristiyanong Hesus</title><link>https://MgaKristiyanongHesus.github.io/en/tags/the-mark-of-the-beast/</link><description>Recent content in The Mark of the Beast on Mga Kristiyanong Hesus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://MgaKristiyanongHesus.github.io/en/tags/the-mark-of-the-beast/index.xml" rel="self" type="application/rss+xml"/><item><title>The Mark of the Beast</title><link>https://MgaKristiyanongHesus.github.io/en/blog/the-mark-of-the-beast/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/en/blog/the-mark-of-the-beast/</guid><description>&lt;p&gt;The last book of the Bible is called The Revelation by Protestants and The Apocalypse by Catholics. It is a poetic description of the battle between good and evil, using numerous symbols and creatures to illustrate its message.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Mark of the Beast on Mga Kristiyanong Hesus</title>
+    <link>http://localhost:1313/en/tags/the-mark-of-the-beast/</link>
+    <description>Recent content in The Mark of the Beast on Mga Kristiyanong Hesus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/the-mark-of-the-beast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Mark of the Beast</title>
+      <link>http://localhost:1313/en/blog/the-mark-of-the-beast/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/the-mark-of-the-beast/</guid>
+      <description>&lt;p&gt;The last book of the Bible is called The Revelation by Protestants and The Apocalypse by Catholics. It is a poetic description of the battle between good and evil, using numerous symbols and creatures to illustrate its message.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
