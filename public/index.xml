@@ -1,565 +1,236 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mga Kristiyanong Hesus</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Mga Kristiyanong Hesus</description>
-    <generator>Hugo</generator>
-    <language>tl</language>
-    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Anarkiya at Pasipismo</title>
-      <link>http://localhost:1313/blog/anarkiya-at-pasipismo/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/anarkiya-at-pasipismo/</guid>
-      <description>&lt;p&gt;Bagama’t palaging matibay na mga pasipista ang mga Hesukristiyano, at bagama’t sila ay mapanuri sa mga herarkia ng relihiyon, sa artikulo sa ibaba, sinusuri nila ang mga kahinaan sa kanilang sariling posisyon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anong Gagawin ng Isang Huwad na Hesus?</title>
-      <link>http://localhost:1313/blog/anong-gagawin-ng-isang-huwad-na-hesus/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/anong-gagawin-ng-isang-huwad-na-hesus/</guid>
-      <description>&lt;p&gt;Mayroong isang slogan na sumisikat sa mga simbahan (lalo na sa U.S.) na nagtatanong &amp;ldquo;What Would Jesus Do?&amp;rdquo; (“Ano ang Gagawin ni Hesus”) Ito ay pinaikling WWJD? nagtatampok ang mga letrang ito sa lahat ng bagay mula sa mga T-shirt hanggang sa mga alahas. Pareho sila’y gumaganap bilang paalala para sa nagsusuot na isipin kung ano ang gagawin ni Hesus sa anumang sitwasyon, at bilang patotoong Kristiyano kapag tinanong ng isang hindi nakakaalam kung ano ang kanilang kinakatawan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Aking Pag-hilig sa Tira-tira</title>
-      <link>http://localhost:1313/blog/ang-aking-pag-hilig-sa-tira-tira/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-aking-pag-hilig-sa-tira-tira/</guid>
-      <description>&lt;p&gt;Madalas kong narinig ang mga tao na nagrereklamo tungkol sa pagkain ng tira-tira. Ito ang nagpapaggulo sa akin, sapagkat sinasabi na parang may isang bagay na masama tungkol sa tira-tira. Ang pagkain na talagang masarap kagabi ay biglang nakakuha ng napakasamang reputasyon sa kinabukasan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Dahilan</title>
-      <link>http://localhost:1313/blog/ang-dahilan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-dahilan/</guid>
-      <description>&lt;p&gt;Sapat para sa alagad na maging tulad ng kanyang guro, gaya rin ng isang alipin sa kanyang amo. Kung tatawaging Beelzebub ang may-ari ng isang bahay, ano kaya ang tatawagin sa mga naninirahan sa loob nito? &lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;10%3A25;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read Matthew 10:25&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Matthew 10:25&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Espiritu ni Kristo</title>
-      <link>http://localhost:1313/blog/ang-espiritu-ni-kristo/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-espiritu-ni-kristo/</guid>
-      <description>&lt;p&gt;Ang tradisyong Kristiyano ay kadalasang nagpapalaki ng mga pagkakaiba sa pagitan ng Anak ng Diyos at ng Banal na Espiritu ng Diyos.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Gintong Sinulid</title>
-      <link>http://localhost:1313/blog/ang-gintong-sinulid/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-gintong-sinulid/</guid>
-      <description>&lt;p&gt;Nagkaroon ako ng isang pangitain na napakalakas at mukhang mahalaga.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Hukbo na Birhen</title>
-      <link>http://localhost:1313/blog/ang-hukbo-na-birhen-/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-hukbo-na-birhen-/</guid>
-      <description>&lt;p&gt;Ang ikapitong kabanata ng Apocalipsis (tungkol sa hukbo na 144,000 katao), tulad ng karamihan sa Apocalipsis, ay hindi pinapansin ng karamihan ng mga Kristiyano sa batayan na maaaring bigyan ng maling kahulugan ng mga panatiko upang isipin na sila’y bahagi ng hukbo at ang iba ay hindi. Isang kalokohan!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Kaharian ng Diyos</title>
-      <link>http://localhost:1313/blog/ang-kaharian-ng-diyos/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-kaharian-ng-diyos/</guid>
-      <description>&lt;p&gt;Mayroon isang parirala na tila binubuod ang pinaka diwa ng ugnayan sa pagitan ng mga Ebanghelyo at ng Ang Pahayag, at iyon ay ang parirala na aking ginamit bilang pamagat sa artikulong ito.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Kaharian ng Langit o Relihiyon?</title>
-      <link>http://localhost:1313/blog/ang-kaharian-ng-langit-o-relihiyon/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-kaharian-ng-langit-o-relihiyon/</guid>
-      <description>&lt;p&gt;Gusto naming malaman ang mahahalagang pagkakaiba sa pagitan ng relihiyon ng Kristiyano at sa lahat ng iba pang mga relihiyon; sa pagitan ng bahagi ng Bibliya bago pa ipinanganak si Jesus, at ang bahagi pagkatapos siya ipinanganak, sa pagitan ng mga turo ni Jesus at ng mga turo ng lahat ng ibang pinuno ng relihiyon. Hindi kami interesado sa mga maliliit na pagkakaiba na pinagtatalunan ng karamihan. Hiniling namin sa Diyos na ipakita sa amin ang mahahalagang pagkakaiba, at ipinakita niya.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Mabuting Hindu</title>
-      <link>http://localhost:1313/blog/ang-mabuting-hindu/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-mabuting-hindu/</guid>
-      <description>&lt;p&gt;Tinanong ng isang relihiyosong tao si Jesus, &amp;ldquo;Ano ang gagawin ko upang magkaroon ng buhay na walang hanggan?&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Madulas na Dalisdis</title>
-      <link>http://localhost:1313/blog/ang-madulas-na-dalisdis/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-madulas-na-dalisdis/</guid>
-      <description>&lt;p&gt;Nagkaroon kami ng diskusyon kagabi at sinabi kaagad ni Jeremy, “Ako’y nakakakita ng isang artikulo mula rito.” Pinag-usapan namin ang konsepto ng isang “madulas na dalisdis” sa aming Kristiyanong paglalakbay, at nakaisip kami ng isang bilang ng mga nakawiwiling obserbasyon. Ang argumento na aking tinutukoy ay ang isang nagsasabi na ang isang tiyak na gawa o pagtuturo ay maaaring magdulot ng maraming masahol na mga gawa.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Mandarayang Hollywood</title>
-      <link>http://localhost:1313/blog/ang-mandarayang-hollywood/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-mandarayang-hollywood/</guid>
-      <description>&lt;p&gt;Apatnapung taon na simula nung unang kinuha ng Hollywood ang pagkakataon upang maglangkap ng mga eksenang pagtatalik sa mga pelikula, at maaari na ito maging ang oras upang balikan kung paano naimpluwensiyahan nito ang ating pag-iisip tungkol sa mga gayong bagay. Sa artikulong ito ipagtatalunan ko na marami sa atin ang nalinlang sa paniniwala na mayroong isang bagay na tama at mabuti tungkol sa desisyon na ingkorperahin ang hubad na mga eksenang pagtatalik sa mass entertainment, kung saan, sa katotohanan, ay talagang inihantad nito (at patuloy na inihahantad) tayo bilang mga hangal na lagi nalilinlang.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Matinding Pagtakas</title>
-      <link>http://localhost:1313/blog/ang-matinding-pagtakas/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-matinding-pagtakas/</guid>
-      <description>&lt;p&gt;Ito’y isang kwento na mahirap isalaysay, at ito’y marahil ang dahilan kung bakit tumagal ng mga labinlimang taon bago namin ito maisalaysay. Ang bahagi na mahirap ay ang hindi paglalahad ng kwento, ngunit ang bahagi na mahirap ay ang katotohanan na palagi naming iniiwasan na mamigay ng mga testimonya tungkol sa mga himala, dahil sa sinasabi ng Bibliya tungkol sa masasamang taong nagnanais ng mga himala at hindi nakokontento lang sa hindi gaanong senseysonal na katotohanan. Alam din namin na ito ay maaari maging medyo nakakapanghina ng loob na makarinig ng mga mahimalang salaysay ng iba pang mga Kristiyano kapag ang ating sariling buhay ay tila hindi kapanapanabik kung ihahambing. Dapat naming simulan sa pagsasabi na ang kwentong ito’y marahil isa sa  tatlong nangungunang kwento ng paglalaan ng Diyos sa loob ng 35 taon ng Kristiyanong paglilingkod. (Baka sa isang araw, maikukwento namin ang iba pang dalawa!)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Mito ng Intuwisyon</title>
-      <link>http://localhost:1313/blog/ang-mito-ng-intuwisyon/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-mito-ng-intuwisyon/</guid>
-      <description>&lt;p&gt;Mayroon isang termino na maraming taon ko na narinig at medyo ipinalagay ko lang na mayroon akong isang bagay na nakukulangan nung narinig ko ito. Ang salita ay intuwisyon. Hindi ko alam kung paano ito ginamit noon, ngunit alam ko na kadalasan ko naririnig ito ginamit kapag inihahambing ang mga kalalakihan at mga kababaihan. Ang mga kababaihan ay napagsabihan na mayroon silang kakayahan sa intuwisyon, o na intuwitibo silang mag-isip, habang ang mga kalalakihan naman ay iba ang kanilang paraan ng pag-iisip, halimbawa nang rasyonal. Maliban kung mayroon akong nakukulangan ng isang bagay, tila na lagi ito nagpapahiwatig ng dalawang bagay, kung saan nais kong mahamon sa artikulong ito: (1) na ang intuwisyon ay isang uri ng kakayahan; at (2) na ang mga kababaihan ay mayroon isang uri ng isang espesyal na pag-aangkin sa kakayahang ito.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Mito ng Paggawa ng Tolda</title>
-      <link>http://localhost:1313/blog/ang-mito-ng-paggawa-ng-tolda/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-mito-ng-paggawa-ng-tolda/</guid>
-      <description>&lt;p&gt;Ang mga Katoliko, Ebandyeliko, Pentecostal, Anglikano, Saksi ni Jehova, The Children of God, Mormon, - sa katunayan, bawat denominasyon at sekta na alam namin - ay may isang parehong paniniwala: sinusuportahan nilang lahat ang mito ng paggawa ng tolda.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Nangungunang Apatnapu Mga Utos ni Jesus</title>
-      <link>http://localhost:1313/blog/ang-nangungunang-apatnapu-mga-utos-ni-jesus/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-nangungunang-apatnapu-mga-utos-ni-jesus/</guid>
-      <description>&lt;p&gt;1. Sundin ang aking mga utos - &lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=John&amp;#43;14%3A15;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read John 14:15&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;John 14:15&lt;/a&gt;, &lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=John&amp;#43;14%3A21;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read John 14:21&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;John 14:21&lt;/a&gt;, &lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=John&amp;#43;14%3A23;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read John 14:23&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;John 14:23&lt;/a&gt;; &lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=2&amp;#43;John&amp;#43;6;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read 2 John 6&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;2 John 6&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Pag-ibig sa Selfie</title>
-      <link>http://localhost:1313/blog/ang-pag-ibig-sa-selfie/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-pag-ibig-sa-selfie/</guid>
-      <description>&lt;p&gt;Ang mga iba’t ibang sipi sa Bibliya ay naglalarawan ng mga espisipikong pangyayari na ang mga tao ay tinuruan na abangan para sa pagpapahiwatig na papalapit na tayo sa pagbabalik ni Kristo. Kabilang sa mga ito ang mga natural na sakuna at mga mahahalagang pagbabago sa politika at ekonomiya ng mundo, ngunit kinakabilang ng mga ito rin ang isang hanay ng mga mas banayad na phenomena, tulad ng nailarawan sa talata mula sa liham ni Pablo para kay Timoteo sa itaas.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Pag-Iwas sa Katotohanan</title>
-      <link>http://localhost:1313/blog/ang-pag-iwas-sa-katotohanan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-pag-iwas-sa-katotohanan/</guid>
-      <description>&lt;p&gt;Ang pag-iwas sa katotohanan ay nangyayari kapag ang isang tao ay sadyang gumagamit ng malabong wika o wika na sadyang nagtatago ng katotohanan. Napakaraming nangyayari sa mundo ngayon at napakadalas din ng nangyayari sa ating komunidad.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Pagkatakot sa Diyablo</title>
-      <link>http://localhost:1313/blog/ang-pagkatakot-sa-diyablo/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-pagkatakot-sa-diyablo/</guid>
-      <description>&lt;p&gt;Karamihan sa mga relihiyon ay nagtataguyod ng pagkatakot sa diyablo. Ngunit ang kinakatakutan mo ay ang iyong sinasamba. Kung natatakot ka sa diyablo, kailangan lang niyang sabihin, &amp;ldquo;X ay masama!&amp;rdquo; at tatakbo ka mula sa X. Malinaw na, sisiguraduhin niya na kung ano ang iyong tinatakasan ay eksakto na kailangan mong harapin.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Prinsipyo na Talikuran Lahat</title>
-      <link>http://localhost:1313/blog/ang-prinsipyo-na-talikuran-lahat/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-prinsipyo-na-talikuran-lahat/</guid>
-      <description>&lt;p&gt;Mayroong isang prinsipyo sa mga bagay na espiritwal na natuklasan ng mga tao mula sa maraming pananampalataya. Tinatawag namin itong prinsipyo na &amp;ldquo;talikuran ang lahat&amp;rdquo;. Ngunit maaari itong mailarawan sa maraming paraan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Rebolusyon</title>
-      <link>http://localhost:1313/blog/ang-rebolusyon/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-rebolusyon/</guid>
-      <description>&lt;p&gt;Ito ay isang pag-aaral sa Bibliya. Mangyaring tingnan ang mga talata.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Regalo ng Propesiya</title>
-      <link>http://localhost:1313/blog/ang-regalo-ng-propesiya/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-regalo-ng-propesiya/</guid>
-      <description>&lt;p&gt;Ang ilang pagkabahala ay mas nauunawaan, at mas tapat, kaysa sa iba.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Tatak ng Halimaw</title>
-      <link>http://localhost:1313/blog/ang-tatak-ng-halimaw/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-tatak-ng-halimaw/</guid>
-      <description>&lt;p&gt;Ang huling libro ng Bibliya ay pinangalangang Ang Pahayag ng mga protestante at Ang Apocalipsis ng mga Katoliko. Ito ay isang patulang paglalarawan sa labanan sa pagitan ng mabuti at ng masama, gumagamit ng napakaraming mga simbolo at nilalang upang ilarawan ang mensaheng ito.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ang Tunay Na Konsensya</title>
-      <link>http://localhost:1313/blog/ang-tunay-na-konsensya/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ang-tunay-na-konsensya/</guid>
-      <description>&lt;p&gt;Agad kong napagtanto na dapat ako&amp;rsquo;y nabigo saanman sa aking mga pagtatangka na turuan ang mga tao na kilalanin at sundin kung ano ang tinatawag natin ang ating konsensya.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Badyet, Iskedyul at Listahan ng Mga Gawain</title>
-      <link>http://localhost:1313/blog/badyet-iskedyul-at-listahan-ng-mga-gawain/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/badyet-iskedyul-at-listahan-ng-mga-gawain/</guid>
-      <description>&lt;p&gt;Ang isa sa mga pinakamahusay na imbensyon sa kasaysayan ay ito na marahil ang pang-araw-araw na iskedyul. Ang mga relo (lalo na ang ang mga murang relo) ay dapat ang kasunod na pinakamahusay na imbensyon. Ginawa nilang posible para sa karamihan na maisaayos ang kanilang mga iskedyul, upang sila’y makarating sa isang lugar sa tamang oras.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bakit May Labis na Pag-uusig?</title>
-      <link>http://localhost:1313/blog/bakit-may-labis-na-pag-uusig/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/bakit-may-labis-na-pag-uusig/</guid>
-      <description>&lt;p&gt;Sinipi ng sumusunod na artikulo si William Penn, isang sinaunang Quaker, alang-alang sa pag-uusig. Ang mga kasalukuyang Quaker ay lubos na iginagalang sa buong mundo; ngunit may panahon na sila, tulad ng mga Hesukristiyano, ay labis na pinag-usig dahil sa kanilang pananampalataya.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Balikan ang Oras</title>
-      <link>http://localhost:1313/blog/balikan-ang-oras/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/balikan-ang-oras/</guid>
-      <description>&lt;p&gt;Ang ating oras ay ang ating buhay. Kapag binigay mo ang iyong oras sa isang tao o bagay, ibinibigay mo ang iyong buhay. Kapag nagsasayang ka ng oras, sinisira mo ang iyong buhay. Kapag ginamit mo nang maayos ang oras, ginagamit mo nang maayos ang iyong buhay.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dumating Nawa ang Iyong Kaharian</title>
-      <link>http://localhost:1313/blog/dumating-nawa-ang-iyong-kaharian/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/dumating-nawa-ang-iyong-kaharian/</guid>
-      <description>&lt;p&gt;Habang ang mga tao may seryosong pagkabahala para sa kalagayan ng planetang ito, ang pagbabalik ni Kristo ay nagbibigay sa ating ng pag-asa.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hula sa Panahon ng Pagtatapos at ang Pahayag ni JesuKristo</title>
-      <link>http://localhost:1313/blog/hula-sa-panahon-ng-pagtatapos-at-ang-pahayag-ni-jesukristo/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/hula-sa-panahon-ng-pagtatapos-at-ang-pahayag-ni-jesukristo/</guid>
-      <description>&lt;p&gt;Ang mga hulang nilalaman sa mga libro ng Daniel, Pahayag, at ng mga Ebanghelyo ay may maraming antas, bawat isa sa kanila ay balido; ngunit kung tiningnan lamang mula sa isang taimtim na adhikain na malaman at sundin ang katotohanan. Ang Pahayag ay isang integral na bahagi ng buong mensahe ng Diyos sa Bibliya, at ang susi sa pag-unawa sa libro ng Pahayag ay ang mga turo ni Jesus.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Isang Bagong Patakarang Pang-ekonomiya</title>
-      <link>http://localhost:1313/blog/isang-bagong-patakarang-pang-ekonomiya/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/isang-bagong-patakarang-pang-ekonomiya/</guid>
-      <description>&lt;p&gt;Gusto naming malaman ang mahahalagang pagkakaiba sa pagitan ng relihiyon ng Kristiyano at sa lahat ng iba pang mga relihiyon; sa pagitan ng bahagi ng Bibliya bago pa ipinanganak si Jesus, at ang bahagi pagkatapos siya ipinanganak, sa pagitan ng mga turo ni Jesus at ng mga turo ng lahat ng ibang pinuno ng relihiyon. Hindi kami interesado sa mga maliliit na pagkakaiba na pinagtatalunan ng karamihan. Hiniling namin sa Diyos na ipakita sa amin ang mahahalagang pagkakaiba, at ipinakita niya.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Isang Sulat sa Isang Kaibigan</title>
-      <link>http://localhost:1313/blog/isang-sulat-sa-isang-kaibigan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/isang-sulat-sa-isang-kaibigan/</guid>
-      <description>&lt;p&gt;Ang pananaw ng mga HesuKristiyano sa unibersalismo (kung saan hindi pananaw ng anumang Australyanong Quaker na kilala namin maliban sa aming sarili) ay na si Jesus ay paaanuman nagbigay kapangyarihan sa Diyos na magbigay ng unibersal na kaligtasan. Sa baba ay isang liham na aming sinulat sa isang konserbatibong mananampalataya na hinamon ang aming pag-aangkin na maaaring maligtas ang mga taong hindi kristiyano sa pamamagitan ng dugo ni Jesus (at ng biyaya mula sa Diyos) basta’t sila ay kumikilos sa lahat ng liwanag na mayroon nila.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kalayaan, Panalangin, at Paulit-ulit na Ginagawang mga Kasalanan</title>
-      <link>http://localhost:1313/blog/kalayaan-panalangin-at-paulit-ulit-na-ginagawang-mga-kasalanan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/kalayaan-panalangin-at-paulit-ulit-na-ginagawang-mga-kasalanan/</guid>
-      <description>&lt;p&gt;Mayroon akong ilang iba&amp;rsquo;t ibang mga saloobin na nais kong ibahagi sa inyo, bawat isa ay malamang na karapat-dapat ng isang maikling artikulo sa sarili nito. Gayunpaman, hanggang sa o maliban na lang kung makakuha ako ng ilang bakanteng oras upang gawin ang mga ito bilang hiwalay na mga artikulo, isasama ko lang silang lahat sa liham na ito, dahil may isang karaniwang tema sa pagitan nila. Ang tema ay isang pagpapahayag lamang ng pag-aalala tungkol sa kung saan ang mga tao ay patungo sa espirituwal, lalo na sa sitwasyon na ang mga indibidwal na base ay nagsasarili na mula sa isa&amp;rsquo;t isa.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kamangha-manghang Biyaya</title>
-      <link>http://localhost:1313/blog/kamangha-manghang-biyaya/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/kamangha-manghang-biyaya/</guid>
-      <description>&lt;p&gt;Madaling ipalagay na napakinggan na ng mga tao ang tungkol sa biyaya ng Diyos sa mga simbahan. Ngunit sa masusing pagsisiyasat, tila na ang mga simbahan mismo ay hindi naniniwala sa ipinangangaral nilang ebanghelyo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kami&#39;y Tama at Sila&#39;y Mali</title>
-      <link>http://localhost:1313/blog/kamiy-tama-at-silay-mali/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/kamiy-tama-at-silay-mali/</guid>
-      <description>&lt;p&gt;Sa loob ng aming komunidad, sinusubukan naming gamitin ang Gintong Panuntunan &amp;ndash; pagsukat sa ating mga kilos sa pamamagitan ng parehong mga prinsipyo na ginagamit namin para sa pagsukat sa mga kilos ng aming mga kaaway, at bise bersa. Kaya kung, halimbawa, gusto namin ng kalayaan na ipamahagi ang aming mga panitikan, kung gayon naniniwala kami na dapat magkaroon sila ng parehong kalayaan. Kung mali para sa kanila na gumawa ng dibisyon sa aming mga ranggo, kung gayon hindi kami dapat na sadyang magtakda na gumawa ng dibisyon sa kanilang mga ranggo. At iba pa.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Karakter</title>
-      <link>http://localhost:1313/blog/karakter/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/karakter/</guid>
-      <description>&lt;p&gt;Ano ang nangyari sa huwaran nang pagkakaroon ng mabuting moral na karakter?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Karunungan</title>
-      <link>http://localhost:1313/blog/karunungan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/karunungan/</guid>
-      <description>&lt;p&gt;May ilang mga kwentong pambata kung saan may isang taong nakakuha ng isa o higit pang hiling, at pagkatapos ay sinayang nila ito sa mga bagay na hindi nagdudulot ng kaligayahan. Katulad ng mga kwentong iyon ang nangyari kay Solomon na binigyan siya ng Diyos ng isang hiling. (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=2&amp;#43;Chronicles&amp;#43;1%3A7-12;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read 2 Chronicles 1:7-12&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;2 Chronicles 1:7-12&lt;/a&gt;) Ito ay hindi gaanong naiiba sa mga fairy tale, maliban na ang isang ito ay may tunog ng katotohanan. Isang pribilehiyo na mabigyan tayo ng Diyos ng isang hiling! Matalino si Solomon upang humiling ng karunungan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kasing Tigas ng Isang Bato</title>
-      <link>http://localhost:1313/blog/kasing-tigas-ng-isang-bato/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/kasing-tigas-ng-isang-bato/</guid>
-      <description>&lt;p&gt;Hindi madali para sa mga tao na bumuo ng isang kaso laban sa amin at sa aming mga aral dahil sa isang napakahalagang kadahilanan: Itinayo namin ang aming pananampalataya sa pinaka matibay na pundasyon na maaaring piliin ng sinuman para sa anumang relihiyon.&lt;br&gt;&#xA; &lt;br&gt;&#xA;Sinabi ni Hesus na “ang sinumang makarinig sa mga salitang ito at sumunod sa mga ito ay magiging tulad ng isang pantas na nagtatayo ng kanyang bahay sa isang malaking bato. Kapag dumating ang mga bagyo at tumama sa bahay na iyon, hindi ito babagsak.” (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;7%3A24-25;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read Matthew 7:24-25&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Matthew 7:24-25&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kaya Gusto Mong Magsimula ng Iyong Sariling Ministeryo?</title>
-      <link>http://localhost:1313/blog/kaya-gusto-mong-magsimula-ng-iyong-sariling-ministeryo/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/kaya-gusto-mong-magsimula-ng-iyong-sariling-ministeryo/</guid>
-      <description>&lt;p&gt;Madalas sumulat sa amin ang mga tao na hindi nasisiyahan sa nakikita nila sa mga simbahan ngayon, kaya gusto nilang magsimula ng kanilang sariling ministeryo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kristiyanong Siyensya</title>
-      <link>http://localhost:1313/blog/kristiyanong-siyensya/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/kristiyanong-siyensya/</guid>
-      <description>&lt;p&gt;Sa librong Life After Life, isang doktor ang nag-iinterbyu sa daang-daang mga tao na klinikal na namatay at pagkatapos ay muling nabuhay. Napuna niya ang isang bilang ng mga pattern sa kanilang mga karanasan. Isa sa mga pattern na ito ay ang malawak na paniniwala ng karamihan sa mga taong ito habang sila ay namamatay na ang kung ano talagang mahalaga sa buhay ay hindi sa kung gaano karaming pera ang iyong nakikita, ngunit sa kung gaano mo minamahal ang iba at kung gaano ka natututo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Liham Mula sa isang Taong Tumatalikod</title>
-      <link>http://localhost:1313/blog/liham-mula-sa-isang-taong-tumatalikod/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/liham-mula-sa-isang-taong-tumatalikod/</guid>
-      <description>&lt;p&gt;Tumitingin ako ng ilang lumang papeles nung minsan, at aking nakita ito, ipinadala mula sa isang miyembro ng mga HesuKristiyano noong umiiral pa kami bilang isang komunidad. Dumating ito pagkatapos ang taong ito ay dumaan sa isang panahon kung saan nararamdaman na hindi s’ya kampante at nabalisa sa kung paano ginagawa ang mga bagay. Pakiramdam ko ipinahayag niya nang mabuti ang ilan sa mga isyu na dapat harapin ng isa sa gayong mga pagkakataon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mabuhay sa Pananalig</title>
-      <link>http://localhost:1313/blog/mabuhay-sa-pananalig/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mabuhay-sa-pananalig/</guid>
-      <description>&lt;p&gt;Ito ang pangatlo sa isang serye ng mga artikulo tungkol sa pagkakaiba-iba ng doktrina sa pagitan namin at ng The Family. Ang unang dalawang artikulo ay ang &amp;ldquo;Simpleng Kaligtasan&amp;rdquo; at &amp;ldquo;Walang Hanggang Kaligtasan&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mabuhay sa Pananalig - Paano Ito Gawin</title>
-      <link>http://localhost:1313/blog/mabuhay-sa-pananalig---paano-ito-gawin/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mabuhay-sa-pananalig---paano-ito-gawin/</guid>
-      <description>&lt;p&gt;Tinuruan ni Jesukristo ang mga tao na huwag isipin kung paano pakanin at damitan ang kanilang sarili (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;6%3A25-32;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read Matthew 6:25-32&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Matthew 6:25-32&lt;/a&gt;).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mga Alipin ng Antikristo</title>
-      <link>http://localhost:1313/blog/mga-alipin-ng-antikristo/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mga-alipin-ng-antikristo/</guid>
-      <description>&lt;p&gt;Ang serye ng Left Behind ay nakakainspire, iyan na ito ang nakakapag-isip sa mga tao na isipin ang tungkol sa seryosong mga sitwasyong na may kinalaman sa buhay at kamatayan. Gayunman, madalas itong nagpapalagay na, kahit nahaharap sa mga panahon ng kagipitan, ang buhay para sa mga Amerikanong Kristiyanong fundamentalist ay magsesentro sa parehong mga pagpapahalaga at layunin na sumasakop sa kanilang mga buhay hanggang ngayon. Sa ibang salita, ang mga tao ay mananatiling sumisimba bawat Linggo at naghahanap buhay sa mga natitirang araw ng isang linggo, sa gitna ng Pagsubok at lahat nilalaman nito. Magkakaroon pa rin sila ng sapat na salapi, at sila ay lilipad pa rin saanman sa mundo sa gusto nila. Wala sa libro ang nababanggit tungkol sa kondisyon ng mahihirap na Kristiyano. Ang materyalistikong pilosopiyang ito ay isinagawa sa panahon (sa kwento) kung saan ang mga tao ay dapat na seryosong ikonokonsidera kung ang kanilang mga pagpapahalaga na kanilang isinabuhay bago na nangyari ang pagsubok ay talagang tama.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mga Himala</title>
-      <link>http://localhost:1313/blog/mga-himala/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mga-himala/</guid>
-      <description>&lt;p&gt;Kung naiintindihan mo kung paano gumagana ang isang himala, himala pa rin ba ito? Kung magagawa ko ang isang bagay na hindi mo maipaliwanag, ginagawa ba ako nitong mas mahigit sa iyo ng espirituwal? Ano ba talaga ang isang himala? Ang mga ito ay iilan sa mga katanungan na nagpagulo sa akin habang sinubukan kong maunawaan kung ano ang dapat kong posisyon tungkol sa supernatural.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mga Magagaan na Doktrina</title>
-      <link>http://localhost:1313/blog/mga-magagaan-na-doktrina/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mga-magagaan-na-doktrina/</guid>
-      <description>&lt;p&gt;Karamihan sa mga tao ay nagtataka minsan sa dami ng magkakaiba at magkakasalungat na mga doktrina na umiikot sa mundo sa ngalan ng Diyos. Ang relihiyon ay isang tambak ng magkakasalungat na pahayag, isang masukal na gubat para sa karamihan ng mga edukadong tao sa panahong ito upang ituring na kanlungan. Sa sandaling nagkaroon tayo ng sapat na talino upang suriin ang kahit dalawang iglesia o relihiyon nang magkatabi, makikita natin ang sapat na mga kontradiksyon upang malaman na alinman sa kanila ay hindi maaaring maging tama. At sa oras na dumaan tayo sa tatlo o apat, isang pagdududa ang nagsisimulang lumitaw na ang alinman sa kanila ay maaaring maging tama.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mga Pagpupulong ng Panalangin</title>
-      <link>http://localhost:1313/blog/mga-pagpupulong-ng-panalangin/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mga-pagpupulong-ng-panalangin/</guid>
-      <description>&lt;p&gt;(Ito ay isang pag-aaral sa Bibliya, kaya kailangan mong hanapin ang mga sanggunian sa mga panaklong kung gusto mong makuha ang buong kahulugan ng artikulong ito.)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mga Palatandaan ng Mga Panahon</title>
-      <link>http://localhost:1313/blog/mga-palatandaan-ng-mga-panahon/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mga-palatandaan-ng-mga-panahon/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Digmaan at Kapayapaan&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ang mga digmaan ay ang pinaka karaniwang patunay naibigay na ang katapusan ng mundo ay papalapit na. Ngunit nabanggit ang mga ito nang espisipiko ni Kristo bilang patunay na ang katapusan ay hindi pa nadating: “Makakarinig kayo ng mga digmaan at mga bali’ balita ng mga digmaan. Ngunit huwag kayong mababahala dahil talagang mangyayari ang mga iyon, bagama&amp;rsquo;t hindi pa iyon ang katapusan ng mundo.” (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;24%3A6;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read Matthew 24:6&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Matthew 24:6&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mga Panakip sa Ulo</title>
-      <link>http://localhost:1313/blog/mga-panakip-sa-ulo/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mga-panakip-sa-ulo/</guid>
-      <description>&lt;p&gt;Nagkaroon ng mga buong denominasyon na nahati sa iba&amp;rsquo;t ibang interpretasyon ng isang kabanata ng Bibliya, kung saan ito ay: &lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=1&amp;#43;Corinthians&amp;#43;11;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read 1 Corinthians 11&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;1 Corinthians 11&lt;/a&gt;. Ito ang kabanata na tumatalakay sa mga kababaihan na nagtatakip ng kanilang mga ulo kapag sila’y nananalangin.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mga Pumipiga sa Baba</title>
-      <link>http://localhost:1313/blog/mga-pumipiga-sa-baba/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/mga-pumipiga-sa-baba/</guid>
-      <description>&lt;p&gt;Ilan sa amin ang pumipiga ng toothpaste mula sa gitna, at ang ilan ay pumipiga mula sa ilalim. Gusto ng mga pumupiga sa baba na sundin ng mundo ang kanilang halimbawa; ngunit ang mga pumipiga sa gitna ay nangangatuwiran na ang gayong pagkahumaling sa kaayusan ay lumalabag sa kanilang indibidwalidad na kusang-loob.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nasisira Ang Lahat ng Kapangyarihan</title>
-      <link>http://localhost:1313/blog/nasisira-ang-lahat-ng-kapangyarihan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/nasisira-ang-lahat-ng-kapangyarihan/</guid>
-      <description>&lt;p&gt;Ang siping ito na nagmula sa British historyador at moralistang noong ika-19 Siglo, si John Acton, ay ang isa na kung saan ako’y naging interesado at aking dinala sa buong buhay ko. Bilang isang binata, aking nadama na ito ay masyadong mapang-uyam, at hindi nito pinahihintulutan ang kabutihan na nasa loob ng mga tao. Isang dahilan para sa aking pagtanggi sa sipi ay maaari na hindi ko napansin na ang mga salitang &amp;ldquo;may posibilidad na masira&amp;rdquo; ay naging parte ng sipi, kaya aking inakala na ito ay isang ganap na pahayag (tulad ng ipinahayag sa pamagat ng artikulong ito).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>No Pain No Gain</title>
-      <link>http://localhost:1313/blog/no-pain-no-gain/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/no-pain-no-gain/</guid>
-      <description>&lt;p&gt;Sa mga unang taon ng aming komunidad, kaming lahat ay aktibong lumalahok sa mga fun runs. Ang mga mas seryosong atleta ay madalas na sinasabi, “No pain, no gain”. Minsan namangha ako sa tindi ng disiplina ng ilang mga atleta upang maging mahusay sa kanilang isport. Araw-araw ay ginugugol nila ang maraming oras sa paghubog ng kanilang pisikal na lakas, bilis, at tibay. Upang maging mahusay, kinailangan nilang makalampas sa tinatawag na &amp;ldquo;the pain barrier&amp;rdquo;. Ngunit kapag nagtagumpay sila, lalabas sila sa kabilang bahagi bilang mga nagwagi.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ngiti, Mahal Ka ng Diyos!</title>
-      <link>http://localhost:1313/blog/ngiti-mahal-ka-ng-diyos/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ngiti-mahal-ka-ng-diyos/</guid>
-      <description>&lt;p&gt;Mayroong mas malaking kasalanan kaysa sa pagsuway sa Diyos; ito’y ang kasalanan ng hindi naniniwala na mahal ka niya.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pag-aaral Upang Mag-aral</title>
-      <link>http://localhost:1313/blog/pag-aaral-upang-mag-aral/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pag-aaral-upang-mag-aral/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Mag-aral ka upang maging kalugud-lugod sa paningin ng Diyos, isang manggagawa na walang dapat ikahiya, na wastong hinahati ang salita ng katotohanan.&amp;quot;&lt;/em&gt; (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=2&amp;#43;Timothy&amp;#43;2%3A15;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read 2 Timothy 2:15&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;2 Timothy 2:15&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pag-aaral Upang Makita</title>
-      <link>http://localhost:1313/blog/pag-aaral-upang-makita/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pag-aaral-upang-makita/</guid>
-      <description>&lt;p&gt;**Unang Bahagi&lt;br&gt;&#xA;**&lt;br&gt;&#xA;&amp;ldquo;Kung hindi makikita ng mga tao kung saan sila patungo, sila’y masasasawi.&amp;rdquo; (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=Proverbs&amp;#43;29%3A18;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read Proverbs 29:18&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Proverbs 29:18&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pag-aayuno nang Hindi Tumitigil</title>
-      <link>http://localhost:1313/blog/pag-aayuno-nang-hindi-tumitigil/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pag-aayuno-nang-hindi-tumitigil/</guid>
-      <description>&lt;p&gt;Ang ganitong uri (ng demonyo) ay hindi lalabas, maliban sa pamamagitan ng pagdarasal at ng pag-aayuno. ([Matthew 17:14-21][28]).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pag-asa</title>
-      <link>http://localhost:1313/blog/pag-asa/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pag-asa/</guid>
-      <description>&lt;p&gt;Dumalo ako sa isang simbahang pagpupulong kahapon, at ang pagbasa sa Bibliya noon ay ang pangako mula sa Lumang Tipan na hindi hahayaan ng Diyos ang isa sa kanyang matutuwid na lingkod na higit pa sa masaktan ang kanilang mga paa sa isang bato. Kung siya’y nahulog, ipinangako ng sipi na ang Diyos ay magpapagala ng isang anghel upang alalayan siya. Tila hindi nakikita ng kongregasyon ang anumang kontradiksyon (o kahit isang ugnayan) sa katotohanan na ang pagbabasa ay naunahan ng isang anunsyo na ang pastor ay hindi naroon sapagkat siya’y nahulog sa likod ng kanyang sasakyan, at lubhang nasugatan ang kanyang galanggalangan. Maliban sa malinaw na katatawanan ng sitwasyon iyon, narito ang madalas na di-pinapansing kontradiksyon na ang ilan sa mga bagay na nababasa natin sa Bibliya ay tila hindi sumusukat sa ating pang-araw-araw na mga karanasan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pagkakataong Magnilay Habang Walang Tumutuligsa</title>
-      <link>http://localhost:1313/blog/pagkakataong-magnilay-habang-walang-tumutuligsa/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pagkakataong-magnilay-habang-walang-tumutuligsa/</guid>
-      <description>&lt;p&gt;Ang artikulong ito ay isang pagpapatuloy ng isang paksa na madalas na lumalabas sa nakalipas na ilang taon. Tinatalakay nito ang dilemma na umiiral kapag ang isang pinuno (o ang komunidad sa kabuuan) ay nakatagpo ng isang tao na nagpapakita ng ilang espiritwal na pahiwatig na magaganda, ngunit nagpapakita rin ng isang atubili na harapin ang isang partikular na kahinaan o pagkakamali. Ang aming tradisyunal na paraan ay kumuha ng karaingan sa nagkasala, at isulong ang karaingan mula sa unang yugto hanggang sa pangalawa, hanggang sa ikatlo, at sa wakas ay paalisin siya sa komunidad kung ipagpapatuloy niya ang kanilang pagtanggi na harapin ang pagkakasala. Ang proseso ay nasa Kasulatan at kapaki-pakinabang.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pagtatalikod sa Iyong Mga Magulang</title>
-      <link>http://localhost:1313/blog/pagtatalikod-sa-iyong-mga-magulang/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pagtatalikod-sa-iyong-mga-magulang/</guid>
-      <description>&lt;p&gt;Ang isa sa mga dahilan kung bakit hindi tayo gaanong nagtuturo tungkol sa pagtalikod sa mga magulang ay dahil ito ay isang bagay na ginagawa lang natin sa praktical, higit pa sa aktwal na itinuturo namin ito theoretically. Tinalikuran namin ang aming mga magulang sa pamamagitan lamang ng pamumuhay na magkakasama, seven days a week. Ang mga kabataan na biglang nag-decide na sumali sa isang komunidad na tulad namin (pagkatapos tumira kasama ang kanilang mga magulang) ay &amp;ldquo;tinalikuran&amp;rdquo; ang relasyon na mayroon sila sa bahay bilang isang natural na resulta ng pagpili na tumira sa amin. Ito ay hindi gaanong naiiba sa kung ano ang nangyayari kapag ang isang tao ay umalis sa bahay upang magpakasal, lumipat sa isang apartment nang solo, lumipat sa isang student accommodation sa isang unibersidad, o maglakbay o mag-abroad.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pakikinig sa Bagay na Ayaw Nating Pakinggan</title>
-      <link>http://localhost:1313/blog/pakikinig-sa-bagay-na-ayaw-nating-pakinggan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pakikinig-sa-bagay-na-ayaw-nating-pakinggan/</guid>
-      <description>&lt;p&gt;Ang nais sabihin ng araling ito ay napakahalaga na ito’y halos isang pangunahing kinakailangan para sa pananampalataya. At gayunman ito’y tila napakabihira (at napakahirap ipabatid) na halos hindi ito umiiral sa mundo ngayon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pamumuhay sa Isang Komunidad</title>
-      <link>http://localhost:1313/blog/pamumuhay-sa-isang-komunidad/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pamumuhay-sa-isang-komunidad/</guid>
-      <description>&lt;p&gt;Lagi kong pinaniwalaan na ang pamumuhay sa isang komunidad (tulad ng ginagawa namin, at ng ginawa ng sinaunang mga Kristiyano) ay medyo opsyonal. Hindi ito iniutos (sa napakaraming salita) sa kung ano ang itinuro ni Jesus, kahit malinaw na siya at ang kanyang mga disipulo ay namuhay nang magkasama, lumakbay nang magkasama, at nagkaroon ng isang supot kung saan doon inilagay ang kanilang mga salapi. Matibay kong naramdaman ang tungkol sa mga espirituwal na mga benepisyo ng gayong pamumuhay; ngunit hindi ko lamang naisip na mayroong isang kaso na gawin itong lubusang esensyal.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pasanin ang Press at Sumunod sa Akin</title>
-      <link>http://localhost:1313/blog/pasanin-ang-press-at-sumunod-sa-akin/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pasanin-ang-press-at-sumunod-sa-akin/</guid>
-      <description>&lt;p&gt;Matagal nang umiiral ang sekular na media. Bago pa ang mga pahayagan at telebisyon ito ay ang hindi gaanong maaasahang salita-ng-bibig. Ito ay ang sekular na midyum na ito ang nagpako kay Jesus. Ang parehong grupo ng mga tao na sumigaw ng &amp;ldquo;Hosanna!&amp;rdquo; sa isang linggo ay sumisigaw ng &amp;ldquo;Ipako siya sa krus!&amp;rdquo; sa kasunod.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reality sa Utopia</title>
-      <link>http://localhost:1313/blog/reality-sa-utopia/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/reality-sa-utopia/</guid>
-      <description>&lt;p&gt;Ang Utopia ay isang perpektong mundo na hindi umiiral. Madalas iniiwan ng mga taong naghahanap ng ganoong lugar ang mga ideyal nang mabigo nilang hanapin ito.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sabihin Lang Ito</title>
-      <link>http://localhost:1313/blog/sabihin-lang-ito/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/sabihin-lang-ito/</guid>
-      <description>&lt;p&gt;Wala talagang masama sa ano ang sinasabi ng &amp;ldquo;panalangin ng makasalanan&amp;rdquo;, kahit na madalas namin itong supilin noong nakaraan. At ang pagkuha sa mga tao na talagang sabihin ang mga bagay na nasabi sa panalangin ng makasalanan ay isang napakabuting ehersisyo. Hinihiling ko lang na maaari nating kuhanin sila na tuluyang sabihin ang mga bagay na iyon. Ang aming reklamo tungkol sa panalangin ay kadalasang madalas ito ginagawa nang isang beses, na nagpapalaya sa mga tao mula sa patuloy na paglago sa kanilang pananampalataya.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sentido sa Seks</title>
-      <link>http://localhost:1313/blog/sentido-sa-seks/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/sentido-sa-seks/</guid>
-      <description>&lt;p&gt;Ang mga opinyon, mga karanasan, mga kaugalian, at mga paniniwala tungkol sa seks ay sobrang naiiba na halos walang masasabi nang dogmatika sa paksa. Gayunman ito ay isang aspekto kung saan umiiral ang mga dogma… mula sa mahigpit na relihiyosong mga dogma hanggang sa maatim na mga dogmang liberal (hal. “Walang masama kung ito ay nakakapag-bigay ginhawa sa iyo”)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Simpleng Kaligtasan</title>
-      <link>http://localhost:1313/blog/simpleng-kaligtasan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/simpleng-kaligtasan/</guid>
-      <description>&lt;p&gt;Mga Detalye&lt;br&gt;&#xA;Nilikha noong Setyembre 07, 1996&lt;/p&gt;&#xA;&lt;p&gt;Ang isang miyembro ng The Family (dating The Children of God) ay nagkomento na nahihirapan siyang maintindihan kung paano namin maituturing silang mga erehe at ang aming matatalik na kaibigan nang sabay. Ang erehe ay hindi isang salita na pipiliin namin, sapagkat mayroon itong labis na emosyonal na paghatol na nakakabit dito. Ngunit totoo na mayroon kaming pagkakaiba, sa parehong oras na marami tayong pagkakapareho; at pinaghirapan din namin na maunawaan ang kabalintunaan. Ang sumusunod na limang artikulo ay ihinahambing ang aming pagkakatulad at pagkakaiba sa isang bilang ng mga aral.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Subukan Ang Mga Espiritu</title>
-      <link>http://localhost:1313/blog/subukan-ang-mga-espiritu/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/subukan-ang-mga-espiritu/</guid>
-      <description>&lt;p&gt;Maraming pagkakataon kung saan dapat nating hatulan ang ibang tao, at sabihin kung naniniwala tayo na sila ay tama o kung naniniwala tayo na sila ay mali.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Talikuran Lahat</title>
-      <link>http://localhost:1313/blog/talikuran-lahat/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/talikuran-lahat/</guid>
-      <description>&lt;p&gt;(Ang artikulong ito ay nagmula sa The Family, bagaman na-edit ito nang bahagya.)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Day The Earth Stood Still</title>
-      <link>http://localhost:1313/blog/the-day-the-earth-stood-still/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/the-day-the-earth-stood-still/</guid>
-      <description>&lt;p&gt;Sa aming paglipad pabalik sa Sydney mula sa Kenya noong wikend, nanood kami ni Cherry ng isang pelikulang tinatawag na &amp;ldquo;The Day the Earth Stood Still&amp;rdquo; (isang muling paggawa ng isang pelikulang unang pinalabas noong nakalipas na mga dekada). Ako ay lubos na humanga dito sa ilang paraan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tiyak, Hindi Lahat ng Kasamaan</title>
-      <link>http://localhost:1313/blog/tiyak-hindi-lahat-ng-kasamaan/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/tiyak-hindi-lahat-ng-kasamaan/</guid>
-      <description>&lt;p&gt;Sumulat si San Pablo ng isang liham sa isang batang Kristiyano, at sinabi niya na ang ugat ng lahat ng kasamaan ay ang pag-ibig sa pera. (&lt;a href=&#34;http://www.biblegateway.com/passage/index.php?search=1&amp;#43;Timothy&amp;#43;6%3A10;&amp;amp;version=50;&amp;amp;interface=print&#34;&#xA;&#xA;&#xA; title=&#34;Read 1 Timothy 6:10&#34;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;1 Timothy 6:10&lt;/a&gt;) Ito ay isang kamangha-manghang pahayag.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Walang Anumang Dungis</title>
-      <link>http://localhost:1313/blog/walang-anumang-dungis/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/walang-anumang-dungis/</guid>
-      <description>&lt;p&gt;Sa susunod na artikulo, ang mga Hesukristyano ay kumukuha ng isang paboritong sipi ng mga Quaker na nagmumula sa banal na kasulatan (tungkol sa &amp;lsquo;paglalakad sa liwanag&amp;rsquo;) at pinagsama ito sa ilan sa mga paboritong ebanghelikal na mga kasulatan tungkol sa &amp;lsquo;kaligtasan&amp;rsquo;, upang ipakita kung ano ang paboritong turo ng mga Hesukristiyano&amp;hellip; tungkol sa katapatan. Sumusunod ang ilang artikulo na binibigyang-diin din ang pangangailangang maging tapat sa kagustuhan sa anumang kahilingang teolohiko. Ang ganitong inclusivism ay karaniwan sa mga Quaker at mga Hesukristiyano.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Walang Mga Apo ang Diyos</title>
-      <link>http://localhost:1313/blog/walang-mga-apo-ang-diyos/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/walang-mga-apo-ang-diyos/</guid>
-      <description>&lt;p&gt;Hindi natin kailangang maging perpekto upang tanggapin tayo ng Diyos. Ngunit kailangan nating maging orihinal.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Walong Paraan Upang Malaman ang Kalooban ng Diyos</title>
-      <link>http://localhost:1313/blog/walong-paraan-upang-malaman-ang-kalooban-ng-diyos/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/walong-paraan-upang-malaman-ang-kalooban-ng-diyos/</guid>
-      <description>&lt;p&gt;Walang partikular na nanggagaling sa mga Quaker ang artikulong ito, maliban kung ito ay maaaring nauugnay sa konsepto ng tahimik na pagsamba, kung saan ang mga Quaker ay naniniwala na ang Diyos ay maaaring makipag-usap sa mga tao.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>John Doe</title>
-      <link>http://localhost:1313/authors/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/john-doe/</guid>
-      <description>&lt;p&gt;Doesn&amp;rsquo;t Exist&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Karaniwang Mga Tanong</title>
-      <link>http://localhost:1313/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/faq/</guid>
-      <description>&lt;h3 id=&#34;karaniwang-mga-tanong&#34;&gt;Karaniwang Mga Tanong&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;accordion &#34;&gt;&#xA;  &lt;button class=&#34;accordion-header &#34; data-accordion&gt;&#xA;    Meron ba kayong simbahan?&#xA;    &lt;svg&#xA;      class=&#34;accordion-icon&#34;&#xA;      x=&#34;0px&#34;&#xA;      y=&#34;0px&#34;&#xA;      viewBox=&#34;0 0 512 512&#34;&#xA;      xmlspace=&#34;preserve&#34;&gt;&#xA;      &lt;path&#xA;        fill=&#34;currentColor&#34;&#xA;        d=&#34;M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&#xA;  &lt;/button&gt;&#xA;  &lt;div class=&#34;accordion-content &#34;&gt;&#xA;    &lt;p&gt;SAGOT:&#xA;Depende ito sa kung ano ang ibig mong sabihin sa &amp;ldquo;simbahan&amp;rdquo;. Kung ang ibig mong sabihin ay isang gusaling simbahan, kung gayon, hindi wala kaming isang &amp;lsquo;simbahan&amp;rsquo;. Iyon ay dahil naniniwala kami na ang mga taos-pusong tao AY ang simbahan at na ang mga Kristiyano ay dapat mamuhay sa komunidad 24/7, na nagbabahagi ng lahat ng meron nila tulad ng ginawa ng mga unang Kristiyano. Ang mga gusali ay madalas na nakakapag-distrak sa mga tao mula sa pag-unawa nito.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mga Comics</title>
-      <link>http://localhost:1313/comics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/comics/</guid>
-      <description>&lt;h2 id=&#34;mga-comics&#34;&gt;Mga Comics&lt;/h2&gt;&#xA;&lt;br&gt;&#xA;&lt;h5 id=&#34;a-new-reality---tagalog-edition&#34;&gt;A New Reality - (Tagalog Edition)&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/10CRyeOIauy9Yfzze7_dCkOm_Qnjln_Ry/view?usp=drive_link&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/ANRCover_hu_1210fb8fa12df45a.webp&#34; alt=&#34;A New Reality&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;h5 id=&#34;far-from-ordinary&#34;&gt;Far From Ordinary&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/1KPZtohIqp7sypJe_eSWhgSS_hPXxUy7V/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/FARFrom_hu_f73a2b40ee31b8c3.webp&#34; alt=&#34;Far From Ordinary Magazine&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;&lt;h5 id=&#34;liberated-poverty---tagalog-edition&#34;&gt;Liberated Poverty - (Tagalog Edition)&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/1gQvalDjfIXB5Ei-NQ7g2Fs_8STKYvbdf/view?usp=drive_link&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/LIBPov_hu_473e9560b82ed2f2.webp&#34; alt=&#34;Liberated Poverty&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;&lt;h5 id=&#34;this-is-how-it-ends---tagalog-edition&#34;&gt;This is How it Ends - (Tagalog Edition)&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/145YgKT6eakWy0lx5CZh7LQcPFCGIW1TZ/view?usp=drive_link&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/THISishow_hu_22597917f33d2417.webp&#34; alt=&#34;This is How it Ends&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;&lt;h5 id=&#34;malaking-problema-madaling-solusyon&#34;&gt;Malaking Problema Madaling Solusyon&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/19XSOQP7d_phLLQ0fTa7kQOBHH9uuE2hN/view?usp=drive_link&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/BIGTrob_hu_85b01d3eb44bf7f6.webp&#34; alt=&#34;Big Trouble, Easy Solution&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;&lt;h5 id=&#34;ang-tagapagpalaya&#34;&gt;Ang Tagapagpalaya&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/1-YkCEnOJOX4Fw63SD8dKi89XPZmq_sCh/view?usp=drive_link&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/ANGTaga_hu_6c004ea3c77e8b2c.webp&#34; alt=&#34;Ang Tagapagpalaya&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;&lt;h5 id=&#34;isang-bangong-patakaran-sa-ekonomica&#34;&gt;Isang Bangong Patakaran Sa Ekonomica&lt;/h5&gt;&#xA;&#xA;      &lt;a href=&#34;https://drive.google.com/file/d/1gZtSu9z0ZngyDhHu-ujHmNJNroZpuF-w/view?usp=drive_link&#34; target=&#34;_blank&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/images/comics/NEWEco_hu_d23c83d3b408be2f.webp&#34; alt=&#34;New Economic Policy&#34; class=&#34;&#34;&gt;&#xA;      &lt;/a&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ZkytQ_FQjm6vS-ZTu73vovcbFJAX20U4/view?usp=sharing&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Alamin kung paano i-print ang NEP sa iyong sarili sa pamamagitan ng pag-click dito.&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ready to build your next project with Hugo?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sam Wilson</title>
-      <link>http://localhost:1313/authors/sam-wilson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/sam-wilson/</guid>
-      <description>&lt;p&gt;Doesn&amp;rsquo;t Exist&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Users Are Saying About Hugoplate</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title>William Jacob</title>
-      <link>http://localhost:1313/authors/william-jacob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/william-jacob/</guid>
-      <description>&lt;p&gt;Doesn&amp;rsquo;t Exist&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mga Kristiyanong Hesus</title><link>https://MgaKristiyanongHesus.github.io/</link><description>Recent content on Mga Kristiyanong Hesus</description><generator>Hugo</generator><language>tl</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://MgaKristiyanongHesus.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Anarkiya at Pasipismo</title><link>https://MgaKristiyanongHesus.github.io/blog/anarkiya-at-pasipismo/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/anarkiya-at-pasipismo/</guid><description>&lt;p&gt;Bagama’t palaging matibay na mga pasipista ang mga Hesukristiyano, at bagama’t sila ay mapanuri sa mga herarkia ng relihiyon, sa artikulo sa ibaba, sinusuri nila ang mga kahinaan sa kanilang sariling posisyon.&lt;/p&gt;</description></item><item><title>Anong Gagawin ng Isang Huwad na Hesus?</title><link>https://MgaKristiyanongHesus.github.io/blog/anong-gagawin-ng-isang-huwad-na-hesus/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/anong-gagawin-ng-isang-huwad-na-hesus/</guid><description>&lt;p&gt;Mayroong isang slogan na sumisikat sa mga simbahan (lalo na sa U.S.) na nagtatanong &amp;ldquo;What Would Jesus Do?&amp;rdquo; (“Ano ang Gagawin ni Hesus”) Ito ay pinaikling WWJD? nagtatampok ang mga letrang ito sa lahat ng bagay mula sa mga T-shirt hanggang sa mga alahas. Pareho sila’y gumaganap bilang paalala para sa nagsusuot na isipin kung ano ang gagawin ni Hesus sa anumang sitwasyon, at bilang patotoong Kristiyano kapag tinanong ng isang hindi nakakaalam kung ano ang kanilang kinakatawan.&lt;/p&gt;</description></item><item><title>Ang Aking Pag-hilig sa Tira-tira</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-aking-pag-hilig-sa-tira-tira/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-aking-pag-hilig-sa-tira-tira/</guid><description>&lt;p&gt;Madalas kong narinig ang mga tao na nagrereklamo tungkol sa pagkain ng tira-tira. Ito ang nagpapaggulo sa akin, sapagkat sinasabi na parang may isang bagay na masama tungkol sa tira-tira. Ang pagkain na talagang masarap kagabi ay biglang nakakuha ng napakasamang reputasyon sa kinabukasan.&lt;/p&gt;</description></item><item><title>Ang Dahilan</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-dahilan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-dahilan/</guid><description>&lt;p&gt;Sapat para sa alagad na maging tulad ng kanyang guro, gaya rin ng isang alipin sa kanyang amo. Kung tatawaging Beelzebub ang may-ari ng isang bahay, ano kaya ang tatawagin sa mga naninirahan sa loob nito? &lt;a href="http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;10%3A25;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read Matthew 10:25"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Matthew 10:25&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Ang Espiritu ni Kristo</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-espiritu-ni-kristo/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-espiritu-ni-kristo/</guid><description>&lt;p&gt;Ang tradisyong Kristiyano ay kadalasang nagpapalaki ng mga pagkakaiba sa pagitan ng Anak ng Diyos at ng Banal na Espiritu ng Diyos.&lt;/p&gt;</description></item><item><title>Ang Gintong Sinulid</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-gintong-sinulid/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-gintong-sinulid/</guid><description>&lt;p&gt;Nagkaroon ako ng isang pangitain na napakalakas at mukhang mahalaga.&lt;/p&gt;</description></item><item><title>Ang Hukbo na Birhen</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-hukbo-na-birhen-/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-hukbo-na-birhen-/</guid><description>&lt;p&gt;Ang ikapitong kabanata ng Apocalipsis (tungkol sa hukbo na 144,000 katao), tulad ng karamihan sa Apocalipsis, ay hindi pinapansin ng karamihan ng mga Kristiyano sa batayan na maaaring bigyan ng maling kahulugan ng mga panatiko upang isipin na sila’y bahagi ng hukbo at ang iba ay hindi. Isang kalokohan!&lt;/p&gt;</description></item><item><title>Ang Kaharian ng Diyos</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-kaharian-ng-diyos/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-kaharian-ng-diyos/</guid><description>&lt;p&gt;Mayroon isang parirala na tila binubuod ang pinaka diwa ng ugnayan sa pagitan ng mga Ebanghelyo at ng Ang Pahayag, at iyon ay ang parirala na aking ginamit bilang pamagat sa artikulong ito.&lt;/p&gt;</description></item><item><title>Ang Kaharian ng Langit o Relihiyon?</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-kaharian-ng-langit-o-relihiyon/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-kaharian-ng-langit-o-relihiyon/</guid><description>&lt;p&gt;Gusto naming malaman ang mahahalagang pagkakaiba sa pagitan ng relihiyon ng Kristiyano at sa lahat ng iba pang mga relihiyon; sa pagitan ng bahagi ng Bibliya bago pa ipinanganak si Jesus, at ang bahagi pagkatapos siya ipinanganak, sa pagitan ng mga turo ni Jesus at ng mga turo ng lahat ng ibang pinuno ng relihiyon. Hindi kami interesado sa mga maliliit na pagkakaiba na pinagtatalunan ng karamihan. Hiniling namin sa Diyos na ipakita sa amin ang mahahalagang pagkakaiba, at ipinakita niya.&lt;/p&gt;</description></item><item><title>Ang Mabuting Hindu</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-mabuting-hindu/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-mabuting-hindu/</guid><description>&lt;p&gt;Tinanong ng isang relihiyosong tao si Jesus, &amp;ldquo;Ano ang gagawin ko upang magkaroon ng buhay na walang hanggan?&amp;rdquo;&lt;/p&gt;</description></item><item><title>Ang Madulas na Dalisdis</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-madulas-na-dalisdis/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-madulas-na-dalisdis/</guid><description>&lt;p&gt;Nagkaroon kami ng diskusyon kagabi at sinabi kaagad ni Jeremy, “Ako’y nakakakita ng isang artikulo mula rito.” Pinag-usapan namin ang konsepto ng isang “madulas na dalisdis” sa aming Kristiyanong paglalakbay, at nakaisip kami ng isang bilang ng mga nakawiwiling obserbasyon. Ang argumento na aking tinutukoy ay ang isang nagsasabi na ang isang tiyak na gawa o pagtuturo ay maaaring magdulot ng maraming masahol na mga gawa.&lt;/p&gt;</description></item><item><title>Ang Mandarayang Hollywood</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-mandarayang-hollywood/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-mandarayang-hollywood/</guid><description>&lt;p&gt;Apatnapung taon na simula nung unang kinuha ng Hollywood ang pagkakataon upang maglangkap ng mga eksenang pagtatalik sa mga pelikula, at maaari na ito maging ang oras upang balikan kung paano naimpluwensiyahan nito ang ating pag-iisip tungkol sa mga gayong bagay. Sa artikulong ito ipagtatalunan ko na marami sa atin ang nalinlang sa paniniwala na mayroong isang bagay na tama at mabuti tungkol sa desisyon na ingkorperahin ang hubad na mga eksenang pagtatalik sa mass entertainment, kung saan, sa katotohanan, ay talagang inihantad nito (at patuloy na inihahantad) tayo bilang mga hangal na lagi nalilinlang.&lt;/p&gt;</description></item><item><title>Ang Matinding Pagtakas</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-matinding-pagtakas/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-matinding-pagtakas/</guid><description>&lt;p&gt;Ito’y isang kwento na mahirap isalaysay, at ito’y marahil ang dahilan kung bakit tumagal ng mga labinlimang taon bago namin ito maisalaysay. Ang bahagi na mahirap ay ang hindi paglalahad ng kwento, ngunit ang bahagi na mahirap ay ang katotohanan na palagi naming iniiwasan na mamigay ng mga testimonya tungkol sa mga himala, dahil sa sinasabi ng Bibliya tungkol sa masasamang taong nagnanais ng mga himala at hindi nakokontento lang sa hindi gaanong senseysonal na katotohanan. Alam din namin na ito ay maaari maging medyo nakakapanghina ng loob na makarinig ng mga mahimalang salaysay ng iba pang mga Kristiyano kapag ang ating sariling buhay ay tila hindi kapanapanabik kung ihahambing. Dapat naming simulan sa pagsasabi na ang kwentong ito’y marahil isa sa  tatlong nangungunang kwento ng paglalaan ng Diyos sa loob ng 35 taon ng Kristiyanong paglilingkod. (Baka sa isang araw, maikukwento namin ang iba pang dalawa!)&lt;/p&gt;</description></item><item><title>Ang Mito ng Intuwisyon</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-mito-ng-intuwisyon/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-mito-ng-intuwisyon/</guid><description>&lt;p&gt;Mayroon isang termino na maraming taon ko na narinig at medyo ipinalagay ko lang na mayroon akong isang bagay na nakukulangan nung narinig ko ito. Ang salita ay intuwisyon. Hindi ko alam kung paano ito ginamit noon, ngunit alam ko na kadalasan ko naririnig ito ginamit kapag inihahambing ang mga kalalakihan at mga kababaihan. Ang mga kababaihan ay napagsabihan na mayroon silang kakayahan sa intuwisyon, o na intuwitibo silang mag-isip, habang ang mga kalalakihan naman ay iba ang kanilang paraan ng pag-iisip, halimbawa nang rasyonal. Maliban kung mayroon akong nakukulangan ng isang bagay, tila na lagi ito nagpapahiwatig ng dalawang bagay, kung saan nais kong mahamon sa artikulong ito: (1) na ang intuwisyon ay isang uri ng kakayahan; at (2) na ang mga kababaihan ay mayroon isang uri ng isang espesyal na pag-aangkin sa kakayahang ito.&lt;/p&gt;</description></item><item><title>Ang Mito ng Paggawa ng Tolda</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-mito-ng-paggawa-ng-tolda/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-mito-ng-paggawa-ng-tolda/</guid><description>&lt;p&gt;Ang mga Katoliko, Ebandyeliko, Pentecostal, Anglikano, Saksi ni Jehova, The Children of God, Mormon, - sa katunayan, bawat denominasyon at sekta na alam namin - ay may isang parehong paniniwala: sinusuportahan nilang lahat ang mito ng paggawa ng tolda.&lt;/p&gt;</description></item><item><title>Ang Nangungunang Apatnapu Mga Utos ni Jesus</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-nangungunang-apatnapu-mga-utos-ni-jesus/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-nangungunang-apatnapu-mga-utos-ni-jesus/</guid><description>&lt;p&gt;1. Sundin ang aking mga utos - &lt;a href="http://www.biblegateway.com/passage/index.php?search=John&amp;#43;14%3A15;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read John 14:15"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;John 14:15&lt;/a&gt;, &lt;a href="http://www.biblegateway.com/passage/index.php?search=John&amp;#43;14%3A21;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read John 14:21"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;John 14:21&lt;/a&gt;, &lt;a href="http://www.biblegateway.com/passage/index.php?search=John&amp;#43;14%3A23;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read John 14:23"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;John 14:23&lt;/a&gt;; &lt;a href="http://www.biblegateway.com/passage/index.php?search=2&amp;#43;John&amp;#43;6;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read 2 John 6"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;2 John 6&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Ang Pag-ibig sa Selfie</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-pag-ibig-sa-selfie/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-pag-ibig-sa-selfie/</guid><description>&lt;p&gt;Ang mga iba’t ibang sipi sa Bibliya ay naglalarawan ng mga espisipikong pangyayari na ang mga tao ay tinuruan na abangan para sa pagpapahiwatig na papalapit na tayo sa pagbabalik ni Kristo. Kabilang sa mga ito ang mga natural na sakuna at mga mahahalagang pagbabago sa politika at ekonomiya ng mundo, ngunit kinakabilang ng mga ito rin ang isang hanay ng mga mas banayad na phenomena, tulad ng nailarawan sa talata mula sa liham ni Pablo para kay Timoteo sa itaas.&lt;/p&gt;</description></item><item><title>Ang Pag-Iwas sa Katotohanan</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-pag-iwas-sa-katotohanan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-pag-iwas-sa-katotohanan/</guid><description>&lt;p&gt;Ang pag-iwas sa katotohanan ay nangyayari kapag ang isang tao ay sadyang gumagamit ng malabong wika o wika na sadyang nagtatago ng katotohanan. Napakaraming nangyayari sa mundo ngayon at napakadalas din ng nangyayari sa ating komunidad.&lt;/p&gt;</description></item><item><title>Ang Pagkatakot sa Diyablo</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-pagkatakot-sa-diyablo/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-pagkatakot-sa-diyablo/</guid><description>&lt;p&gt;Karamihan sa mga relihiyon ay nagtataguyod ng pagkatakot sa diyablo. Ngunit ang kinakatakutan mo ay ang iyong sinasamba. Kung natatakot ka sa diyablo, kailangan lang niyang sabihin, &amp;ldquo;X ay masama!&amp;rdquo; at tatakbo ka mula sa X. Malinaw na, sisiguraduhin niya na kung ano ang iyong tinatakasan ay eksakto na kailangan mong harapin.&lt;/p&gt;</description></item><item><title>Ang Prinsipyo na Talikuran Lahat</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-prinsipyo-na-talikuran-lahat/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-prinsipyo-na-talikuran-lahat/</guid><description>&lt;p&gt;Mayroong isang prinsipyo sa mga bagay na espiritwal na natuklasan ng mga tao mula sa maraming pananampalataya. Tinatawag namin itong prinsipyo na &amp;ldquo;talikuran ang lahat&amp;rdquo;. Ngunit maaari itong mailarawan sa maraming paraan.&lt;/p&gt;</description></item><item><title>Ang Rebolusyon</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-rebolusyon/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-rebolusyon/</guid><description>&lt;p&gt;Ito ay isang pag-aaral sa Bibliya. Mangyaring tingnan ang mga talata.&lt;/p&gt;</description></item><item><title>Ang Regalo ng Propesiya</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-regalo-ng-propesiya/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-regalo-ng-propesiya/</guid><description>&lt;p&gt;Ang ilang pagkabahala ay mas nauunawaan, at mas tapat, kaysa sa iba.&lt;/p&gt;</description></item><item><title>Ang Tatak ng Halimaw</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-tatak-ng-halimaw/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-tatak-ng-halimaw/</guid><description>&lt;p&gt;Ang huling libro ng Bibliya ay pinangalangang Ang Pahayag ng mga protestante at Ang Apocalipsis ng mga Katoliko. Ito ay isang patulang paglalarawan sa labanan sa pagitan ng mabuti at ng masama, gumagamit ng napakaraming mga simbolo at nilalang upang ilarawan ang mensaheng ito.&lt;/p&gt;</description></item><item><title>Ang Tunay Na Konsensya</title><link>https://MgaKristiyanongHesus.github.io/blog/ang-tunay-na-konsensya/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ang-tunay-na-konsensya/</guid><description>&lt;p&gt;Agad kong napagtanto na dapat ako&amp;rsquo;y nabigo saanman sa aking mga pagtatangka na turuan ang mga tao na kilalanin at sundin kung ano ang tinatawag natin ang ating konsensya.&lt;/p&gt;</description></item><item><title>Badyet, Iskedyul at Listahan ng Mga Gawain</title><link>https://MgaKristiyanongHesus.github.io/blog/badyet-iskedyul-at-listahan-ng-mga-gawain/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/badyet-iskedyul-at-listahan-ng-mga-gawain/</guid><description>&lt;p&gt;Ang isa sa mga pinakamahusay na imbensyon sa kasaysayan ay ito na marahil ang pang-araw-araw na iskedyul. Ang mga relo (lalo na ang ang mga murang relo) ay dapat ang kasunod na pinakamahusay na imbensyon. Ginawa nilang posible para sa karamihan na maisaayos ang kanilang mga iskedyul, upang sila’y makarating sa isang lugar sa tamang oras.&lt;/p&gt;</description></item><item><title>Bakit May Labis na Pag-uusig?</title><link>https://MgaKristiyanongHesus.github.io/blog/bakit-may-labis-na-pag-uusig/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/bakit-may-labis-na-pag-uusig/</guid><description>&lt;p&gt;Sinipi ng sumusunod na artikulo si William Penn, isang sinaunang Quaker, alang-alang sa pag-uusig. Ang mga kasalukuyang Quaker ay lubos na iginagalang sa buong mundo; ngunit may panahon na sila, tulad ng mga Hesukristiyano, ay labis na pinag-usig dahil sa kanilang pananampalataya.&lt;/p&gt;</description></item><item><title>Balikan ang Oras</title><link>https://MgaKristiyanongHesus.github.io/blog/balikan-ang-oras/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/balikan-ang-oras/</guid><description>&lt;p&gt;Ang ating oras ay ang ating buhay. Kapag binigay mo ang iyong oras sa isang tao o bagay, ibinibigay mo ang iyong buhay. Kapag nagsasayang ka ng oras, sinisira mo ang iyong buhay. Kapag ginamit mo nang maayos ang oras, ginagamit mo nang maayos ang iyong buhay.&lt;/p&gt;</description></item><item><title>Dumating Nawa ang Iyong Kaharian</title><link>https://MgaKristiyanongHesus.github.io/blog/dumating-nawa-ang-iyong-kaharian/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/dumating-nawa-ang-iyong-kaharian/</guid><description>&lt;p&gt;Habang ang mga tao may seryosong pagkabahala para sa kalagayan ng planetang ito, ang pagbabalik ni Kristo ay nagbibigay sa ating ng pag-asa.&lt;/p&gt;</description></item><item><title>Hula sa Panahon ng Pagtatapos at ang Pahayag ni JesuKristo</title><link>https://MgaKristiyanongHesus.github.io/blog/hula-sa-panahon-ng-pagtatapos-at-ang-pahayag-ni-jesukristo/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/hula-sa-panahon-ng-pagtatapos-at-ang-pahayag-ni-jesukristo/</guid><description>&lt;p&gt;Ang mga hulang nilalaman sa mga libro ng Daniel, Pahayag, at ng mga Ebanghelyo ay may maraming antas, bawat isa sa kanila ay balido; ngunit kung tiningnan lamang mula sa isang taimtim na adhikain na malaman at sundin ang katotohanan. Ang Pahayag ay isang integral na bahagi ng buong mensahe ng Diyos sa Bibliya, at ang susi sa pag-unawa sa libro ng Pahayag ay ang mga turo ni Jesus.&lt;/p&gt;</description></item><item><title>Isang Bagong Patakarang Pang-ekonomiya</title><link>https://MgaKristiyanongHesus.github.io/blog/isang-bagong-patakarang-pang-ekonomiya/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/isang-bagong-patakarang-pang-ekonomiya/</guid><description>&lt;p&gt;Gusto naming malaman ang mahahalagang pagkakaiba sa pagitan ng relihiyon ng Kristiyano at sa lahat ng iba pang mga relihiyon; sa pagitan ng bahagi ng Bibliya bago pa ipinanganak si Jesus, at ang bahagi pagkatapos siya ipinanganak, sa pagitan ng mga turo ni Jesus at ng mga turo ng lahat ng ibang pinuno ng relihiyon. Hindi kami interesado sa mga maliliit na pagkakaiba na pinagtatalunan ng karamihan. Hiniling namin sa Diyos na ipakita sa amin ang mahahalagang pagkakaiba, at ipinakita niya.&lt;/p&gt;</description></item><item><title>Isang Sulat sa Isang Kaibigan</title><link>https://MgaKristiyanongHesus.github.io/blog/isang-sulat-sa-isang-kaibigan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/isang-sulat-sa-isang-kaibigan/</guid><description>&lt;p&gt;Ang pananaw ng mga HesuKristiyano sa unibersalismo (kung saan hindi pananaw ng anumang Australyanong Quaker na kilala namin maliban sa aming sarili) ay na si Jesus ay paaanuman nagbigay kapangyarihan sa Diyos na magbigay ng unibersal na kaligtasan. Sa baba ay isang liham na aming sinulat sa isang konserbatibong mananampalataya na hinamon ang aming pag-aangkin na maaaring maligtas ang mga taong hindi kristiyano sa pamamagitan ng dugo ni Jesus (at ng biyaya mula sa Diyos) basta’t sila ay kumikilos sa lahat ng liwanag na mayroon nila.&lt;/p&gt;</description></item><item><title>Kalayaan, Panalangin, at Paulit-ulit na Ginagawang mga Kasalanan</title><link>https://MgaKristiyanongHesus.github.io/blog/kalayaan-panalangin-at-paulit-ulit-na-ginagawang-mga-kasalanan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/kalayaan-panalangin-at-paulit-ulit-na-ginagawang-mga-kasalanan/</guid><description>&lt;p&gt;Mayroon akong ilang iba&amp;rsquo;t ibang mga saloobin na nais kong ibahagi sa inyo, bawat isa ay malamang na karapat-dapat ng isang maikling artikulo sa sarili nito. Gayunpaman, hanggang sa o maliban na lang kung makakuha ako ng ilang bakanteng oras upang gawin ang mga ito bilang hiwalay na mga artikulo, isasama ko lang silang lahat sa liham na ito, dahil may isang karaniwang tema sa pagitan nila. Ang tema ay isang pagpapahayag lamang ng pag-aalala tungkol sa kung saan ang mga tao ay patungo sa espirituwal, lalo na sa sitwasyon na ang mga indibidwal na base ay nagsasarili na mula sa isa&amp;rsquo;t isa.&lt;/p&gt;</description></item><item><title>Kamangha-manghang Biyaya</title><link>https://MgaKristiyanongHesus.github.io/blog/kamangha-manghang-biyaya/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/kamangha-manghang-biyaya/</guid><description>&lt;p&gt;Madaling ipalagay na napakinggan na ng mga tao ang tungkol sa biyaya ng Diyos sa mga simbahan. Ngunit sa masusing pagsisiyasat, tila na ang mga simbahan mismo ay hindi naniniwala sa ipinangangaral nilang ebanghelyo.&lt;/p&gt;</description></item><item><title>Kami'y Tama at Sila'y Mali</title><link>https://MgaKristiyanongHesus.github.io/blog/kamiy-tama-at-silay-mali/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/kamiy-tama-at-silay-mali/</guid><description>&lt;p&gt;Sa loob ng aming komunidad, sinusubukan naming gamitin ang Gintong Panuntunan &amp;ndash; pagsukat sa ating mga kilos sa pamamagitan ng parehong mga prinsipyo na ginagamit namin para sa pagsukat sa mga kilos ng aming mga kaaway, at bise bersa. Kaya kung, halimbawa, gusto namin ng kalayaan na ipamahagi ang aming mga panitikan, kung gayon naniniwala kami na dapat magkaroon sila ng parehong kalayaan. Kung mali para sa kanila na gumawa ng dibisyon sa aming mga ranggo, kung gayon hindi kami dapat na sadyang magtakda na gumawa ng dibisyon sa kanilang mga ranggo. At iba pa.&lt;/p&gt;</description></item><item><title>Karakter</title><link>https://MgaKristiyanongHesus.github.io/blog/karakter/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/karakter/</guid><description>&lt;p&gt;Ano ang nangyari sa huwaran nang pagkakaroon ng mabuting moral na karakter?&lt;/p&gt;</description></item><item><title>Karunungan</title><link>https://MgaKristiyanongHesus.github.io/blog/karunungan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/karunungan/</guid><description>&lt;p&gt;May ilang mga kwentong pambata kung saan may isang taong nakakuha ng isa o higit pang hiling, at pagkatapos ay sinayang nila ito sa mga bagay na hindi nagdudulot ng kaligayahan. Katulad ng mga kwentong iyon ang nangyari kay Solomon na binigyan siya ng Diyos ng isang hiling. (&lt;a href="http://www.biblegateway.com/passage/index.php?search=2&amp;#43;Chronicles&amp;#43;1%3A7-12;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read 2 Chronicles 1:7-12"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;2 Chronicles 1:7-12&lt;/a&gt;) Ito ay hindi gaanong naiiba sa mga fairy tale, maliban na ang isang ito ay may tunog ng katotohanan. Isang pribilehiyo na mabigyan tayo ng Diyos ng isang hiling! Matalino si Solomon upang humiling ng karunungan.&lt;/p&gt;</description></item><item><title>Kasing Tigas ng Isang Bato</title><link>https://MgaKristiyanongHesus.github.io/blog/kasing-tigas-ng-isang-bato/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/kasing-tigas-ng-isang-bato/</guid><description>&lt;p&gt;Hindi madali para sa mga tao na bumuo ng isang kaso laban sa amin at sa aming mga aral dahil sa isang napakahalagang kadahilanan: Itinayo namin ang aming pananampalataya sa pinaka matibay na pundasyon na maaaring piliin ng sinuman para sa anumang relihiyon.&lt;br&gt;
+ &lt;br&gt;
+Sinabi ni Hesus na “ang sinumang makarinig sa mga salitang ito at sumunod sa mga ito ay magiging tulad ng isang pantas na nagtatayo ng kanyang bahay sa isang malaking bato. Kapag dumating ang mga bagyo at tumama sa bahay na iyon, hindi ito babagsak.” (&lt;a href="http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;7%3A24-25;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read Matthew 7:24-25"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Matthew 7:24-25&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>Kaya Gusto Mong Magsimula ng Iyong Sariling Ministeryo?</title><link>https://MgaKristiyanongHesus.github.io/blog/kaya-gusto-mong-magsimula-ng-iyong-sariling-ministeryo/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/kaya-gusto-mong-magsimula-ng-iyong-sariling-ministeryo/</guid><description>&lt;p&gt;Madalas sumulat sa amin ang mga tao na hindi nasisiyahan sa nakikita nila sa mga simbahan ngayon, kaya gusto nilang magsimula ng kanilang sariling ministeryo.&lt;/p&gt;</description></item><item><title>Kristiyanong Siyensya</title><link>https://MgaKristiyanongHesus.github.io/blog/kristiyanong-siyensya/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/kristiyanong-siyensya/</guid><description>&lt;p&gt;Sa librong Life After Life, isang doktor ang nag-iinterbyu sa daang-daang mga tao na klinikal na namatay at pagkatapos ay muling nabuhay. Napuna niya ang isang bilang ng mga pattern sa kanilang mga karanasan. Isa sa mga pattern na ito ay ang malawak na paniniwala ng karamihan sa mga taong ito habang sila ay namamatay na ang kung ano talagang mahalaga sa buhay ay hindi sa kung gaano karaming pera ang iyong nakikita, ngunit sa kung gaano mo minamahal ang iba at kung gaano ka natututo.&lt;/p&gt;</description></item><item><title>Liham Mula sa isang Taong Tumatalikod</title><link>https://MgaKristiyanongHesus.github.io/blog/liham-mula-sa-isang-taong-tumatalikod/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/liham-mula-sa-isang-taong-tumatalikod/</guid><description>&lt;p&gt;Tumitingin ako ng ilang lumang papeles nung minsan, at aking nakita ito, ipinadala mula sa isang miyembro ng mga HesuKristiyano noong umiiral pa kami bilang isang komunidad. Dumating ito pagkatapos ang taong ito ay dumaan sa isang panahon kung saan nararamdaman na hindi s’ya kampante at nabalisa sa kung paano ginagawa ang mga bagay. Pakiramdam ko ipinahayag niya nang mabuti ang ilan sa mga isyu na dapat harapin ng isa sa gayong mga pagkakataon.&lt;/p&gt;</description></item><item><title>Mabuhay sa Pananalig</title><link>https://MgaKristiyanongHesus.github.io/blog/mabuhay-sa-pananalig/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mabuhay-sa-pananalig/</guid><description>&lt;p&gt;Ito ang pangatlo sa isang serye ng mga artikulo tungkol sa pagkakaiba-iba ng doktrina sa pagitan namin at ng The Family. Ang unang dalawang artikulo ay ang &amp;ldquo;Simpleng Kaligtasan&amp;rdquo; at &amp;ldquo;Walang Hanggang Kaligtasan&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Mabuhay sa Pananalig - Paano Ito Gawin</title><link>https://MgaKristiyanongHesus.github.io/blog/mabuhay-sa-pananalig---paano-ito-gawin/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mabuhay-sa-pananalig---paano-ito-gawin/</guid><description>&lt;p&gt;Tinuruan ni Jesukristo ang mga tao na huwag isipin kung paano pakanin at damitan ang kanilang sarili (&lt;a href="http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;6%3A25-32;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read Matthew 6:25-32"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Matthew 6:25-32&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Mga Alipin ng Antikristo</title><link>https://MgaKristiyanongHesus.github.io/blog/mga-alipin-ng-antikristo/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mga-alipin-ng-antikristo/</guid><description>&lt;p&gt;Ang serye ng Left Behind ay nakakainspire, iyan na ito ang nakakapag-isip sa mga tao na isipin ang tungkol sa seryosong mga sitwasyong na may kinalaman sa buhay at kamatayan. Gayunman, madalas itong nagpapalagay na, kahit nahaharap sa mga panahon ng kagipitan, ang buhay para sa mga Amerikanong Kristiyanong fundamentalist ay magsesentro sa parehong mga pagpapahalaga at layunin na sumasakop sa kanilang mga buhay hanggang ngayon. Sa ibang salita, ang mga tao ay mananatiling sumisimba bawat Linggo at naghahanap buhay sa mga natitirang araw ng isang linggo, sa gitna ng Pagsubok at lahat nilalaman nito. Magkakaroon pa rin sila ng sapat na salapi, at sila ay lilipad pa rin saanman sa mundo sa gusto nila. Wala sa libro ang nababanggit tungkol sa kondisyon ng mahihirap na Kristiyano. Ang materyalistikong pilosopiyang ito ay isinagawa sa panahon (sa kwento) kung saan ang mga tao ay dapat na seryosong ikonokonsidera kung ang kanilang mga pagpapahalaga na kanilang isinabuhay bago na nangyari ang pagsubok ay talagang tama.&lt;/p&gt;</description></item><item><title>Mga Himala</title><link>https://MgaKristiyanongHesus.github.io/blog/mga-himala/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mga-himala/</guid><description>&lt;p&gt;Kung naiintindihan mo kung paano gumagana ang isang himala, himala pa rin ba ito? Kung magagawa ko ang isang bagay na hindi mo maipaliwanag, ginagawa ba ako nitong mas mahigit sa iyo ng espirituwal? Ano ba talaga ang isang himala? Ang mga ito ay iilan sa mga katanungan na nagpagulo sa akin habang sinubukan kong maunawaan kung ano ang dapat kong posisyon tungkol sa supernatural.&lt;/p&gt;</description></item><item><title>Mga Magagaan na Doktrina</title><link>https://MgaKristiyanongHesus.github.io/blog/mga-magagaan-na-doktrina/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mga-magagaan-na-doktrina/</guid><description>&lt;p&gt;Karamihan sa mga tao ay nagtataka minsan sa dami ng magkakaiba at magkakasalungat na mga doktrina na umiikot sa mundo sa ngalan ng Diyos. Ang relihiyon ay isang tambak ng magkakasalungat na pahayag, isang masukal na gubat para sa karamihan ng mga edukadong tao sa panahong ito upang ituring na kanlungan. Sa sandaling nagkaroon tayo ng sapat na talino upang suriin ang kahit dalawang iglesia o relihiyon nang magkatabi, makikita natin ang sapat na mga kontradiksyon upang malaman na alinman sa kanila ay hindi maaaring maging tama. At sa oras na dumaan tayo sa tatlo o apat, isang pagdududa ang nagsisimulang lumitaw na ang alinman sa kanila ay maaaring maging tama.&lt;/p&gt;</description></item><item><title>Mga Pagpupulong ng Panalangin</title><link>https://MgaKristiyanongHesus.github.io/blog/mga-pagpupulong-ng-panalangin/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mga-pagpupulong-ng-panalangin/</guid><description>&lt;p&gt;(Ito ay isang pag-aaral sa Bibliya, kaya kailangan mong hanapin ang mga sanggunian sa mga panaklong kung gusto mong makuha ang buong kahulugan ng artikulong ito.)&lt;/p&gt;</description></item><item><title>Mga Palatandaan ng Mga Panahon</title><link>https://MgaKristiyanongHesus.github.io/blog/mga-palatandaan-ng-mga-panahon/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mga-palatandaan-ng-mga-panahon/</guid><description>&lt;p&gt;&lt;strong&gt;Digmaan at Kapayapaan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ang mga digmaan ay ang pinaka karaniwang patunay naibigay na ang katapusan ng mundo ay papalapit na. Ngunit nabanggit ang mga ito nang espisipiko ni Kristo bilang patunay na ang katapusan ay hindi pa nadating: “Makakarinig kayo ng mga digmaan at mga bali’ balita ng mga digmaan. Ngunit huwag kayong mababahala dahil talagang mangyayari ang mga iyon, bagama&amp;rsquo;t hindi pa iyon ang katapusan ng mundo.” (&lt;a href="http://www.biblegateway.com/passage/index.php?search=Matthew&amp;#43;24%3A6;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read Matthew 24:6"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Matthew 24:6&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>Mga Panakip sa Ulo</title><link>https://MgaKristiyanongHesus.github.io/blog/mga-panakip-sa-ulo/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mga-panakip-sa-ulo/</guid><description>&lt;p&gt;Nagkaroon ng mga buong denominasyon na nahati sa iba&amp;rsquo;t ibang interpretasyon ng isang kabanata ng Bibliya, kung saan ito ay: &lt;a href="http://www.biblegateway.com/passage/index.php?search=1&amp;#43;Corinthians&amp;#43;11;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read 1 Corinthians 11"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;1 Corinthians 11&lt;/a&gt;. Ito ang kabanata na tumatalakay sa mga kababaihan na nagtatakip ng kanilang mga ulo kapag sila’y nananalangin.&lt;/p&gt;</description></item><item><title>Mga Pumipiga sa Baba</title><link>https://MgaKristiyanongHesus.github.io/blog/mga-pumipiga-sa-baba/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/mga-pumipiga-sa-baba/</guid><description>&lt;p&gt;Ilan sa amin ang pumipiga ng toothpaste mula sa gitna, at ang ilan ay pumipiga mula sa ilalim. Gusto ng mga pumupiga sa baba na sundin ng mundo ang kanilang halimbawa; ngunit ang mga pumipiga sa gitna ay nangangatuwiran na ang gayong pagkahumaling sa kaayusan ay lumalabag sa kanilang indibidwalidad na kusang-loob.&lt;/p&gt;</description></item><item><title>Nasisira Ang Lahat ng Kapangyarihan</title><link>https://MgaKristiyanongHesus.github.io/blog/nasisira-ang-lahat-ng-kapangyarihan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/nasisira-ang-lahat-ng-kapangyarihan/</guid><description>&lt;p&gt;Ang siping ito na nagmula sa British historyador at moralistang noong ika-19 Siglo, si John Acton, ay ang isa na kung saan ako’y naging interesado at aking dinala sa buong buhay ko. Bilang isang binata, aking nadama na ito ay masyadong mapang-uyam, at hindi nito pinahihintulutan ang kabutihan na nasa loob ng mga tao. Isang dahilan para sa aking pagtanggi sa sipi ay maaari na hindi ko napansin na ang mga salitang &amp;ldquo;may posibilidad na masira&amp;rdquo; ay naging parte ng sipi, kaya aking inakala na ito ay isang ganap na pahayag (tulad ng ipinahayag sa pamagat ng artikulong ito).&lt;/p&gt;</description></item><item><title>No Pain No Gain</title><link>https://MgaKristiyanongHesus.github.io/blog/no-pain-no-gain/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/no-pain-no-gain/</guid><description>&lt;p&gt;Sa mga unang taon ng aming komunidad, kaming lahat ay aktibong lumalahok sa mga fun runs. Ang mga mas seryosong atleta ay madalas na sinasabi, “No pain, no gain”. Minsan namangha ako sa tindi ng disiplina ng ilang mga atleta upang maging mahusay sa kanilang isport. Araw-araw ay ginugugol nila ang maraming oras sa paghubog ng kanilang pisikal na lakas, bilis, at tibay. Upang maging mahusay, kinailangan nilang makalampas sa tinatawag na &amp;ldquo;the pain barrier&amp;rdquo;. Ngunit kapag nagtagumpay sila, lalabas sila sa kabilang bahagi bilang mga nagwagi.&lt;/p&gt;</description></item><item><title>Ngiti, Mahal Ka ng Diyos!</title><link>https://MgaKristiyanongHesus.github.io/blog/ngiti-mahal-ka-ng-diyos/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/ngiti-mahal-ka-ng-diyos/</guid><description>&lt;p&gt;Mayroong mas malaking kasalanan kaysa sa pagsuway sa Diyos; ito’y ang kasalanan ng hindi naniniwala na mahal ka niya.&lt;/p&gt;</description></item><item><title>Pag-aaral Upang Mag-aral</title><link>https://MgaKristiyanongHesus.github.io/blog/pag-aaral-upang-mag-aral/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pag-aaral-upang-mag-aral/</guid><description>&lt;p&gt;&lt;em&gt;Mag-aral ka upang maging kalugud-lugod sa paningin ng Diyos, isang manggagawa na walang dapat ikahiya, na wastong hinahati ang salita ng katotohanan.&amp;quot;&lt;/em&gt; (&lt;a href="http://www.biblegateway.com/passage/index.php?search=2&amp;#43;Timothy&amp;#43;2%3A15;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read 2 Timothy 2:15"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;2 Timothy 2:15&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>Pag-aaral Upang Makita</title><link>https://MgaKristiyanongHesus.github.io/blog/pag-aaral-upang-makita/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pag-aaral-upang-makita/</guid><description>&lt;p&gt;**Unang Bahagi&lt;br&gt;
+**&lt;br&gt;
+&amp;ldquo;Kung hindi makikita ng mga tao kung saan sila patungo, sila’y masasasawi.&amp;rdquo; (&lt;a href="http://www.biblegateway.com/passage/index.php?search=Proverbs&amp;#43;29%3A18;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read Proverbs 29:18"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Proverbs 29:18&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>Pag-aayuno nang Hindi Tumitigil</title><link>https://MgaKristiyanongHesus.github.io/blog/pag-aayuno-nang-hindi-tumitigil/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pag-aayuno-nang-hindi-tumitigil/</guid><description>&lt;p&gt;Ang ganitong uri (ng demonyo) ay hindi lalabas, maliban sa pamamagitan ng pagdarasal at ng pag-aayuno. ([Matthew 17:14-21][28]).&lt;/p&gt;</description></item><item><title>Pag-asa</title><link>https://MgaKristiyanongHesus.github.io/blog/pag-asa/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pag-asa/</guid><description>&lt;p&gt;Dumalo ako sa isang simbahang pagpupulong kahapon, at ang pagbasa sa Bibliya noon ay ang pangako mula sa Lumang Tipan na hindi hahayaan ng Diyos ang isa sa kanyang matutuwid na lingkod na higit pa sa masaktan ang kanilang mga paa sa isang bato. Kung siya’y nahulog, ipinangako ng sipi na ang Diyos ay magpapagala ng isang anghel upang alalayan siya. Tila hindi nakikita ng kongregasyon ang anumang kontradiksyon (o kahit isang ugnayan) sa katotohanan na ang pagbabasa ay naunahan ng isang anunsyo na ang pastor ay hindi naroon sapagkat siya’y nahulog sa likod ng kanyang sasakyan, at lubhang nasugatan ang kanyang galanggalangan. Maliban sa malinaw na katatawanan ng sitwasyon iyon, narito ang madalas na di-pinapansing kontradiksyon na ang ilan sa mga bagay na nababasa natin sa Bibliya ay tila hindi sumusukat sa ating pang-araw-araw na mga karanasan.&lt;/p&gt;</description></item><item><title>Pagkakataong Magnilay Habang Walang Tumutuligsa</title><link>https://MgaKristiyanongHesus.github.io/blog/pagkakataong-magnilay-habang-walang-tumutuligsa/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pagkakataong-magnilay-habang-walang-tumutuligsa/</guid><description>&lt;p&gt;Ang artikulong ito ay isang pagpapatuloy ng isang paksa na madalas na lumalabas sa nakalipas na ilang taon. Tinatalakay nito ang dilemma na umiiral kapag ang isang pinuno (o ang komunidad sa kabuuan) ay nakatagpo ng isang tao na nagpapakita ng ilang espiritwal na pahiwatig na magaganda, ngunit nagpapakita rin ng isang atubili na harapin ang isang partikular na kahinaan o pagkakamali. Ang aming tradisyunal na paraan ay kumuha ng karaingan sa nagkasala, at isulong ang karaingan mula sa unang yugto hanggang sa pangalawa, hanggang sa ikatlo, at sa wakas ay paalisin siya sa komunidad kung ipagpapatuloy niya ang kanilang pagtanggi na harapin ang pagkakasala. Ang proseso ay nasa Kasulatan at kapaki-pakinabang.&lt;/p&gt;</description></item><item><title>Pagtatalikod sa Iyong Mga Magulang</title><link>https://MgaKristiyanongHesus.github.io/blog/pagtatalikod-sa-iyong-mga-magulang/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pagtatalikod-sa-iyong-mga-magulang/</guid><description>&lt;p&gt;Ang isa sa mga dahilan kung bakit hindi tayo gaanong nagtuturo tungkol sa pagtalikod sa mga magulang ay dahil ito ay isang bagay na ginagawa lang natin sa praktical, higit pa sa aktwal na itinuturo namin ito theoretically. Tinalikuran namin ang aming mga magulang sa pamamagitan lamang ng pamumuhay na magkakasama, seven days a week. Ang mga kabataan na biglang nag-decide na sumali sa isang komunidad na tulad namin (pagkatapos tumira kasama ang kanilang mga magulang) ay &amp;ldquo;tinalikuran&amp;rdquo; ang relasyon na mayroon sila sa bahay bilang isang natural na resulta ng pagpili na tumira sa amin. Ito ay hindi gaanong naiiba sa kung ano ang nangyayari kapag ang isang tao ay umalis sa bahay upang magpakasal, lumipat sa isang apartment nang solo, lumipat sa isang student accommodation sa isang unibersidad, o maglakbay o mag-abroad.&lt;/p&gt;</description></item><item><title>Pakikinig sa Bagay na Ayaw Nating Pakinggan</title><link>https://MgaKristiyanongHesus.github.io/blog/pakikinig-sa-bagay-na-ayaw-nating-pakinggan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pakikinig-sa-bagay-na-ayaw-nating-pakinggan/</guid><description>&lt;p&gt;Ang nais sabihin ng araling ito ay napakahalaga na ito’y halos isang pangunahing kinakailangan para sa pananampalataya. At gayunman ito’y tila napakabihira (at napakahirap ipabatid) na halos hindi ito umiiral sa mundo ngayon.&lt;/p&gt;</description></item><item><title>Pamumuhay sa Isang Komunidad</title><link>https://MgaKristiyanongHesus.github.io/blog/pamumuhay-sa-isang-komunidad/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pamumuhay-sa-isang-komunidad/</guid><description>&lt;p&gt;Lagi kong pinaniwalaan na ang pamumuhay sa isang komunidad (tulad ng ginagawa namin, at ng ginawa ng sinaunang mga Kristiyano) ay medyo opsyonal. Hindi ito iniutos (sa napakaraming salita) sa kung ano ang itinuro ni Jesus, kahit malinaw na siya at ang kanyang mga disipulo ay namuhay nang magkasama, lumakbay nang magkasama, at nagkaroon ng isang supot kung saan doon inilagay ang kanilang mga salapi. Matibay kong naramdaman ang tungkol sa mga espirituwal na mga benepisyo ng gayong pamumuhay; ngunit hindi ko lamang naisip na mayroong isang kaso na gawin itong lubusang esensyal.&lt;/p&gt;</description></item><item><title>Pasanin ang Press at Sumunod sa Akin</title><link>https://MgaKristiyanongHesus.github.io/blog/pasanin-ang-press-at-sumunod-sa-akin/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/pasanin-ang-press-at-sumunod-sa-akin/</guid><description>&lt;p&gt;Matagal nang umiiral ang sekular na media. Bago pa ang mga pahayagan at telebisyon ito ay ang hindi gaanong maaasahang salita-ng-bibig. Ito ay ang sekular na midyum na ito ang nagpako kay Jesus. Ang parehong grupo ng mga tao na sumigaw ng &amp;ldquo;Hosanna!&amp;rdquo; sa isang linggo ay sumisigaw ng &amp;ldquo;Ipako siya sa krus!&amp;rdquo; sa kasunod.&lt;/p&gt;</description></item><item><title>Reality sa Utopia</title><link>https://MgaKristiyanongHesus.github.io/blog/reality-sa-utopia/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/reality-sa-utopia/</guid><description>&lt;p&gt;Ang Utopia ay isang perpektong mundo na hindi umiiral. Madalas iniiwan ng mga taong naghahanap ng ganoong lugar ang mga ideyal nang mabigo nilang hanapin ito.&lt;/p&gt;</description></item><item><title>Sabihin Lang Ito</title><link>https://MgaKristiyanongHesus.github.io/blog/sabihin-lang-ito/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/sabihin-lang-ito/</guid><description>&lt;p&gt;Wala talagang masama sa ano ang sinasabi ng &amp;ldquo;panalangin ng makasalanan&amp;rdquo;, kahit na madalas namin itong supilin noong nakaraan. At ang pagkuha sa mga tao na talagang sabihin ang mga bagay na nasabi sa panalangin ng makasalanan ay isang napakabuting ehersisyo. Hinihiling ko lang na maaari nating kuhanin sila na tuluyang sabihin ang mga bagay na iyon. Ang aming reklamo tungkol sa panalangin ay kadalasang madalas ito ginagawa nang isang beses, na nagpapalaya sa mga tao mula sa patuloy na paglago sa kanilang pananampalataya.&lt;/p&gt;</description></item><item><title>Sentido sa Seks</title><link>https://MgaKristiyanongHesus.github.io/blog/sentido-sa-seks/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/sentido-sa-seks/</guid><description>&lt;p&gt;Ang mga opinyon, mga karanasan, mga kaugalian, at mga paniniwala tungkol sa seks ay sobrang naiiba na halos walang masasabi nang dogmatika sa paksa. Gayunman ito ay isang aspekto kung saan umiiral ang mga dogma… mula sa mahigpit na relihiyosong mga dogma hanggang sa maatim na mga dogmang liberal (hal. “Walang masama kung ito ay nakakapag-bigay ginhawa sa iyo”)&lt;/p&gt;</description></item><item><title>Simpleng Kaligtasan</title><link>https://MgaKristiyanongHesus.github.io/blog/simpleng-kaligtasan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/simpleng-kaligtasan/</guid><description>&lt;p&gt;Mga Detalye&lt;br&gt;
+Nilikha noong Setyembre 07, 1996&lt;/p&gt;
+&lt;p&gt;Ang isang miyembro ng The Family (dating The Children of God) ay nagkomento na nahihirapan siyang maintindihan kung paano namin maituturing silang mga erehe at ang aming matatalik na kaibigan nang sabay. Ang erehe ay hindi isang salita na pipiliin namin, sapagkat mayroon itong labis na emosyonal na paghatol na nakakabit dito. Ngunit totoo na mayroon kaming pagkakaiba, sa parehong oras na marami tayong pagkakapareho; at pinaghirapan din namin na maunawaan ang kabalintunaan. Ang sumusunod na limang artikulo ay ihinahambing ang aming pagkakatulad at pagkakaiba sa isang bilang ng mga aral.&lt;/p&gt;</description></item><item><title>Subukan Ang Mga Espiritu</title><link>https://MgaKristiyanongHesus.github.io/blog/subukan-ang-mga-espiritu/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/subukan-ang-mga-espiritu/</guid><description>&lt;p&gt;Maraming pagkakataon kung saan dapat nating hatulan ang ibang tao, at sabihin kung naniniwala tayo na sila ay tama o kung naniniwala tayo na sila ay mali.&lt;/p&gt;</description></item><item><title>Talikuran Lahat</title><link>https://MgaKristiyanongHesus.github.io/blog/talikuran-lahat/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/talikuran-lahat/</guid><description>&lt;p&gt;(Ang artikulong ito ay nagmula sa The Family, bagaman na-edit ito nang bahagya.)&lt;/p&gt;</description></item><item><title>The Day The Earth Stood Still</title><link>https://MgaKristiyanongHesus.github.io/blog/the-day-the-earth-stood-still/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/the-day-the-earth-stood-still/</guid><description>&lt;p&gt;Sa aming paglipad pabalik sa Sydney mula sa Kenya noong wikend, nanood kami ni Cherry ng isang pelikulang tinatawag na &amp;ldquo;The Day the Earth Stood Still&amp;rdquo; (isang muling paggawa ng isang pelikulang unang pinalabas noong nakalipas na mga dekada). Ako ay lubos na humanga dito sa ilang paraan.&lt;/p&gt;</description></item><item><title>Tiyak, Hindi Lahat ng Kasamaan</title><link>https://MgaKristiyanongHesus.github.io/blog/tiyak-hindi-lahat-ng-kasamaan/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/tiyak-hindi-lahat-ng-kasamaan/</guid><description>&lt;p&gt;Sumulat si San Pablo ng isang liham sa isang batang Kristiyano, at sinabi niya na ang ugat ng lahat ng kasamaan ay ang pag-ibig sa pera. (&lt;a href="http://www.biblegateway.com/passage/index.php?search=1&amp;#43;Timothy&amp;#43;6%3A10;&amp;amp;version=50;&amp;amp;interface=print"
+
+
+ title="Read 1 Timothy 6:10"
+
+
+
+ target="_blank"
+ 
+
+
+&gt;1 Timothy 6:10&lt;/a&gt;) Ito ay isang kamangha-manghang pahayag.&lt;/p&gt;</description></item><item><title>Walang Anumang Dungis</title><link>https://MgaKristiyanongHesus.github.io/blog/walang-anumang-dungis/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/walang-anumang-dungis/</guid><description>&lt;p&gt;Sa susunod na artikulo, ang mga Hesukristyano ay kumukuha ng isang paboritong sipi ng mga Quaker na nagmumula sa banal na kasulatan (tungkol sa &amp;lsquo;paglalakad sa liwanag&amp;rsquo;) at pinagsama ito sa ilan sa mga paboritong ebanghelikal na mga kasulatan tungkol sa &amp;lsquo;kaligtasan&amp;rsquo;, upang ipakita kung ano ang paboritong turo ng mga Hesukristiyano&amp;hellip; tungkol sa katapatan. Sumusunod ang ilang artikulo na binibigyang-diin din ang pangangailangang maging tapat sa kagustuhan sa anumang kahilingang teolohiko. Ang ganitong inclusivism ay karaniwan sa mga Quaker at mga Hesukristiyano.&lt;/p&gt;</description></item><item><title>Walang Mga Apo ang Diyos</title><link>https://MgaKristiyanongHesus.github.io/blog/walang-mga-apo-ang-diyos/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/walang-mga-apo-ang-diyos/</guid><description>&lt;p&gt;Hindi natin kailangang maging perpekto upang tanggapin tayo ng Diyos. Ngunit kailangan nating maging orihinal.&lt;/p&gt;</description></item><item><title>Walong Paraan Upang Malaman ang Kalooban ng Diyos</title><link>https://MgaKristiyanongHesus.github.io/blog/walong-paraan-upang-malaman-ang-kalooban-ng-diyos/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/blog/walong-paraan-upang-malaman-ang-kalooban-ng-diyos/</guid><description>&lt;p&gt;Walang partikular na nanggagaling sa mga Quaker ang artikulong ito, maliban kung ito ay maaaring nauugnay sa konsepto ng tahimik na pagsamba, kung saan ang mga Quaker ay naniniwala na ang Diyos ay maaaring makipag-usap sa mga tao.&lt;/p&gt;</description></item><item><title>John Doe</title><link>https://MgaKristiyanongHesus.github.io/authors/john-doe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/authors/john-doe/</guid><description>&lt;p&gt;Doesn&amp;rsquo;t Exist&lt;/p&gt;</description></item><item><title>Karaniwang Mga Tanong</title><link>https://MgaKristiyanongHesus.github.io/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/faq/</guid><description>&lt;h3 id="karaniwang-mga-tanong"&gt;Karaniwang Mga Tanong&lt;/h3&gt;
+
+
+
+
+
+
+ 
+
+
+
+&lt;div class="accordion "&gt;
+ &lt;button class="accordion-header " data-accordion&gt;
+ Meron ba kayong simbahan?
+ &lt;svg
+ class="accordion-icon"
+ x="0px"
+ y="0px"
+ viewBox="0 0 512 512"
+ xmlspace="preserve"&gt;
+ &lt;path
+ fill="currentColor"
+ d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;div class="accordion-content "&gt;
+ &lt;p&gt;SAGOT:
+Depende ito sa kung ano ang ibig mong sabihin sa &amp;ldquo;simbahan&amp;rdquo;. Kung ang ibig mong sabihin ay isang gusaling simbahan, kung gayon, hindi wala kaming isang &amp;lsquo;simbahan&amp;rsquo;. Iyon ay dahil naniniwala kami na ang mga taos-pusong tao AY ang simbahan at na ang mga Kristiyano ay dapat mamuhay sa komunidad 24/7, na nagbabahagi ng lahat ng meron nila tulad ng ginawa ng mga unang Kristiyano. Ang mga gusali ay madalas na nakakapag-distrak sa mga tao mula sa pag-unawa nito.&lt;/p&gt;</description></item><item><title>Mga Comics</title><link>https://MgaKristiyanongHesus.github.io/comics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/comics/</guid><description>&lt;h2 id="mga-comics"&gt;Mga Comics&lt;/h2&gt;
+&lt;br&gt;
+&lt;h5 id="a-new-reality---tagalog-edition"&gt;A New Reality - (Tagalog Edition)&lt;/h5&gt;
+
+ &lt;a href="https://drive.google.com/file/d/10CRyeOIauy9Yfzze7_dCkOm_Qnjln_Ry/view?usp=drive_link" target="_blank"&gt;
+ &lt;img src="https://MgaKristiyanongHesus.github.io/images/comics/ANRCover_hu_1210fb8fa12df45a.webp" alt="A New Reality" class=""&gt;
+ &lt;/a&gt;
+
+&lt;h5 id="far-from-ordinary"&gt;Far From Ordinary&lt;/h5&gt;
+
+ &lt;a href="https://drive.google.com/file/d/1KPZtohIqp7sypJe_eSWhgSS_hPXxUy7V/view?usp=sharing" target="_blank"&gt;
+ &lt;img src="https://MgaKristiyanongHesus.github.io/images/comics/FARFrom_hu_f73a2b40ee31b8c3.webp" alt="Far From Ordinary Magazine" class=""&gt;
+ &lt;/a&gt;
+
+&lt;br&gt;
+&lt;h5 id="liberated-poverty---tagalog-edition"&gt;Liberated Poverty - (Tagalog Edition)&lt;/h5&gt;
+
+ &lt;a href="https://drive.google.com/file/d/1gQvalDjfIXB5Ei-NQ7g2Fs_8STKYvbdf/view?usp=drive_link" target="_blank"&gt;
+ &lt;img src="https://MgaKristiyanongHesus.github.io/images/comics/LIBPov_hu_473e9560b82ed2f2.webp" alt="Liberated Poverty" class=""&gt;
+ &lt;/a&gt;
+
+&lt;br&gt;
+&lt;h5 id="this-is-how-it-ends---tagalog-edition"&gt;This is How it Ends - (Tagalog Edition)&lt;/h5&gt;
+
+ &lt;a href="https://drive.google.com/file/d/145YgKT6eakWy0lx5CZh7LQcPFCGIW1TZ/view?usp=drive_link" target="_blank"&gt;
+ &lt;img src="https://MgaKristiyanongHesus.github.io/images/comics/THISishow_hu_22597917f33d2417.webp" alt="This is How it Ends" class=""&gt;
+ &lt;/a&gt;
+
+&lt;br&gt;
+&lt;h5 id="malaking-problema-madaling-solusyon"&gt;Malaking Problema Madaling Solusyon&lt;/h5&gt;
+
+ &lt;a href="https://drive.google.com/file/d/19XSOQP7d_phLLQ0fTa7kQOBHH9uuE2hN/view?usp=drive_link" target="_blank"&gt;
+ &lt;img src="https://MgaKristiyanongHesus.github.io/images/comics/BIGTrob_hu_85b01d3eb44bf7f6.webp" alt="Big Trouble, Easy Solution" class=""&gt;
+ &lt;/a&gt;
+
+&lt;br&gt;
+&lt;h5 id="ang-tagapagpalaya"&gt;Ang Tagapagpalaya&lt;/h5&gt;
+
+ &lt;a href="https://drive.google.com/file/d/1-YkCEnOJOX4Fw63SD8dKi89XPZmq_sCh/view?usp=drive_link" target="_blank"&gt;
+ &lt;img src="https://MgaKristiyanongHesus.github.io/images/comics/ANGTaga_hu_6c004ea3c77e8b2c.webp" alt="Ang Tagapagpalaya" class=""&gt;
+ &lt;/a&gt;
+
+&lt;br&gt;
+&lt;h5 id="isang-bangong-patakaran-sa-ekonomica"&gt;Isang Bangong Patakaran Sa Ekonomica&lt;/h5&gt;
+
+ &lt;a href="https://drive.google.com/file/d/1gZtSu9z0ZngyDhHu-ujHmNJNroZpuF-w/view?usp=drive_link" target="_blank"&gt;
+ &lt;img src="https://MgaKristiyanongHesus.github.io/images/comics/NEWEco_hu_d23c83d3b408be2f.webp" alt="New Economic Policy" class=""&gt;
+ &lt;/a&gt;
+
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1ZkytQ_FQjm6vS-ZTu73vovcbFJAX20U4/view?usp=sharing"
+
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Alamin kung paano i-print ang NEP sa iyong sarili sa pamamagitan ng pag-click dito.&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Ready to build your next project with Hugo?</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sam Wilson</title><link>https://MgaKristiyanongHesus.github.io/authors/sam-wilson/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/authors/sam-wilson/</guid><description>&lt;p&gt;Doesn&amp;rsquo;t Exist&lt;/p&gt;</description></item><item><title>What Users Are Saying About Hugoplate</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>William Jacob</title><link>https://MgaKristiyanongHesus.github.io/authors/william-jacob/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://MgaKristiyanongHesus.github.io/authors/william-jacob/</guid><description>&lt;p&gt;Doesn&amp;rsquo;t Exist&lt;/p&gt;</description></item></channel></rss>
