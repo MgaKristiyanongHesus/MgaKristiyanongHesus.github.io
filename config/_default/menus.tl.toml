@@ -33,10 +33,10 @@ name = "Mga Comics"
 url = "/comics"
 
 
-[[main]]
-parent = "More"
-name = "Mga Videos"
-url = "/videos"
+# [[main]]
+# parent = "More"
+# name = "Mga Videos"
+# url = "/videos"
 
 
 # [[main]]
