@@ -3,7 +3,7 @@
 languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 
 ################ Tagalog language ##################
 [tl]
