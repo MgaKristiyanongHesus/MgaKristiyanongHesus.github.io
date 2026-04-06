@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Get in touch!"
-    link: "/contact/"
+    link: "en/contact"
 
 # Features
 features:

@@ -4,7 +4,7 @@
   class=""
   lang="en-us"
   itemtype="http://schema.org/WebPage">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     
     <meta charset="utf-8" />
 
@@ -75,7 +75,6 @@
 
 
 
-  <base href="https://mgakristiyanonghesus.github.io/en/blog/space-without-spice/" />
 
 
 
@@ -164,8 +163,8 @@
       
       
       
-        <meta property="og:image" content="https://mgakristiyanonghesus.github.io/images/articles/pamu/SpaceW.webp" />
-        <meta name="twitter:image" content="https://mgakristiyanonghesus.github.io/images/articles/pamu/SpaceW.webp" />
+        <meta property="og:image" content="http://localhost:1313/images/articles/pamu/SpaceW.webp" />
+        <meta name="twitter:image" content="http://localhost:1313/images/articles/pamu/SpaceW.webp" />
         <meta
           name="twitter:card"
           content="summary_large_image" />
@@ -192,7 +191,7 @@
 <meta property="og:title" content="Space Without Spice" />
 <meta property="og:description" content="this is meta description" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://mgakristiyanonghesus.github.io/en/blog/space-without-spice/" />
+<meta property="og:url" content="http://localhost:1313/en/blog/space-without-spice/" />
 
 
 <meta name="twitter:title" content="Space Without Spice" />
@@ -221,7 +220,7 @@
 
 
 <script>
-  let indexURL = "https://mgakristiyanonghesus.github.io/en/searchindex.json";
+  let indexURL = "http://localhost:1313/en/searchindex.json";
   let includeSectionsInSearch = ["blog"];
   let search_no_results = "No results for";
   let search_initial_message = "Type something to search..";
@@ -327,22 +326,19 @@
 
 
 
-  
-  
-
 
 
 
 <link
-  href="/css/style.d9dcfb45850fe05a3ac521da06eef4b3248458f9e491a2a7c584db0d4ffa2059.css"
-  integrity="sha256-2dz7RYUP4Fo6xSHaBu70sySEWPnkkaKnxYTbDU/6IFk="
+  href="/css/style.css"
+  integrity=""
   rel="stylesheet" />
 
 
 <link
   rel="stylesheet"
-  href="/css/style-lazy.min.9e7e035d2f064fe004383f2ffc11a8f2966ef7b51c5fb2fac926e35c0061b5cf.css"
-  integrity="sha256-nn4DXS8GT&#43;AEOD8v/BGo8pZu97UcX7L6ySbjXABhtc8="
+  href="/css/style-lazy.css"
+  integrity=""
   media="print"
   onload="this.media='all'; this.onload=null;" />
 
@@ -356,7 +352,18 @@
 
 
 
+
+
       
+      <div
+  class="fixed left-0 top-0 z-50 flex w-[30px] items-center justify-center bg-gray-200 py-[2.5px] text-[12px] uppercase text-black sm:bg-red-200 md:bg-yellow-200 lg:bg-green-200 xl:bg-blue-200 2xl:bg-pink-200">
+  <span class="block sm:hidden">all</span>
+  <span class="hidden sm:block md:hidden">sm</span>
+  <span class="hidden md:block lg:hidden">md</span>
+  <span class="hidden lg:block xl:hidden">lg</span>
+  <span class="hidden xl:block 2xl:hidden">xl</span>
+  <span class="hidden 2xl:block">2xl</span>
+</div>
 
     
 
@@ -642,7 +649,7 @@
     
       <option
         id="tl"
-        value="https://mgakristiyanonghesus.github.io/tl/"
+        value="http://localhost:1313/tl/"
       
         >
         Tagalog
@@ -654,7 +661,7 @@
     
       <option
         id="en"
-        value="https://mgakristiyanonghesus.github.io/en/blog/space-without-spice/"
+        value="http://localhost:1313/en/blog/space-without-spice/"
       
         selected
       
@@ -1092,7 +1099,7 @@
   
     <a
       class="share-link share-facebook"
-      href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fmgakristiyanonghesus.github.io%2fen%2fblog%2fspace-without-spice%2f"
+      href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fen%2fblog%2fspace-without-spice%2f"
       target="_blank"
       rel="noopener"
       aria-label="share facebook">
@@ -1110,7 +1117,7 @@
   
     <a
       class="share-link share-x"
-      href="https://x.com/intent/tweet/?text=Space%20Without%20Spice&amp;url=https%3a%2f%2fmgakristiyanonghesus.github.io%2fen%2fblog%2fspace-without-spice%2f"
+      href="https://x.com/intent/tweet/?text=Space%20Without%20Spice&amp;url=http%3a%2f%2flocalhost%3a1313%2fen%2fblog%2fspace-without-spice%2f"
       target="_blank"
       rel="noopener"
       aria-label="share x">
@@ -1128,7 +1135,7 @@
   
     <a
       class="share-link share-email"
-      href="mailto:?subject=Space%20Without%20Spice&amp;body=https%3a%2f%2fmgakristiyanonghesus.github.io%2fen%2fblog%2fspace-without-spice%2f"
+      href="mailto:?subject=Space%20Without%20Spice&amp;body=http%3a%2f%2flocalhost%3a1313%2fen%2fblog%2fspace-without-spice%2f"
       target="_self"
       rel="noopener"
       aria-label="share email">
@@ -1201,10 +1208,10 @@
           type="text"
           placeholder="Enter Fediverse Instance URL"
           class="fediverse-input"
-          onkeypress="handleFediverseShare(event, 'https:\/\/mgakristiyanonghesus.github.io\/en\/blog\/space-without-spice\/', 'Space Without Spice')" />
+          onkeypress="handleFediverseShare(event, 'http:\/\/localhost:1313\/en\/blog\/space-without-spice\/', 'Space Without Spice')" />
         <button
           class="fediverse-check-button"
-          onclick="handleFediverseShareButton(this, 'https:\/\/mgakristiyanonghesus.github.io\/en\/blog\/space-without-spice\/', 'Space Without Spice')">
+          onclick="handleFediverseShareButton(this, 'http:\/\/localhost:1313\/en\/blog\/space-without-spice\/', 'Space Without Spice')">
           Share
         </button>
       </span>
@@ -1216,7 +1223,7 @@
   
     <button
       class="share-link share-copy"
-      onclick="copyToClipboard(this, 'https:\/\/mgakristiyanonghesus.github.io\/en\/blog\/space-without-spice\/')">
+      onclick="copyToClipboard(this, 'http:\/\/localhost:1313\/en\/blog\/space-without-spice\/')">
       <span class="share-icon">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
           <path
@@ -1383,31 +1390,31 @@
         <picture>
           <source
             
-              srcset="/images/articles/pamu/MinstryProp_hu_fd5eaf329c239237.webp"
+              srcset="/images/articles/LearnSee_hu_5fd68b46fcb49bf7.webp"
             
             media="(max-width: 575px)" />
           <source
             
-              srcset="/images/articles/pamu/MinstryProp_hu_40378b2e7a29900e.webp"
+              srcset="/images/articles/LearnSee_hu_6f625764043fdbd4.webp"
             
             media="(max-width: 767px)" />
           <source
             
-              srcset="/images/articles/pamu/MinstryProp_hu_fdf690a7e9f5e2cb.webp"
+              srcset="/images/articles/LearnSee_hu_3fc7bd6e8e7c068c.webp"
             
             media="(max-width: 991px)" />
           <source
             
-              srcset="/images/articles/pamu/MinstryProp_hu_be09604d791c9e06.webp"
+              srcset="/images/articles/LearnSee_hu_966e57715b1e8565.webp"
              />
           <img
             
               loading="lazy" decoding="async"
-              src="/images/articles/pamu/MinstryProp_hu_1de325c6244e4d36.webp"
+              src="/images/articles/LearnSee_hu_4fda44afa1df4705.webp"
             class=" mb-6 w-full rounded img"
-            alt="So, You Want to Start Your Own Ministry?"
+            alt="Learning To See"
             width="1920"
-            height="1280" />
+            height="1147" />
         </picture>
       
       
@@ -1421,162 +1428,8 @@
 
   
   <h4 class="mb-3">
-    <a href="/en/blog/you-want-to-start-your-own-ministry/">
-      So, You Want to Start Your Own Ministry?
-    </a>
-  </h4>
-  
-  
-    <ul class="mb-4">
-      <li class="mr-4 inline-block">
-        <a href="/en/authors//">
-          <i class="fa-regular fa-circle-user mr-2"></i>
-        </a>
-      </li>
-      <li class="mr-4 inline-block">
-        <i class="fa-regular fa-folder mr-1"></i>
-        
-          <a
-            href="/en/categories/leadership/"
-            class="ms-1"
-            >Leadership
-          </a>
-        
-      </li>
-    </ul>
-  
-  <p class="mb-6">People often write to us who are not satisfied with what they see in the churches today, and so they want to start their own ministry.
-</p>
-  <a class="btn btn-outline-primary btn-sm" href="/en/blog/you-want-to-start-your-own-ministry/">
-    Read More
-  </a>
-</div>
-
-              </div>
-            
-              <div class="lg:col-4 md:col-6 mb-14">
-                <div class="bg-body dark:bg-darkmode-body">
-  
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-  
-  
-    
-      
-    
-
-
-    
-    
-
-
-    
-    
-      
-      
-    
-    
-    
-
-
-    
-    
-      
-      
-        
-
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-
-        <picture>
-          <source
-            
-              srcset="/images/articles/Budgets_hu_8fedf2f2479c6f1c.webp"
-            
-            media="(max-width: 575px)" />
-          <source
-            
-              srcset="/images/articles/Budgets_hu_22c3e63ff4adc482.webp"
-            
-            media="(max-width: 767px)" />
-          <source
-            
-              srcset="/images/articles/Budgets_hu_86c73b2e8e16aa9f.webp"
-            
-            media="(max-width: 991px)" />
-          <source
-            
-              srcset="/images/articles/Budgets_hu_3828ba13bedc7769.webp"
-             />
-          <img
-            
-              loading="lazy" decoding="async"
-              src="/images/articles/Budgets_hu_810d3e25d2d03e63.webp"
-            class=" mb-6 w-full rounded img"
-            alt="Job List, Budgets, and Schedules"
-            width="1280"
-            height="720" />
-        </picture>
-      
-      
-    
-    
-  
-
-
-  
-
-
-  
-  <h4 class="mb-3">
-    <a href="/en/blog/jobs-list-budgets-and-schedules/">
-      Job List, Budgets, and Schedules
+    <a href="/en/blog/learning-to-see/">
+      Learning To See
     </a>
   </h4>
   
@@ -1599,9 +1452,9 @@
       </li>
     </ul>
   
-  <p class="mb-6">One of the best inventions in history must be that of daily schedules. Wristwatches (especially, cheap wristwatches) must be the next best invention. They made it possible for virtually everyone to co-ordinate their various schedules, so that people could arrange to be in the same place at the same time.
+  <p class="mb-6">Part One &ldquo;If the people cannot see where they are going, they will die.&rdquo; (Proverbs 29:18)
 </p>
-  <a class="btn btn-outline-primary btn-sm" href="/en/blog/jobs-list-budgets-and-schedules/">
+  <a class="btn btn-outline-primary btn-sm" href="/en/blog/learning-to-see/">
     Read More
   </a>
 </div>
@@ -1691,29 +1544,183 @@
         <picture>
           <source
             
-              srcset="/images/articles/quak/8Ways_hu_f2f7506bf43fb155.webp"
+              srcset="/images/articles/FiliPrayer_hu_9ec98a4a50258408.webp"
             
             media="(max-width: 575px)" />
           <source
             
-              srcset="/images/articles/quak/8Ways_hu_6c731c1e81fce3fa.webp"
+              srcset="/images/articles/FiliPrayer_hu_49ff706d7443b14b.webp"
             
             media="(max-width: 767px)" />
           <source
             
-              srcset="/images/articles/quak/8Ways_hu_3a2c949c6b04d604.webp"
+              srcset="/images/articles/FiliPrayer_hu_a639867a8b09afa5.webp"
             
             media="(max-width: 991px)" />
           <source
             
-              srcset="/images/articles/quak/8Ways_hu_c57a0421bdf3d9ba.webp"
+              srcset="/images/articles/FiliPrayer_hu_cbadd8bbf34746d4.webp"
              />
           <img
             
               loading="lazy" decoding="async"
-              src="/images/articles/quak/8Ways_hu_331b62d5a8ed074a.webp"
+              src="/images/articles/FiliPrayer_hu_a8100b7a763f9035.webp"
             class=" mb-6 w-full rounded img"
-            alt="Eight Ways to Know God&#39;s Will"
+            alt="Freedom, Prayer, and Besetting Sins"
+            width="1024"
+            height="1536" />
+        </picture>
+      
+      
+    
+    
+  
+
+
+  
+
+
+  
+  <h4 class="mb-3">
+    <a href="/en/blog/freedom-prayer-and-besetting-sins/">
+      Freedom, Prayer, and Besetting Sins
+    </a>
+  </h4>
+  
+  
+    <ul class="mb-4">
+      <li class="mr-4 inline-block">
+        <a href="/en/authors//">
+          <i class="fa-regular fa-circle-user mr-2"></i>
+        </a>
+      </li>
+      <li class="mr-4 inline-block">
+        <i class="fa-regular fa-folder mr-1"></i>
+        
+          <a
+            href="/en/categories/strong-meat/"
+            class="ms-1"
+            >Strong meat
+          </a>
+        
+      </li>
+    </ul>
+  
+  <p class="mb-6">I have a few different thoughts I would like to share with people, each one probably worthy of a short article on its own. However, until or unless I get some spare time to do them as separate articles, I will just kind of mix them all in together in this letter, since there is a common theme between them. The theme is just an expression of concern about where people are heading spiritually, particularly in light of individual bases now being autonomous to one another.
+</p>
+  <a class="btn btn-outline-primary btn-sm" href="/en/blog/freedom-prayer-and-besetting-sins/">
+    Read More
+  </a>
+</div>
+
+              </div>
+            
+              <div class="lg:col-4 md:col-6 mb-14">
+                <div class="bg-body dark:bg-darkmode-body">
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+  
+    
+      
+    
+
+
+    
+    
+
+
+    
+    
+      
+      
+    
+    
+    
+
+
+    
+    
+      
+      
+        
+
+        
+        
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+        <picture>
+          <source
+            
+              srcset="/images/articles/TurnTime_hu_c26796d9c6ee0f51.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="/images/articles/TurnTime_hu_a688ff1cc01e333d.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="/images/articles/TurnTime_hu_25838973b0891ec3.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="/images/articles/TurnTime_hu_b9e019ee3ce0cbb5.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="/images/articles/TurnTime_hu_baef3f751c9de0e.webp"
+            class=" mb-6 w-full rounded img"
+            alt="Buying Time"
             width="1920"
             height="1280" />
         </picture>
@@ -1729,8 +1736,8 @@
 
   
   <h4 class="mb-3">
-    <a href="/en/blog/eight-ways-to-know-gods-will/">
-      Eight Ways to Know God&#39;s Will
+    <a href="/en/blog/redeem-the-time/">
+      Buying Time
     </a>
   </h4>
   
@@ -1745,17 +1752,17 @@
         <i class="fa-regular fa-folder mr-1"></i>
         
           <a
-            href="/en/categories/quaker-similarities/"
+            href="/en/categories/inspirational/"
             class="ms-1"
-            >Quaker similarities
+            >Inspirational
           </a>
         
       </li>
     </ul>
   
-  <p class="mb-6">There is nothing particularly &lsquo;Quakerish&rsquo; about this article, except as it could relate to the concept of silent worship, where Friends believe that God can speak to people.
+  <p class="mb-6">Time is life. When you give your time to a person or thing, you are giving your life. When you &ldquo;kill time&rdquo;, you are destroying your life. When you use time well, you are using your life well.
 </p>
-  <a class="btn btn-outline-primary btn-sm" href="/en/blog/eight-ways-to-know-gods-will/">
+  <a class="btn btn-outline-primary btn-sm" href="/en/blog/redeem-the-time/">
     Read More
   </a>
 </div>
@@ -2002,23 +2009,20 @@
 
 
 
-  
-  
-
 
 
 <script
   crossorigin="anonymous"
-  integrity="sha256-zUUY1J7EbAs1/ZcmAVuDi&#43;kVdyetlVJGGkSznCrrBXM="
-  src="/js/script.min.cd4518d49ec46c0b35fd9726015b838be9157727ad9552461a44b39c2aeb0573.js"></script>
+  integrity=""
+  src="/js/script.js"></script>
 
 
 <script
   defer
   async
   crossorigin="anonymous"
-  integrity="sha256-Tepkyiz3fPNRN5b/zeXpMa&#43;kXqPe6OTOVk&#43;Kdey5R0k="
-  src="/js/script-lazy.min.4dea64ca2cf77cf3513796ffcde5e931afa45ea3dee8e4ce564f8a75ecb94749.js"></script>
+  integrity=""
+  src="/js/script-lazy.js"></script>
 
 
 

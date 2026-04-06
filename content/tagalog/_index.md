@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Kontakin Kami!"
-    link: "/contact/"
+    link: "tl/contact"
 
 # Features
 features:
