@@ -2,89 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/blog/</loc>
-    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/comics/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
-                href="http://localhost:1313/tl/blog/"
+                href="http://localhost:1313/tl/comics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/blog/"
+                href="http://localhost:1313/en/comics/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/authors/</loc>
+    <loc>http://localhost:1313/en/faq/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tl"
-                href="http://localhost:1313/tl/authors/"
+                href="http://localhost:1313/tl/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/authors/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="http://localhost:1313/tl/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/contact/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="http://localhost:1313/tl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/about/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/pages/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="http://localhost:1313/tl/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/pages/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/sections/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tl"
-                href="http://localhost:1313/tl/sections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/sections/"
+                href="http://localhost:1313/en/faq/"
                 />
   </url>
 </urlset>
