@@ -1,9 +1,9 @@
-{{- /* layouts/_default/sitemap.xml */ -}}
 {{- $pages := where .Site.RegularPages "Kind" "in" (slice "page" "section") -}}
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {{- range $pages }}
+{{- if .Permalink }}
   <url>
     <loc>{{ .Permalink }}</loc>
     <changefreq>{{ with .Params.changefreq }}{{ . }}{{ else }}daily{{ end }}</changefreq>
@@ -13,5 +13,6 @@
     {{- end }}
     <xhtml:link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}"/>
   </url>
+{{- end }}
 {{- end }}
 </urlset>
