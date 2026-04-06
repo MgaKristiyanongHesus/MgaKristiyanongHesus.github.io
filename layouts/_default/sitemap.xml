@@ -1,13 +1,13 @@
 {{- $pages := where .Site.RegularPages "Kind" "in" (slice "page" "section") -}}
-{{- "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {{- range $pages }}
 {{- if .Permalink }}
   <url>
     <loc>{{ .Permalink }}</loc>
-    <changefreq>{{ with .Params.changefreq }}{{ . }}{{ else }}daily{{ end }}</changefreq>
-    <priority>{{ with .Params.priority }}{{ . }}{{ else }}0.5{{ end }}</priority>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     {{- range .Translations }}
     <xhtml:link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}"/>
     {{- end }}
