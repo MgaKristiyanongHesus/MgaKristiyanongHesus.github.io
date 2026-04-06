@@ -69,6 +69,10 @@ changefreq = "daily"
 priority = 0.5
 filename = "sitemap.xml"
 
+[minify]
+  disableXML = true
+
+
 ############################# Robots.txt ##########################
 # Create this file in static/robots.txt
 # User-agent: *
